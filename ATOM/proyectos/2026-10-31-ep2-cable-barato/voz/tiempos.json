@@ -1,0 +1,1254 @@
+{
+  "firma": "0616390185f0",
+  "duracion": 55.2,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "¿Sabías que la carga rápida original no daña tu celular, pero un cable barato sí puede quemarlo por dentro?",
+      "clave": "cable",
+      "inicio": 0,
+      "fin": 6.16
+    },
+    {
+      "n": 2,
+      "texto": "Por fuera los dos cables se ven iguales, pero por dentro uno viene vacío.",
+      "clave": "vacío",
+      "inicio": 6.2,
+      "fin": 10.44
+    },
+    {
+      "n": 3,
+      "texto": "El cable original trae un microchip que negocia el voltaje exacto con tu celular.",
+      "clave": "microchip",
+      "inicio": 10.64,
+      "fin": 14.96
+    },
+    {
+      "n": 4,
+      "texto": "Carga rápido hasta el 80 % y frena solo para no calentar la batería.",
+      "clave": "frena",
+      "inicio": 15.12,
+      "fin": 19.84
+    },
+    {
+      "n": 5,
+      "texto": "En cambio, el cable barato no trae chip y usa hilos de cobre finísimos.",
+      "clave": "cobre",
+      "inicio": 19.92,
+      "fin": 24.32
+    },
+    {
+      "n": 6,
+      "texto": "Es como meter toda el agua de tu casa por un tubo finito sin válvula: la unión revienta.",
+      "clave": "válvula",
+      "inicio": 24.48,
+      "fin": 29.92
+    },
+    {
+      "n": 7,
+      "texto": "Sin control, la corriente calienta los pines del puerto y quema el chip de carga interior.",
+      "clave": "quema",
+      "inicio": 30.08,
+      "fin": 34.8
+    },
+    {
+      "n": 8,
+      "texto": "Por eso la punta quema al tocarla y tu celular solo carga cuando doblas el cable.",
+      "clave": "doblas",
+      "inicio": 34.96,
+      "fin": 39.52
+    },
+    {
+      "n": 9,
+      "texto": "Para evitarlo, usa cables certificados y desconéctalo de inmediato si la punta se calienta.",
+      "clave": "certificados",
+      "inicio": 39.56,
+      "fin": 44.72
+    },
+    {
+      "n": 10,
+      "texto": "Envíaselo a ese amigo que siempre compra el cable más barato de la esquina.",
+      "clave": "amigo",
+      "inicio": 44.8,
+      "fin": 48.68
+    },
+    {
+      "n": 11,
+      "texto": "Y mañana, episodio tres: dónde quedan de verdad las fotos que borras de tu celular.",
+      "clave": "fotos",
+      "inicio": 48.96,
+      "fin": 54.4
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "¿Sabías",
+      "inicio": 0,
+      "fin": 0.4,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 0.48,
+      "fin": 0.56,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 0.6,
+      "fin": 0.64,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "carga",
+      "inicio": 0.72,
+      "fin": 0.96,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "rápida",
+      "inicio": 1.04,
+      "fin": 1.36,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "original",
+      "inicio": 1.6,
+      "fin": 1.84,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 2,
+      "fin": 2.08,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "daña",
+      "inicio": 2.16,
+      "fin": 2.4,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 2.48,
+      "fin": 2.56,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "celular,",
+      "inicio": 2.64,
+      "fin": 3.28,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "pero",
+      "inicio": 3.36,
+      "fin": 3.493,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 3.547,
+      "fin": 3.6,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "cable",
+      "inicio": 3.64,
+      "fin": 3.84,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "barato",
+      "inicio": 3.92,
+      "fin": 4.32,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "sí",
+      "inicio": 4.4,
+      "fin": 4.56,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "puede",
+      "inicio": 4.64,
+      "fin": 4.8,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "quemarlo",
+      "inicio": 4.88,
+      "fin": 5.28,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 5.32,
+      "fin": 5.36,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "dentro?",
+      "inicio": 5.44,
+      "fin": 6.16,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "Por",
+      "inicio": 6.2,
+      "fin": 6.24,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "fuera",
+      "inicio": 6.32,
+      "fin": 6.56,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 6.64,
+      "fin": 6.8,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "dos",
+      "inicio": 6.88,
+      "fin": 7.04,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "cables",
+      "inicio": 7.12,
+      "fin": 7.36,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 7.4,
+      "fin": 7.44,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "ven",
+      "inicio": 7.52,
+      "fin": 7.6,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "iguales,",
+      "inicio": 7.68,
+      "fin": 8.32,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "pero",
+      "inicio": 8.4,
+      "fin": 8.52,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 8.56,
+      "fin": 8.64,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "dentro",
+      "inicio": 8.72,
+      "fin": 9.04,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "uno",
+      "inicio": 9.28,
+      "fin": 9.52,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "viene",
+      "inicio": 9.56,
+      "fin": 9.76,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "vacío.",
+      "inicio": 9.88,
+      "fin": 10.44,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "El",
+      "inicio": 10.64,
+      "fin": 10.72,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "cable",
+      "inicio": 10.8,
+      "fin": 10.96,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "original",
+      "inicio": 11.2,
+      "fin": 11.44,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "trae",
+      "inicio": 11.52,
+      "fin": 11.72,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 11.76,
+      "fin": 11.84,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "microchip",
+      "inicio": 11.92,
+      "fin": 12.4,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "que",
+      "inicio": 12.48,
+      "fin": 12.56,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "negocia",
+      "inicio": 12.64,
+      "fin": 12.96,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 13,
+      "fin": 13.04,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "voltaje",
+      "inicio": 13.16,
+      "fin": 13.52,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "exacto",
+      "inicio": 13.76,
+      "fin": 14.04,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "con",
+      "inicio": 14.08,
+      "fin": 14.16,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 14.24,
+      "fin": 14.32,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "celular.",
+      "inicio": 14.4,
+      "fin": 14.96,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "Carga",
+      "inicio": 15.12,
+      "fin": 15.36,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "rápido",
+      "inicio": 15.44,
+      "fin": 15.76,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "hasta",
+      "inicio": 15.813,
+      "fin": 15.92,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 16,
+      "fin": 16.04,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "80",
+      "inicio": 16.08,
+      "fin": 17.04,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 17.2,
+      "fin": 17.28,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "frena",
+      "inicio": 17.36,
+      "fin": 17.68,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "solo",
+      "inicio": 17.84,
+      "fin": 18.08,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "para",
+      "inicio": 18.16,
+      "fin": 18.32,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 18.4,
+      "fin": 18.48,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "calentar",
+      "inicio": 18.56,
+      "fin": 18.88,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 18.92,
+      "fin": 18.96,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "batería.",
+      "inicio": 19.04,
+      "fin": 19.84,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "En",
+      "inicio": 19.92,
+      "fin": 20,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "cambio,",
+      "inicio": 20.107,
+      "fin": 20.48,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 20.52,
+      "fin": 20.56,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "cable",
+      "inicio": 20.64,
+      "fin": 20.88,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "barato",
+      "inicio": 20.96,
+      "fin": 21.36,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 21.44,
+      "fin": 21.52,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "trae",
+      "inicio": 21.6,
+      "fin": 21.84,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "chip",
+      "inicio": 21.92,
+      "fin": 22.24,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 22.28,
+      "fin": 22.32,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "usa",
+      "inicio": 22.4,
+      "fin": 22.64,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "hilos",
+      "inicio": 22.72,
+      "fin": 22.88,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 22.92,
+      "fin": 22.96,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "cobre",
+      "inicio": 23.04,
+      "fin": 23.28,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "finísimos.",
+      "inicio": 23.44,
+      "fin": 24.32,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "Es",
+      "inicio": 24.48,
+      "fin": 24.56,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "como",
+      "inicio": 24.64,
+      "fin": 24.8,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "meter",
+      "inicio": 24.96,
+      "fin": 25.12,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "toda",
+      "inicio": 25.28,
+      "fin": 25.44,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 25.52,
+      "fin": 25.6,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "agua",
+      "inicio": 25.68,
+      "fin": 25.76,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 25.84,
+      "fin": 25.88,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 25.92,
+      "fin": 26.08,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "casa",
+      "inicio": 26.16,
+      "fin": 26.32,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 26.4,
+      "fin": 26.48,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 26.56,
+      "fin": 26.64,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "tubo",
+      "inicio": 26.72,
+      "fin": 26.88,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "finito",
+      "inicio": 26.96,
+      "fin": 27.44,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "sin",
+      "inicio": 27.52,
+      "fin": 27.68,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "válvula:",
+      "inicio": 27.76,
+      "fin": 28.48,
+      "frase": 6,
+      "clave": true
+    },
+    {
+      "texto": "la",
+      "inicio": 28.52,
+      "fin": 28.56,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "unión",
+      "inicio": 28.64,
+      "fin": 28.96,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "revienta.",
+      "inicio": 29.12,
+      "fin": 29.92,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "Sin",
+      "inicio": 30.08,
+      "fin": 30.24,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "control,",
+      "inicio": 30.48,
+      "fin": 30.88,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 30.92,
+      "fin": 30.96,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "corriente",
+      "inicio": 31.04,
+      "fin": 31.44,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "calienta",
+      "inicio": 31.56,
+      "fin": 31.92,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 32,
+      "fin": 32.08,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "pines",
+      "inicio": 32.16,
+      "fin": 32.4,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "del",
+      "inicio": 32.44,
+      "fin": 32.48,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "puerto",
+      "inicio": 32.56,
+      "fin": 32.96,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 33.04,
+      "fin": 33.12,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "quema",
+      "inicio": 33.2,
+      "fin": 33.44,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "el",
+      "inicio": 33.48,
+      "fin": 33.52,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "chip",
+      "inicio": 33.6,
+      "fin": 33.76,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 33.8,
+      "fin": 33.84,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "carga",
+      "inicio": 33.92,
+      "fin": 34.16,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "interior.",
+      "inicio": 34.28,
+      "fin": 34.8,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "Por",
+      "inicio": 34.96,
+      "fin": 35.04,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "eso",
+      "inicio": 35.12,
+      "fin": 35.28,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 35.32,
+      "fin": 35.36,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "punta",
+      "inicio": 35.44,
+      "fin": 35.76,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "quema",
+      "inicio": 35.84,
+      "fin": 36.08,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "al",
+      "inicio": 36.12,
+      "fin": 36.16,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "tocarla",
+      "inicio": 36.28,
+      "fin": 36.64,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 36.8,
+      "fin": 36.84,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 36.88,
+      "fin": 36.96,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "celular",
+      "inicio": 37.04,
+      "fin": 37.44,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "solo",
+      "inicio": 37.52,
+      "fin": 37.76,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "carga",
+      "inicio": 37.84,
+      "fin": 38.08,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "cuando",
+      "inicio": 38.16,
+      "fin": 38.4,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "doblas",
+      "inicio": 38.48,
+      "fin": 38.72,
+      "frase": 8,
+      "clave": true
+    },
+    {
+      "texto": "el",
+      "inicio": 38.76,
+      "fin": 38.8,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "cable.",
+      "inicio": 38.88,
+      "fin": 39.52,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "Para",
+      "inicio": 39.56,
+      "fin": 39.6,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "evitarlo,",
+      "inicio": 39.68,
+      "fin": 40.4,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "usa",
+      "inicio": 40.52,
+      "fin": 40.64,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "cables",
+      "inicio": 40.72,
+      "fin": 40.96,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "certificados",
+      "inicio": 41.08,
+      "fin": 41.76,
+      "frase": 9,
+      "clave": true
+    },
+    {
+      "texto": "y",
+      "inicio": 41.84,
+      "fin": 41.88,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "desconéctalo",
+      "inicio": 41.92,
+      "fin": 42.56,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 42.6,
+      "fin": 42.64,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "inmediato",
+      "inicio": 42.72,
+      "fin": 43.28,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "si",
+      "inicio": 43.36,
+      "fin": 43.44,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 43.48,
+      "fin": 43.52,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "punta",
+      "inicio": 43.6,
+      "fin": 43.84,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 43.88,
+      "fin": 43.92,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "calienta.",
+      "inicio": 44,
+      "fin": 44.72,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 44.8,
+      "fin": 45.2,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 45.24,
+      "fin": 45.28,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 45.36,
+      "fin": 45.44,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "amigo",
+      "inicio": 45.52,
+      "fin": 45.76,
+      "frase": 10,
+      "clave": true
+    },
+    {
+      "texto": "que",
+      "inicio": 45.84,
+      "fin": 45.92,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "siempre",
+      "inicio": 46.08,
+      "fin": 46.48,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "compra",
+      "inicio": 46.56,
+      "fin": 46.72,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 46.8,
+      "fin": 46.84,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "cable",
+      "inicio": 46.88,
+      "fin": 47.12,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 47.28,
+      "fin": 47.44,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "barato",
+      "inicio": 47.52,
+      "fin": 47.76,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 47.84,
+      "fin": 47.92,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 47.947,
+      "fin": 47.973,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "esquina.",
+      "inicio": 48,
+      "fin": 48.68,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "Y",
+      "inicio": 48.96,
+      "fin": 49.04,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "mañana,",
+      "inicio": 49.12,
+      "fin": 49.68,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "episodio",
+      "inicio": 49.76,
+      "fin": 50.24,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "tres:",
+      "inicio": 50.32,
+      "fin": 51.04,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "dónde",
+      "inicio": 51.12,
+      "fin": 51.44,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "quedan",
+      "inicio": 51.493,
+      "fin": 51.68,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 51.76,
+      "fin": 51.84,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "verdad",
+      "inicio": 51.92,
+      "fin": 52.4,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "las",
+      "inicio": 52.48,
+      "fin": 52.64,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "fotos",
+      "inicio": 52.72,
+      "fin": 52.96,
+      "frase": 11,
+      "clave": true
+    },
+    {
+      "texto": "que",
+      "inicio": 53.04,
+      "fin": 53.12,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "borras",
+      "inicio": 53.2,
+      "fin": 53.44,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 53.48,
+      "fin": 53.52,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 53.6,
+      "fin": 53.64,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "celular.",
+      "inicio": 53.68,
+      "fin": 54.4,
+      "frase": 11,
+      "clave": false
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "firma": "8da3d8fc363e",
+  "duracion": 19.44,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "¿Por qué tomar café apenas despiertas te da más sueño a mediodía?",
+      "clave": "mediodía",
+      "inicio": 0,
+      "fin": 3.92
+    },
+    {
+      "n": 2,
+      "texto": "Al levantarte, tu cuerpo ya enciende solo su pico natural de energía.",
+      "clave": "energía",
+      "inicio": 4.16,
+      "fin": 8.48
+    },
+    {
+      "n": 3,
+      "texto": "El café solo tapa el cansancio como un corcho, y a mediodía salta de golpe.",
+      "clave": "corcho",
+      "inicio": 8.72,
+      "fin": 13.6
+    },
+    {
+      "n": 4,
+      "texto": "Espera 90 minutos al despertar. Envíaselo a ese amigo que vive con sueño.",
+      "clave": "minutos",
+      "inicio": 13.84,
+      "fin": 18.64
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "¿Por",
+      "inicio": 0,
+      "fin": 0.16,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "qué",
+      "inicio": 0.2,
+      "fin": 0.24,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "tomar",
+      "inicio": 0.32,
+      "fin": 0.56,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "café",
+      "inicio": 0.64,
+      "fin": 0.96,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "apenas",
+      "inicio": 1.04,
+      "fin": 1.36,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "despiertas",
+      "inicio": 1.48,
+      "fin": 2,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "te",
+      "inicio": 2.08,
+      "fin": 2.16,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "da",
+      "inicio": 2.24,
+      "fin": 2.32,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 2.48,
+      "fin": 2.64,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "sueño",
+      "inicio": 2.72,
+      "fin": 3.04,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 3.08,
+      "fin": 3.12,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "mediodía?",
+      "inicio": 3.2,
+      "fin": 3.92,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "Al",
+      "inicio": 4.16,
+      "fin": 4.24,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "levantarte,",
+      "inicio": 4.32,
+      "fin": 5.12,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 5.2,
+      "fin": 5.28,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "cuerpo",
+      "inicio": 5.333,
+      "fin": 5.6,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "ya",
+      "inicio": 5.68,
+      "fin": 5.84,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "enciende",
+      "inicio": 5.96,
+      "fin": 6.32,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "solo",
+      "inicio": 6.4,
+      "fin": 6.64,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "su",
+      "inicio": 6.72,
+      "fin": 6.8,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "pico",
+      "inicio": 6.88,
+      "fin": 7.12,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "natural",
+      "inicio": 7.36,
+      "fin": 7.6,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 7.64,
+      "fin": 7.68,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "energía.",
+      "inicio": 7.76,
+      "fin": 8.48,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "El",
+      "inicio": 8.72,
+      "fin": 8.88,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "café",
+      "inicio": 8.96,
+      "fin": 9.2,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "solo",
+      "inicio": 9.24,
+      "fin": 9.44,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "tapa",
+      "inicio": 9.6,
+      "fin": 9.84,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 9.88,
+      "fin": 9.92,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "cansancio",
+      "inicio": 10,
+      "fin": 10.56,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "como",
+      "inicio": 10.64,
+      "fin": 10.72,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 10.8,
+      "fin": 10.88,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "corcho,",
+      "inicio": 10.96,
+      "fin": 11.6,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "y",
+      "inicio": 11.68,
+      "fin": 11.72,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 11.76,
+      "fin": 11.8,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "mediodía",
+      "inicio": 11.84,
+      "fin": 12.4,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "salta",
+      "inicio": 12.48,
+      "fin": 12.8,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 12.84,
+      "fin": 12.88,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "golpe.",
+      "inicio": 12.96,
+      "fin": 13.6,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "Espera",
+      "inicio": 13.84,
+      "fin": 14.16,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "90",
+      "inicio": 14.24,
+      "fin": 14.64,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "minutos",
+      "inicio": 14.72,
+      "fin": 15.12,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "al",
+      "inicio": 15.16,
+      "fin": 15.2,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "despertar.",
+      "inicio": 15.28,
+      "fin": 16.24,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 16.36,
+      "fin": 16.8,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 16.84,
+      "fin": 16.88,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 16.96,
+      "fin": 17.04,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "amigo",
+      "inicio": 17.12,
+      "fin": 17.36,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 17.44,
+      "fin": 17.52,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "vive",
+      "inicio": 17.6,
+      "fin": 17.84,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "con",
+      "inicio": 17.88,
+      "fin": 17.92,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "sueño.",
+      "inicio": 18,
+      "fin": 18.64,
+      "frase": 4,
+      "clave": false
+    }
+  ]
+}

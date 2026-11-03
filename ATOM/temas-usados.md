@@ -1,0 +1,10 @@
+- 2026-10-29: Por qué el cielo es azul (`2026-10-29-por-que-el-cielo-es-azul`, Cine Nocturno)
+- 2026-10-30: Tu esencia no se diseña, se descubre — PNL (`2026-10-30-tu-esencia-no-se-disena-cine`, `2026-10-30-tu-esencia-no-se-disena-atom`, `2026-10-30-tu-esencia-no-se-disena-neon`)
+
+- 2026-10-31: Apagar el WiFi en la barra rápida no lo apaga de verdad (`2026-10-31-ep1-wifi-barra-rapida`, ATOM · Serie Mitos de tu Celular EP. 1)
+- 2026-10-31: La carga rápida original no daña tu celular, pero un cable barato sin chip sí (`2026-10-31-ep2-cable-barato`, ATOM · Serie Mitos de tu Celular EP. 2)
+- 2026-10-31: Borrar una foto y vaciar la papelera no la borra del chip al instante (`2026-10-31-ep3-fotos-borradas`, ATOM · Serie Mitos de tu Celular EP. 3)
+- 2026-10-31: Una cámara de 200 megapíxeles no toma mejores fotos de noche que una de 48 (`2026-10-31-ep4-camara-200mp`, ATOM · Serie Mitos de tu Celular EP. 4)
+- 2026-11-02: Por qué tomar café recién despertado da más sueño a mediodía (`2026-11-02-cafe-despertar`, ATOM · Modo Claro)
+- 2026-11-02: Por qué posponer la alarma 5 minutos te deja más cansado todo el día (`2026-11-02-alarma-cinco-minutos`, ATOM · Modo Claro)
+- 2026-11-02: Por qué lavar los platos a mano gasta 4 veces más agua que el lavavajillas (`2026-11-02-platos-mano-agua`, ATOM · Modo Claro)

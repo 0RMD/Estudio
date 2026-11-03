@@ -1,0 +1,323 @@
+{
+  "firma": "1ad529255bb2",
+  "duracion": 16.08,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "Tu cerebro consume la quinta parte de toda tu energia.",
+      "clave": "quinta",
+      "inicio": 0,
+      "fin": 3.76
+    },
+    {
+      "n": 2,
+      "texto": "Pesa poco, pero gasta como una bombilla encendida todo el dia.",
+      "clave": "bombilla",
+      "inicio": 3.84,
+      "fin": 7.92
+    },
+    {
+      "n": 3,
+      "texto": "Cuando piensas mucho, no gasta mucho mas.",
+      "clave": "mas",
+      "inicio": 7.96,
+      "fin": 10.64
+    },
+    {
+      "n": 4,
+      "texto": "El gasto grande es mantenerlo vivo.",
+      "clave": "vivo",
+      "inicio": 10.72,
+      "fin": 13.2
+    },
+    {
+      "n": 5,
+      "texto": "Por eso nunca descansa de verdad.",
+      "clave": "descansa",
+      "inicio": 13.24,
+      "fin": 15.28
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "Tu",
+      "inicio": 0,
+      "fin": 0.16,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "cerebro",
+      "inicio": 0.2,
+      "fin": 0.56,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "consume",
+      "inicio": 0.76,
+      "fin": 0.96,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 1.04,
+      "fin": 1.12,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "quinta",
+      "inicio": 1.28,
+      "fin": 1.6,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "parte",
+      "inicio": 1.76,
+      "fin": 2.08,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 2.2,
+      "fin": 2.32,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "toda",
+      "inicio": 2.4,
+      "fin": 2.64,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 2.72,
+      "fin": 2.8,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "energia.",
+      "inicio": 2.92,
+      "fin": 3.76,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "Pesa",
+      "inicio": 3.84,
+      "fin": 4,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "poco,",
+      "inicio": 4.08,
+      "fin": 4.64,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "pero",
+      "inicio": 4.72,
+      "fin": 4.84,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "gasta",
+      "inicio": 4.88,
+      "fin": 5.2,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "como",
+      "inicio": 5.32,
+      "fin": 5.44,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 5.52,
+      "fin": 5.68,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "bombilla",
+      "inicio": 5.8,
+      "fin": 6.08,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "encendida",
+      "inicio": 6.16,
+      "fin": 6.72,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "todo",
+      "inicio": 6.8,
+      "fin": 7.04,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 7.12,
+      "fin": 7.2,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "dia.",
+      "inicio": 7.32,
+      "fin": 7.92,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "Cuando",
+      "inicio": 7.96,
+      "fin": 8.16,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "piensas",
+      "inicio": 8.2,
+      "fin": 8.56,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "mucho,",
+      "inicio": 8.6,
+      "fin": 9.12,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 9.2,
+      "fin": 9.28,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "gasta",
+      "inicio": 9.32,
+      "fin": 9.6,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "mucho",
+      "inicio": 9.64,
+      "fin": 9.84,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "mas.",
+      "inicio": 9.92,
+      "fin": 10.64,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "El",
+      "inicio": 10.72,
+      "fin": 10.8,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "gasto",
+      "inicio": 10.907,
+      "fin": 11.12,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "grande",
+      "inicio": 11.2,
+      "fin": 11.68,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 11.76,
+      "fin": 11.84,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "mantenerlo",
+      "inicio": 11.92,
+      "fin": 12.4,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "vivo.",
+      "inicio": 12.48,
+      "fin": 13.2,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "Por",
+      "inicio": 13.24,
+      "fin": 13.28,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "eso",
+      "inicio": 13.36,
+      "fin": 13.68,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "nunca",
+      "inicio": 13.72,
+      "fin": 14,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "descansa",
+      "inicio": 14.08,
+      "fin": 14.56,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "de",
+      "inicio": 14.6,
+      "fin": 14.64,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "verdad.",
+      "inicio": 14.72,
+      "fin": 15.28,
+      "frase": 5,
+      "clave": false
+    }
+  ]
+}

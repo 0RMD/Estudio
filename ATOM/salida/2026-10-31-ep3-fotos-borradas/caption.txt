@@ -1,0 +1,10 @@
+Borrar una foto y vaciar la papelera NO la borra del chip de tu celular
+
+Cuando borras una foto y vacías la papelera, desaparece de tu galería al instante, pero sus píxeles siguen guardados en la memoria NAND Flash.
+
+Para no desgastar las celdas con electricidad cada vez, el sistema solo tacha su dirección en el índice (como arrancar un renglón del índice de un libro dejando la página intacta) hasta que fotos o videos nuevos escriben encima.
+
+Regla de oro antes de vender o regalar tu celular viejo: no borres tus cosas a mano una por una. Entra a Ajustes y usa «Restablecer de fábrica» para destruir la llave secreta de cifrado 📱
+Envíaselo a ese amigo que está por cambiar de teléfono 👇
+
+#puraprueba #privacidad #trucoscelular #seguridad #iphone #android #tecnologia

@@ -1,0 +1,62 @@
+{
+  "titulo": "Un cable barato sí quema tu celular por dentro",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "voz": {
+    "id": "gWaDC0oXAheKoZfljzuI",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.4,
+    "similitud": 0.8,
+    "estilo": 0,
+    "velocidad": 1.12
+  },
+  "frases": [
+    {
+      "texto": "¿Sabías que la carga rápida original no daña tu celular, pero un cable barato sí puede quemarlo por dentro?",
+      "clave": "cable",
+      "hook": true
+    },
+    {
+      "texto": "Por fuera los dos cables se ven iguales, pero por dentro uno viene vacío.",
+      "clave": "vacío",
+      "hook": true
+    },
+    {
+      "texto": "El cable original trae un microchip que negocia el voltaje exacto con tu celular.",
+      "clave": "microchip"
+    },
+    {
+      "texto": "Carga rápido hasta el 80 % y frena solo para no calentar la batería.",
+      "dicho": "Carga rápido hasta el ochenta por ciento y frena solo para no calentar la batería.",
+      "clave": "frena"
+    },
+    {
+      "texto": "En cambio, el cable barato no trae chip y usa hilos de cobre finísimos.",
+      "clave": "cobre"
+    },
+    {
+      "texto": "Es como meter toda el agua de tu casa por un tubo finito sin válvula: la unión revienta.",
+      "clave": "válvula"
+    },
+    {
+      "texto": "Sin control, la corriente calienta los pines del puerto y quema el chip de carga interior.",
+      "clave": "quema"
+    },
+    {
+      "texto": "Por eso la punta quema al tocarla y tu celular solo carga cuando doblas el cable.",
+      "clave": "doblas"
+    },
+    {
+      "texto": "Para evitarlo, usa cables certificados y desconéctalo de inmediato si la punta se calienta.",
+      "clave": "certificados"
+    },
+    {
+      "texto": "Envíaselo a ese amigo que siempre compra el cable más barato de la esquina.",
+      "clave": "amigo"
+    },
+    {
+      "texto": "Y mañana, episodio tres: dónde quedan de verdad las fotos que borras de tu celular.",
+      "clave": "fotos"
+    }
+  ]
+}

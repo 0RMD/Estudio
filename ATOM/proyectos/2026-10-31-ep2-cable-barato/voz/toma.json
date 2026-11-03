@@ -1,0 +1,859 @@
+{
+  "firma": "0616390185f0",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "gWaDC0oXAheKoZfljzuI",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.4,
+    "similitud": 0.8,
+    "estilo": 0,
+    "velocidad": 1.12
+  },
+  "palabras": [
+    {
+      "texto": "¿Sabías",
+      "inicio": 0,
+      "fin": 0.4
+    },
+    {
+      "texto": "que",
+      "inicio": 0.48,
+      "fin": 0.56
+    },
+    {
+      "texto": "la",
+      "inicio": 0.6,
+      "fin": 0.64
+    },
+    {
+      "texto": "carga",
+      "inicio": 0.72,
+      "fin": 0.96
+    },
+    {
+      "texto": "rápida",
+      "inicio": 1.04,
+      "fin": 1.36
+    },
+    {
+      "texto": "original",
+      "inicio": 1.6,
+      "fin": 1.84
+    },
+    {
+      "texto": "no",
+      "inicio": 2,
+      "fin": 2.08
+    },
+    {
+      "texto": "daña",
+      "inicio": 2.16,
+      "fin": 2.4
+    },
+    {
+      "texto": "tu",
+      "inicio": 2.48,
+      "fin": 2.56
+    },
+    {
+      "texto": "celular,",
+      "inicio": 2.64,
+      "fin": 3.28
+    },
+    {
+      "texto": "pero",
+      "inicio": 3.36,
+      "fin": 3.493
+    },
+    {
+      "texto": "un",
+      "inicio": 3.547,
+      "fin": 3.6
+    },
+    {
+      "texto": "cable",
+      "inicio": 3.64,
+      "fin": 3.84
+    },
+    {
+      "texto": "barato",
+      "inicio": 3.92,
+      "fin": 4.32
+    },
+    {
+      "texto": "sí",
+      "inicio": 4.4,
+      "fin": 4.56
+    },
+    {
+      "texto": "puede",
+      "inicio": 4.64,
+      "fin": 4.8
+    },
+    {
+      "texto": "quemarlo",
+      "inicio": 4.88,
+      "fin": 5.28
+    },
+    {
+      "texto": "por",
+      "inicio": 5.32,
+      "fin": 5.36
+    },
+    {
+      "texto": "dentro?",
+      "inicio": 5.44,
+      "fin": 6.16
+    },
+    {
+      "texto": "Por",
+      "inicio": 6.2,
+      "fin": 6.24
+    },
+    {
+      "texto": "fuera",
+      "inicio": 6.32,
+      "fin": 6.56
+    },
+    {
+      "texto": "los",
+      "inicio": 6.64,
+      "fin": 6.8
+    },
+    {
+      "texto": "dos",
+      "inicio": 6.88,
+      "fin": 7.04
+    },
+    {
+      "texto": "cables",
+      "inicio": 7.12,
+      "fin": 7.36
+    },
+    {
+      "texto": "se",
+      "inicio": 7.4,
+      "fin": 7.44
+    },
+    {
+      "texto": "ven",
+      "inicio": 7.52,
+      "fin": 7.6
+    },
+    {
+      "texto": "iguales,",
+      "inicio": 7.68,
+      "fin": 8.32
+    },
+    {
+      "texto": "pero",
+      "inicio": 8.4,
+      "fin": 8.52
+    },
+    {
+      "texto": "por",
+      "inicio": 8.56,
+      "fin": 8.64
+    },
+    {
+      "texto": "dentro",
+      "inicio": 8.72,
+      "fin": 9.04
+    },
+    {
+      "texto": "uno",
+      "inicio": 9.28,
+      "fin": 9.52
+    },
+    {
+      "texto": "viene",
+      "inicio": 9.56,
+      "fin": 9.76
+    },
+    {
+      "texto": "vacío.",
+      "inicio": 9.88,
+      "fin": 10.44
+    },
+    {
+      "texto": "El",
+      "inicio": 10.64,
+      "fin": 10.72
+    },
+    {
+      "texto": "cable",
+      "inicio": 10.8,
+      "fin": 10.96
+    },
+    {
+      "texto": "original",
+      "inicio": 11.2,
+      "fin": 11.44
+    },
+    {
+      "texto": "trae",
+      "inicio": 11.52,
+      "fin": 11.72
+    },
+    {
+      "texto": "un",
+      "inicio": 11.76,
+      "fin": 11.84
+    },
+    {
+      "texto": "microchip",
+      "inicio": 11.92,
+      "fin": 12.4
+    },
+    {
+      "texto": "que",
+      "inicio": 12.48,
+      "fin": 12.56
+    },
+    {
+      "texto": "negocia",
+      "inicio": 12.64,
+      "fin": 12.96
+    },
+    {
+      "texto": "el",
+      "inicio": 13,
+      "fin": 13.04
+    },
+    {
+      "texto": "voltaje",
+      "inicio": 13.16,
+      "fin": 13.52
+    },
+    {
+      "texto": "exacto",
+      "inicio": 13.76,
+      "fin": 14.04
+    },
+    {
+      "texto": "con",
+      "inicio": 14.08,
+      "fin": 14.16
+    },
+    {
+      "texto": "tu",
+      "inicio": 14.24,
+      "fin": 14.32
+    },
+    {
+      "texto": "celular.",
+      "inicio": 14.4,
+      "fin": 14.96
+    },
+    {
+      "texto": "Carga",
+      "inicio": 15.12,
+      "fin": 15.36
+    },
+    {
+      "texto": "rápido",
+      "inicio": 15.44,
+      "fin": 15.76
+    },
+    {
+      "texto": "hasta",
+      "inicio": 15.813,
+      "fin": 15.92
+    },
+    {
+      "texto": "el",
+      "inicio": 16,
+      "fin": 16.04
+    },
+    {
+      "texto": "ochenta",
+      "inicio": 16.08,
+      "fin": 16.4
+    },
+    {
+      "texto": "por",
+      "inicio": 16.48,
+      "fin": 16.64
+    },
+    {
+      "texto": "ciento",
+      "inicio": 16.72,
+      "fin": 17.04
+    },
+    {
+      "texto": "y",
+      "inicio": 17.2,
+      "fin": 17.28
+    },
+    {
+      "texto": "frena",
+      "inicio": 17.36,
+      "fin": 17.68
+    },
+    {
+      "texto": "solo",
+      "inicio": 17.84,
+      "fin": 18.08
+    },
+    {
+      "texto": "para",
+      "inicio": 18.16,
+      "fin": 18.32
+    },
+    {
+      "texto": "no",
+      "inicio": 18.4,
+      "fin": 18.48
+    },
+    {
+      "texto": "calentar",
+      "inicio": 18.56,
+      "fin": 18.88
+    },
+    {
+      "texto": "la",
+      "inicio": 18.92,
+      "fin": 18.96
+    },
+    {
+      "texto": "batería.",
+      "inicio": 19.04,
+      "fin": 19.84
+    },
+    {
+      "texto": "En",
+      "inicio": 19.92,
+      "fin": 20
+    },
+    {
+      "texto": "cambio,",
+      "inicio": 20.107,
+      "fin": 20.48
+    },
+    {
+      "texto": "el",
+      "inicio": 20.52,
+      "fin": 20.56
+    },
+    {
+      "texto": "cable",
+      "inicio": 20.64,
+      "fin": 20.88
+    },
+    {
+      "texto": "barato",
+      "inicio": 20.96,
+      "fin": 21.36
+    },
+    {
+      "texto": "no",
+      "inicio": 21.44,
+      "fin": 21.52
+    },
+    {
+      "texto": "trae",
+      "inicio": 21.6,
+      "fin": 21.84
+    },
+    {
+      "texto": "chip",
+      "inicio": 21.92,
+      "fin": 22.24
+    },
+    {
+      "texto": "y",
+      "inicio": 22.28,
+      "fin": 22.32
+    },
+    {
+      "texto": "usa",
+      "inicio": 22.4,
+      "fin": 22.64
+    },
+    {
+      "texto": "hilos",
+      "inicio": 22.72,
+      "fin": 22.88
+    },
+    {
+      "texto": "de",
+      "inicio": 22.92,
+      "fin": 22.96
+    },
+    {
+      "texto": "cobre",
+      "inicio": 23.04,
+      "fin": 23.28
+    },
+    {
+      "texto": "finísimos.",
+      "inicio": 23.44,
+      "fin": 24.32
+    },
+    {
+      "texto": "Es",
+      "inicio": 24.48,
+      "fin": 24.56
+    },
+    {
+      "texto": "como",
+      "inicio": 24.64,
+      "fin": 24.8
+    },
+    {
+      "texto": "meter",
+      "inicio": 24.96,
+      "fin": 25.12
+    },
+    {
+      "texto": "toda",
+      "inicio": 25.28,
+      "fin": 25.44
+    },
+    {
+      "texto": "el",
+      "inicio": 25.52,
+      "fin": 25.6
+    },
+    {
+      "texto": "agua",
+      "inicio": 25.68,
+      "fin": 25.76
+    },
+    {
+      "texto": "de",
+      "inicio": 25.84,
+      "fin": 25.88
+    },
+    {
+      "texto": "tu",
+      "inicio": 25.92,
+      "fin": 26.08
+    },
+    {
+      "texto": "casa",
+      "inicio": 26.16,
+      "fin": 26.32
+    },
+    {
+      "texto": "por",
+      "inicio": 26.4,
+      "fin": 26.48
+    },
+    {
+      "texto": "un",
+      "inicio": 26.56,
+      "fin": 26.64
+    },
+    {
+      "texto": "tubo",
+      "inicio": 26.72,
+      "fin": 26.88
+    },
+    {
+      "texto": "finito",
+      "inicio": 26.96,
+      "fin": 27.44
+    },
+    {
+      "texto": "sin",
+      "inicio": 27.52,
+      "fin": 27.68
+    },
+    {
+      "texto": "válvula:",
+      "inicio": 27.76,
+      "fin": 28.48
+    },
+    {
+      "texto": "la",
+      "inicio": 28.52,
+      "fin": 28.56
+    },
+    {
+      "texto": "unión",
+      "inicio": 28.64,
+      "fin": 28.96
+    },
+    {
+      "texto": "revienta.",
+      "inicio": 29.12,
+      "fin": 29.92
+    },
+    {
+      "texto": "Sin",
+      "inicio": 30.08,
+      "fin": 30.24
+    },
+    {
+      "texto": "control,",
+      "inicio": 30.48,
+      "fin": 30.88
+    },
+    {
+      "texto": "la",
+      "inicio": 30.92,
+      "fin": 30.96
+    },
+    {
+      "texto": "corriente",
+      "inicio": 31.04,
+      "fin": 31.44
+    },
+    {
+      "texto": "calienta",
+      "inicio": 31.56,
+      "fin": 31.92
+    },
+    {
+      "texto": "los",
+      "inicio": 32,
+      "fin": 32.08
+    },
+    {
+      "texto": "pines",
+      "inicio": 32.16,
+      "fin": 32.4
+    },
+    {
+      "texto": "del",
+      "inicio": 32.44,
+      "fin": 32.48
+    },
+    {
+      "texto": "puerto",
+      "inicio": 32.56,
+      "fin": 32.96
+    },
+    {
+      "texto": "y",
+      "inicio": 33.04,
+      "fin": 33.12
+    },
+    {
+      "texto": "quema",
+      "inicio": 33.2,
+      "fin": 33.44
+    },
+    {
+      "texto": "el",
+      "inicio": 33.48,
+      "fin": 33.52
+    },
+    {
+      "texto": "chip",
+      "inicio": 33.6,
+      "fin": 33.76
+    },
+    {
+      "texto": "de",
+      "inicio": 33.8,
+      "fin": 33.84
+    },
+    {
+      "texto": "carga",
+      "inicio": 33.92,
+      "fin": 34.16
+    },
+    {
+      "texto": "interior.",
+      "inicio": 34.28,
+      "fin": 34.8
+    },
+    {
+      "texto": "Por",
+      "inicio": 34.96,
+      "fin": 35.04
+    },
+    {
+      "texto": "eso",
+      "inicio": 35.12,
+      "fin": 35.28
+    },
+    {
+      "texto": "la",
+      "inicio": 35.32,
+      "fin": 35.36
+    },
+    {
+      "texto": "punta",
+      "inicio": 35.44,
+      "fin": 35.76
+    },
+    {
+      "texto": "quema",
+      "inicio": 35.84,
+      "fin": 36.08
+    },
+    {
+      "texto": "al",
+      "inicio": 36.12,
+      "fin": 36.16
+    },
+    {
+      "texto": "tocarla",
+      "inicio": 36.28,
+      "fin": 36.64
+    },
+    {
+      "texto": "y",
+      "inicio": 36.8,
+      "fin": 36.84
+    },
+    {
+      "texto": "tu",
+      "inicio": 36.88,
+      "fin": 36.96
+    },
+    {
+      "texto": "celular",
+      "inicio": 37.04,
+      "fin": 37.44
+    },
+    {
+      "texto": "solo",
+      "inicio": 37.52,
+      "fin": 37.76
+    },
+    {
+      "texto": "carga",
+      "inicio": 37.84,
+      "fin": 38.08
+    },
+    {
+      "texto": "cuando",
+      "inicio": 38.16,
+      "fin": 38.4
+    },
+    {
+      "texto": "doblas",
+      "inicio": 38.48,
+      "fin": 38.72
+    },
+    {
+      "texto": "el",
+      "inicio": 38.76,
+      "fin": 38.8
+    },
+    {
+      "texto": "cable.",
+      "inicio": 38.88,
+      "fin": 39.52
+    },
+    {
+      "texto": "Para",
+      "inicio": 39.56,
+      "fin": 39.6
+    },
+    {
+      "texto": "evitarlo,",
+      "inicio": 39.68,
+      "fin": 40.4
+    },
+    {
+      "texto": "usa",
+      "inicio": 40.52,
+      "fin": 40.64
+    },
+    {
+      "texto": "cables",
+      "inicio": 40.72,
+      "fin": 40.96
+    },
+    {
+      "texto": "certificados",
+      "inicio": 41.08,
+      "fin": 41.76
+    },
+    {
+      "texto": "y",
+      "inicio": 41.84,
+      "fin": 41.88
+    },
+    {
+      "texto": "desconéctalo",
+      "inicio": 41.92,
+      "fin": 42.56
+    },
+    {
+      "texto": "de",
+      "inicio": 42.6,
+      "fin": 42.64
+    },
+    {
+      "texto": "inmediato",
+      "inicio": 42.72,
+      "fin": 43.28
+    },
+    {
+      "texto": "si",
+      "inicio": 43.36,
+      "fin": 43.44
+    },
+    {
+      "texto": "la",
+      "inicio": 43.48,
+      "fin": 43.52
+    },
+    {
+      "texto": "punta",
+      "inicio": 43.6,
+      "fin": 43.84
+    },
+    {
+      "texto": "se",
+      "inicio": 43.88,
+      "fin": 43.92
+    },
+    {
+      "texto": "calienta.",
+      "inicio": 44,
+      "fin": 44.72
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 44.8,
+      "fin": 45.2
+    },
+    {
+      "texto": "a",
+      "inicio": 45.24,
+      "fin": 45.28
+    },
+    {
+      "texto": "ese",
+      "inicio": 45.36,
+      "fin": 45.44
+    },
+    {
+      "texto": "amigo",
+      "inicio": 45.52,
+      "fin": 45.76
+    },
+    {
+      "texto": "que",
+      "inicio": 45.84,
+      "fin": 45.92
+    },
+    {
+      "texto": "siempre",
+      "inicio": 46.08,
+      "fin": 46.48
+    },
+    {
+      "texto": "compra",
+      "inicio": 46.56,
+      "fin": 46.72
+    },
+    {
+      "texto": "el",
+      "inicio": 46.8,
+      "fin": 46.84
+    },
+    {
+      "texto": "cable",
+      "inicio": 46.88,
+      "fin": 47.12
+    },
+    {
+      "texto": "más",
+      "inicio": 47.28,
+      "fin": 47.44
+    },
+    {
+      "texto": "barato",
+      "inicio": 47.52,
+      "fin": 47.76
+    },
+    {
+      "texto": "de",
+      "inicio": 47.84,
+      "fin": 47.92
+    },
+    {
+      "texto": "la",
+      "inicio": 47.947,
+      "fin": 47.973
+    },
+    {
+      "texto": "esquina.",
+      "inicio": 48,
+      "fin": 48.68
+    },
+    {
+      "texto": "Y",
+      "inicio": 48.96,
+      "fin": 49.04
+    },
+    {
+      "texto": "mañana,",
+      "inicio": 49.12,
+      "fin": 49.68
+    },
+    {
+      "texto": "episodio",
+      "inicio": 49.76,
+      "fin": 50.24
+    },
+    {
+      "texto": "tres:",
+      "inicio": 50.32,
+      "fin": 51.04
+    },
+    {
+      "texto": "dónde",
+      "inicio": 51.12,
+      "fin": 51.44
+    },
+    {
+      "texto": "quedan",
+      "inicio": 51.493,
+      "fin": 51.68
+    },
+    {
+      "texto": "de",
+      "inicio": 51.76,
+      "fin": 51.84
+    },
+    {
+      "texto": "verdad",
+      "inicio": 51.92,
+      "fin": 52.4
+    },
+    {
+      "texto": "las",
+      "inicio": 52.48,
+      "fin": 52.64
+    },
+    {
+      "texto": "fotos",
+      "inicio": 52.72,
+      "fin": 52.96
+    },
+    {
+      "texto": "que",
+      "inicio": 53.04,
+      "fin": 53.12
+    },
+    {
+      "texto": "borras",
+      "inicio": 53.2,
+      "fin": 53.44
+    },
+    {
+      "texto": "de",
+      "inicio": 53.48,
+      "fin": 53.52
+    },
+    {
+      "texto": "tu",
+      "inicio": 53.6,
+      "fin": 53.64
+    },
+    {
+      "texto": "celular.",
+      "inicio": 53.68,
+      "fin": 54.4
+    }
+  ]
+}

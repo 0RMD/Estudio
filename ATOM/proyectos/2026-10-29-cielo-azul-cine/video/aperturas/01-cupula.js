@@ -1,0 +1,1 @@
+import {landscape} from '../mundo.js';export const desde=0;export function dibuja(g,t){landscape(g,t,true);}

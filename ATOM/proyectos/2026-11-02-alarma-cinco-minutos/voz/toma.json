@@ -1,0 +1,269 @@
+{
+  "firma": "a105c8e8ab99",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "gWaDC0oXAheKoZfljzuI",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.4,
+    "similitud": 0.8,
+    "estilo": 0,
+    "velocidad": 1.12
+  },
+  "palabras": [
+    {
+      "texto": "¿Por",
+      "inicio": 0,
+      "fin": 0.16
+    },
+    {
+      "texto": "qué",
+      "inicio": 0.2,
+      "fin": 0.24
+    },
+    {
+      "texto": "posponer",
+      "inicio": 0.32,
+      "fin": 0.72
+    },
+    {
+      "texto": "la",
+      "inicio": 0.8,
+      "fin": 0.88
+    },
+    {
+      "texto": "alarma",
+      "inicio": 1,
+      "fin": 1.28
+    },
+    {
+      "texto": "cinco",
+      "inicio": 1.36,
+      "fin": 1.68
+    },
+    {
+      "texto": "minutos",
+      "inicio": 1.76,
+      "fin": 2.16
+    },
+    {
+      "texto": "te",
+      "inicio": 2.2,
+      "fin": 2.24
+    },
+    {
+      "texto": "deja",
+      "inicio": 2.32,
+      "fin": 2.56
+    },
+    {
+      "texto": "cansado",
+      "inicio": 2.6,
+      "fin": 3.12
+    },
+    {
+      "texto": "todo",
+      "inicio": 3.2,
+      "fin": 3.44
+    },
+    {
+      "texto": "el",
+      "inicio": 3.48,
+      "fin": 3.52
+    },
+    {
+      "texto": "día?",
+      "inicio": 3.6,
+      "fin": 3.92
+    },
+    {
+      "texto": "Al",
+      "inicio": 4.4,
+      "fin": 4.48
+    },
+    {
+      "texto": "volver",
+      "inicio": 4.52,
+      "fin": 4.8
+    },
+    {
+      "texto": "a",
+      "inicio": 4.827,
+      "fin": 4.853
+    },
+    {
+      "texto": "dormirte,",
+      "inicio": 4.88,
+      "fin": 5.6
+    },
+    {
+      "texto": "tu",
+      "inicio": 5.64,
+      "fin": 5.68
+    },
+    {
+      "texto": "cerebro",
+      "inicio": 5.76,
+      "fin": 6.08
+    },
+    {
+      "texto": "inicia",
+      "inicio": 6.12,
+      "fin": 6.4
+    },
+    {
+      "texto": "un",
+      "inicio": 6.48,
+      "fin": 6.56
+    },
+    {
+      "texto": "ciclo",
+      "inicio": 6.6,
+      "fin": 6.88
+    },
+    {
+      "texto": "nuevo",
+      "inicio": 6.96,
+      "fin": 7.28
+    },
+    {
+      "texto": "y",
+      "inicio": 7.44,
+      "fin": 7.52
+    },
+    {
+      "texto": "baja",
+      "inicio": 7.56,
+      "fin": 7.84
+    },
+    {
+      "texto": "más",
+      "inicio": 8,
+      "fin": 8.16
+    },
+    {
+      "texto": "profundo.",
+      "inicio": 8.24,
+      "fin": 8.8
+    },
+    {
+      "texto": "Cortarlo",
+      "inicio": 9.28,
+      "fin": 9.68
+    },
+    {
+      "texto": "de",
+      "inicio": 9.72,
+      "fin": 9.76
+    },
+    {
+      "texto": "golpe",
+      "inicio": 9.84,
+      "fin": 10.08
+    },
+    {
+      "texto": "a",
+      "inicio": 10.12,
+      "fin": 10.16
+    },
+    {
+      "texto": "los",
+      "inicio": 10.24,
+      "fin": 10.32
+    },
+    {
+      "texto": "cinco",
+      "inicio": 10.4,
+      "fin": 10.56
+    },
+    {
+      "texto": "minutos",
+      "inicio": 10.64,
+      "fin": 11.12
+    },
+    {
+      "texto": "te",
+      "inicio": 11.16,
+      "fin": 11.2
+    },
+    {
+      "texto": "deja",
+      "inicio": 11.28,
+      "fin": 11.44
+    },
+    {
+      "texto": "aturdido",
+      "inicio": 11.6,
+      "fin": 12
+    },
+    {
+      "texto": "durante",
+      "inicio": 12.08,
+      "fin": 12.48
+    },
+    {
+      "texto": "horas.",
+      "inicio": 12.56,
+      "fin": 13.24
+    },
+    {
+      "texto": "Usa",
+      "inicio": 13.52,
+      "fin": 13.76
+    },
+    {
+      "texto": "una",
+      "inicio": 13.92,
+      "fin": 14.16
+    },
+    {
+      "texto": "sola",
+      "inicio": 14.24,
+      "fin": 14.48
+    },
+    {
+      "texto": "alarma.",
+      "inicio": 14.6,
+      "fin": 15.16
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 15.36,
+      "fin": 15.92
+    },
+    {
+      "texto": "a",
+      "inicio": 15.96,
+      "fin": 16
+    },
+    {
+      "texto": "ese",
+      "inicio": 16.08,
+      "fin": 16.16
+    },
+    {
+      "texto": "amigo",
+      "inicio": 16.24,
+      "fin": 16.48
+    },
+    {
+      "texto": "que",
+      "inicio": 16.56,
+      "fin": 16.64
+    },
+    {
+      "texto": "pone",
+      "inicio": 16.76,
+      "fin": 16.88
+    },
+    {
+      "texto": "diez",
+      "inicio": 16.96,
+      "fin": 17.24
+    },
+    {
+      "texto": "seguidas.",
+      "inicio": 17.28,
+      "fin": 18.08
+    }
+  ]
+}

@@ -1,0 +1,1016 @@
+{
+  "firma": "d9685a72e8bc",
+  "duracion": 48.08,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "¿Por qué el cielo es azul, si el aire es transparente?",
+      "clave": "azul",
+      "inicio": 0,
+      "fin": 3.12
+    },
+    {
+      "n": 2,
+      "texto": "La respuesta empieza en un rayo de Sol.",
+      "clave": "Sol",
+      "inicio": 3.76,
+      "fin": 6.36
+    },
+    {
+      "n": 3,
+      "texto": "Su luz parece blanca, pero lleva mezclados todos los colores del arcoíris.",
+      "clave": "colores",
+      "inicio": 6.64,
+      "fin": 11.28
+    },
+    {
+      "n": 4,
+      "texto": "Al entrar en la atmósfera, encuentra moléculas de aire.",
+      "clave": "moléculas",
+      "inicio": 11.6,
+      "fin": 14.64
+    },
+    {
+      "n": 5,
+      "texto": "Estas dispersan la luz: la desvían en distintas direcciones.",
+      "clave": "dispersan",
+      "inicio": 14.88,
+      "fin": 18.64
+    },
+    {
+      "n": 6,
+      "texto": "Pero no reparten todos los colores por igual.",
+      "clave": "igual",
+      "inicio": 19.12,
+      "fin": 21.52
+    },
+    {
+      "n": 7,
+      "texto": "El azul tiene ondas más cortas y se dispersa mucho más que el rojo.",
+      "clave": "cortas",
+      "inicio": 22,
+      "fin": 25.92
+    },
+    {
+      "n": 8,
+      "texto": "Por eso te llega luz azul desde todas partes del cielo.",
+      "clave": "partes",
+      "inicio": 26.4,
+      "fin": 29.52
+    },
+    {
+      "n": 9,
+      "texto": "Al atardecer, la luz atraviesa mucho más aire antes de llegar a tus ojos.",
+      "clave": "atardecer",
+      "inicio": 30.08,
+      "fin": 34.16
+    },
+    {
+      "n": 10,
+      "texto": "Gran parte del azul se desvía por el camino, y predominan los rojos y naranjas.",
+      "clave": "naranjas",
+      "inicio": 34.64,
+      "fin": 39.64
+    },
+    {
+      "n": 11,
+      "texto": "El aire sigue siendo transparente. Lo que ves es la luz que reparte.",
+      "clave": "luz",
+      "inicio": 39.92,
+      "fin": 44
+    },
+    {
+      "n": 12,
+      "texto": "Envíaselo a alguien que siempre pregunta por qué.",
+      "clave": "pregunta",
+      "inicio": 44.48,
+      "fin": 47.28
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "¿Por",
+      "inicio": 0,
+      "fin": 0.16,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "qué",
+      "inicio": 0.24,
+      "fin": 0.32,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 0.36,
+      "fin": 0.4,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "cielo",
+      "inicio": 0.56,
+      "fin": 0.8,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 0.88,
+      "fin": 0.96,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "azul,",
+      "inicio": 1.08,
+      "fin": 1.68,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "si",
+      "inicio": 1.76,
+      "fin": 1.84,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 1.92,
+      "fin": 2,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "aire",
+      "inicio": 2.12,
+      "fin": 2.24,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 2.32,
+      "fin": 2.4,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "transparente?",
+      "inicio": 2.68,
+      "fin": 3.12,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "La",
+      "inicio": 3.76,
+      "fin": 3.84,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "respuesta",
+      "inicio": 4.12,
+      "fin": 4.4,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "empieza",
+      "inicio": 4.52,
+      "fin": 4.96,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 5.04,
+      "fin": 5.12,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 5.2,
+      "fin": 5.28,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "rayo",
+      "inicio": 5.36,
+      "fin": 5.6,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 5.68,
+      "fin": 5.72,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "Sol.",
+      "inicio": 5.76,
+      "fin": 6.36,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "Su",
+      "inicio": 6.64,
+      "fin": 6.72,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "luz",
+      "inicio": 6.8,
+      "fin": 7.04,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "parece",
+      "inicio": 7.16,
+      "fin": 7.36,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "blanca,",
+      "inicio": 7.44,
+      "fin": 8.08,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "pero",
+      "inicio": 8.16,
+      "fin": 8.28,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "lleva",
+      "inicio": 8.32,
+      "fin": 8.52,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "mezclados",
+      "inicio": 8.56,
+      "fin": 9.12,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "todos",
+      "inicio": 9.28,
+      "fin": 9.6,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 9.68,
+      "fin": 9.76,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "colores",
+      "inicio": 9.84,
+      "fin": 10.16,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "del",
+      "inicio": 10.24,
+      "fin": 10.32,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "arcoíris.",
+      "inicio": 10.36,
+      "fin": 11.28,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "Al",
+      "inicio": 11.6,
+      "fin": 11.76,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "entrar",
+      "inicio": 11.84,
+      "fin": 12.08,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 12.12,
+      "fin": 12.16,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 12.2,
+      "fin": 12.24,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "atmósfera,",
+      "inicio": 12.32,
+      "fin": 12.96,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "encuentra",
+      "inicio": 13.08,
+      "fin": 13.44,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "moléculas",
+      "inicio": 13.52,
+      "fin": 13.92,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "de",
+      "inicio": 14,
+      "fin": 14.08,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "aire.",
+      "inicio": 14.24,
+      "fin": 14.64,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "Estas",
+      "inicio": 14.88,
+      "fin": 15.28,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "dispersan",
+      "inicio": 15.44,
+      "fin": 15.92,
+      "frase": 5,
+      "clave": true
+    },
+    {
+      "texto": "la",
+      "inicio": 15.96,
+      "fin": 16,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "luz:",
+      "inicio": 16.08,
+      "fin": 16.72,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 16.76,
+      "fin": 16.8,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "desvían",
+      "inicio": 16.88,
+      "fin": 17.36,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 17.4,
+      "fin": 17.44,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "distintas",
+      "inicio": 17.56,
+      "fin": 17.92,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "direcciones.",
+      "inicio": 18,
+      "fin": 18.64,
+      "frase": 5,
+      "clave": false
+    },
+    {
+      "texto": "Pero",
+      "inicio": 19.12,
+      "fin": 19.28,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 19.36,
+      "fin": 19.44,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "reparten",
+      "inicio": 19.52,
+      "fin": 20.08,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "todos",
+      "inicio": 20.24,
+      "fin": 20.4,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 20.48,
+      "fin": 20.56,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "colores",
+      "inicio": 20.64,
+      "fin": 20.96,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 21.04,
+      "fin": 21.12,
+      "frase": 6,
+      "clave": false
+    },
+    {
+      "texto": "igual.",
+      "inicio": 21.16,
+      "fin": 21.52,
+      "frase": 6,
+      "clave": true
+    },
+    {
+      "texto": "El",
+      "inicio": 22,
+      "fin": 22.08,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "azul",
+      "inicio": 22.16,
+      "fin": 22.4,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "tiene",
+      "inicio": 22.48,
+      "fin": 22.72,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "ondas",
+      "inicio": 22.8,
+      "fin": 23.04,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 23.12,
+      "fin": 23.28,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "cortas",
+      "inicio": 23.44,
+      "fin": 23.84,
+      "frase": 7,
+      "clave": true
+    },
+    {
+      "texto": "y",
+      "inicio": 23.92,
+      "fin": 23.96,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 24,
+      "fin": 24.08,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "dispersa",
+      "inicio": 24.2,
+      "fin": 24.56,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "mucho",
+      "inicio": 24.72,
+      "fin": 25.04,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 25.12,
+      "fin": 25.28,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 25.32,
+      "fin": 25.36,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 25.44,
+      "fin": 25.52,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "rojo.",
+      "inicio": 25.6,
+      "fin": 25.92,
+      "frase": 7,
+      "clave": false
+    },
+    {
+      "texto": "Por",
+      "inicio": 26.4,
+      "fin": 26.48,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "eso",
+      "inicio": 26.56,
+      "fin": 26.8,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "te",
+      "inicio": 26.88,
+      "fin": 26.96,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "llega",
+      "inicio": 27.04,
+      "fin": 27.24,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "luz",
+      "inicio": 27.28,
+      "fin": 27.44,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "azul",
+      "inicio": 27.52,
+      "fin": 27.84,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "desde",
+      "inicio": 27.92,
+      "fin": 28.08,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "todas",
+      "inicio": 28.24,
+      "fin": 28.56,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "partes",
+      "inicio": 28.64,
+      "fin": 28.96,
+      "frase": 8,
+      "clave": true
+    },
+    {
+      "texto": "del",
+      "inicio": 29,
+      "fin": 29.04,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "cielo.",
+      "inicio": 29.12,
+      "fin": 29.52,
+      "frase": 8,
+      "clave": false
+    },
+    {
+      "texto": "Al",
+      "inicio": 30.08,
+      "fin": 30.16,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "atardecer,",
+      "inicio": 30.24,
+      "fin": 31.04,
+      "frase": 9,
+      "clave": true
+    },
+    {
+      "texto": "la",
+      "inicio": 31.08,
+      "fin": 31.12,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "luz",
+      "inicio": 31.2,
+      "fin": 31.28,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "atraviesa",
+      "inicio": 31.36,
+      "fin": 31.84,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "mucho",
+      "inicio": 32,
+      "fin": 32.24,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 32.32,
+      "fin": 32.48,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "aire",
+      "inicio": 32.56,
+      "fin": 32.8,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "antes",
+      "inicio": 32.88,
+      "fin": 33.12,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 33.16,
+      "fin": 33.2,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "llegar",
+      "inicio": 33.24,
+      "fin": 33.44,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 33.48,
+      "fin": 33.52,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "tus",
+      "inicio": 33.56,
+      "fin": 33.68,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "ojos.",
+      "inicio": 33.76,
+      "fin": 34.16,
+      "frase": 9,
+      "clave": false
+    },
+    {
+      "texto": "Gran",
+      "inicio": 34.64,
+      "fin": 34.88,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "parte",
+      "inicio": 34.96,
+      "fin": 35.2,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "del",
+      "inicio": 35.28,
+      "fin": 35.36,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "azul",
+      "inicio": 35.44,
+      "fin": 35.68,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 35.76,
+      "fin": 35.84,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "desvía",
+      "inicio": 35.92,
+      "fin": 36.32,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 36.36,
+      "fin": 36.4,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 36.48,
+      "fin": 36.52,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "camino,",
+      "inicio": 36.56,
+      "fin": 37.28,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 37.32,
+      "fin": 37.36,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "predominan",
+      "inicio": 37.44,
+      "fin": 37.92,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 38,
+      "fin": 38.16,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "rojos",
+      "inicio": 38.24,
+      "fin": 38.56,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 38.72,
+      "fin": 38.76,
+      "frase": 10,
+      "clave": false
+    },
+    {
+      "texto": "naranjas.",
+      "inicio": 38.8,
+      "fin": 39.64,
+      "frase": 10,
+      "clave": true
+    },
+    {
+      "texto": "El",
+      "inicio": 39.92,
+      "fin": 40.08,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "aire",
+      "inicio": 40.2,
+      "fin": 40.32,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "sigue",
+      "inicio": 40.4,
+      "fin": 40.64,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "siendo",
+      "inicio": 40.72,
+      "fin": 40.96,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "transparente.",
+      "inicio": 41.24,
+      "fin": 41.68,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "Lo",
+      "inicio": 42,
+      "fin": 42.08,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 42.16,
+      "fin": 42.24,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "ves",
+      "inicio": 42.32,
+      "fin": 42.56,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 42.72,
+      "fin": 42.88,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 42.96,
+      "fin": 43.04,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "luz",
+      "inicio": 43.12,
+      "fin": 43.28,
+      "frase": 11,
+      "clave": true
+    },
+    {
+      "texto": "que",
+      "inicio": 43.36,
+      "fin": 43.44,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "reparte.",
+      "inicio": 43.52,
+      "fin": 44,
+      "frase": 11,
+      "clave": false
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 44.48,
+      "fin": 45.04,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 45.08,
+      "fin": 45.12,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "alguien",
+      "inicio": 45.2,
+      "fin": 45.44,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 45.52,
+      "fin": 45.68,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "siempre",
+      "inicio": 45.76,
+      "fin": 46.08,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "pregunta",
+      "inicio": 46.16,
+      "fin": 46.56,
+      "frase": 12,
+      "clave": true
+    },
+    {
+      "texto": "por",
+      "inicio": 46.64,
+      "fin": 46.72,
+      "frase": 12,
+      "clave": false
+    },
+    {
+      "texto": "qué.",
+      "inicio": 46.8,
+      "fin": 47.28,
+      "frase": 12,
+      "clave": false
+    }
+  ]
+}

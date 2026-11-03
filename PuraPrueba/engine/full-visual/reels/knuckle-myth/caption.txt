@@ -1,0 +1,22 @@
+# PuraPrueba · Prueba 15 s: Tronarte los dedos NO da artritis (Español). Script: script.txt. Facts: facts.md.
+== hook | ground: dark
+Tronarte los 🤞 *dedos*
+❌ *no* te da artritis:
+un 👨‍⚕️ *médico* lo probó
+⏳ *60* años
+con una sola ✋ *mano.*
+== test | ground: light
+Se tronó solo la 👈 *izquierda,*
+nunca la 👉 *derecha.*
+== proof | ground: dark
+¿El 🩻 *resultado?*
+✅ *Cero* artritis
+en las *dos.*
+Ese 💥 *crujido*
+es solo una 🫧 *burbuja*
+de *gas.*
+== cta | ground: dark
+Sígueme para más 🔬 *pruebas:*
+este médico *ganó*
+un 🏆 Ig *Nobel*
+por *probar* que...

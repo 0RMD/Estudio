@@ -1,0 +1,879 @@
+{
+  "firma": "5c292a2ab135",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "gWaDC0oXAheKoZfljzuI",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.4,
+    "similitud": 0.8,
+    "estilo": 0,
+    "velocidad": 1.12
+  },
+  "palabras": [
+    {
+      "texto": "¿Sabías",
+      "inicio": 0,
+      "fin": 0.4
+    },
+    {
+      "texto": "que",
+      "inicio": 0.48,
+      "fin": 0.56
+    },
+    {
+      "texto": "un",
+      "inicio": 0.6,
+      "fin": 0.64
+    },
+    {
+      "texto": "celular",
+      "inicio": 0.72,
+      "fin": 1.04
+    },
+    {
+      "texto": "de",
+      "inicio": 1.12,
+      "fin": 1.2
+    },
+    {
+      "texto": "doscientos",
+      "inicio": 1.28,
+      "fin": 1.84
+    },
+    {
+      "texto": "megapíxeles",
+      "inicio": 1.92,
+      "fin": 2.56
+    },
+    {
+      "texto": "puede",
+      "inicio": 2.64,
+      "fin": 2.8
+    },
+    {
+      "texto": "tomar",
+      "inicio": 2.88,
+      "fin": 3.12
+    },
+    {
+      "texto": "peores",
+      "inicio": 3.28,
+      "fin": 3.68
+    },
+    {
+      "texto": "fotos",
+      "inicio": 3.76,
+      "fin": 4
+    },
+    {
+      "texto": "de",
+      "inicio": 4.08,
+      "fin": 4.16
+    },
+    {
+      "texto": "noche",
+      "inicio": 4.24,
+      "fin": 4.48
+    },
+    {
+      "texto": "que",
+      "inicio": 4.56,
+      "fin": 4.64
+    },
+    {
+      "texto": "uno",
+      "inicio": 4.72,
+      "fin": 4.8
+    },
+    {
+      "texto": "de",
+      "inicio": 4.88,
+      "fin": 4.96
+    },
+    {
+      "texto": "cuarenta",
+      "inicio": 5,
+      "fin": 5.32
+    },
+    {
+      "texto": "y",
+      "inicio": 5.36,
+      "fin": 5.4
+    },
+    {
+      "texto": "ocho?",
+      "inicio": 5.44,
+      "fin": 6.32
+    },
+    {
+      "texto": "Las",
+      "inicio": 6.4,
+      "fin": 6.48
+    },
+    {
+      "texto": "marcas",
+      "inicio": 6.56,
+      "fin": 6.8
+    },
+    {
+      "texto": "presumen",
+      "inicio": 6.88,
+      "fin": 7.28
+    },
+    {
+      "texto": "el",
+      "inicio": 7.32,
+      "fin": 7.36
+    },
+    {
+      "texto": "número",
+      "inicio": 7.44,
+      "fin": 7.68
+    },
+    {
+      "texto": "gigante",
+      "inicio": 7.76,
+      "fin": 8.32
+    },
+    {
+      "texto": "en",
+      "inicio": 8.36,
+      "fin": 8.4
+    },
+    {
+      "texto": "la",
+      "inicio": 8.48,
+      "fin": 8.56
+    },
+    {
+      "texto": "caja,",
+      "inicio": 8.64,
+      "fin": 9.12
+    },
+    {
+      "texto": "pero",
+      "inicio": 9.2,
+      "fin": 9.36
+    },
+    {
+      "texto": "esconden",
+      "inicio": 9.44,
+      "fin": 9.84
+    },
+    {
+      "texto": "el",
+      "inicio": 9.88,
+      "fin": 9.92
+    },
+    {
+      "texto": "tamaño",
+      "inicio": 10,
+      "fin": 10.32
+    },
+    {
+      "texto": "del",
+      "inicio": 10.4,
+      "fin": 10.48
+    },
+    {
+      "texto": "sensor.",
+      "inicio": 10.72,
+      "fin": 11.2
+    },
+    {
+      "texto": "Como",
+      "inicio": 11.44,
+      "fin": 11.6
+    },
+    {
+      "texto": "el",
+      "inicio": 11.64,
+      "fin": 11.68
+    },
+    {
+      "texto": "sensor",
+      "inicio": 11.76,
+      "fin": 12
+    },
+    {
+      "texto": "del",
+      "inicio": 12.08,
+      "fin": 12.16
+    },
+    {
+      "texto": "celular",
+      "inicio": 12.24,
+      "fin": 12.56
+    },
+    {
+      "texto": "es",
+      "inicio": 12.64,
+      "fin": 12.72
+    },
+    {
+      "texto": "pequeño,",
+      "inicio": 12.8,
+      "fin": 13.36
+    },
+    {
+      "texto": "meter",
+      "inicio": 13.44,
+      "fin": 13.76
+    },
+    {
+      "texto": "doscientos",
+      "inicio": 13.88,
+      "fin": 14.32
+    },
+    {
+      "texto": "millones",
+      "inicio": 14.4,
+      "fin": 14.72
+    },
+    {
+      "texto": "de",
+      "inicio": 14.8,
+      "fin": 14.84
+    },
+    {
+      "texto": "píxeles",
+      "inicio": 14.88,
+      "fin": 15.36
+    },
+    {
+      "texto": "los",
+      "inicio": 15.44,
+      "fin": 15.52
+    },
+    {
+      "texto": "vuelve",
+      "inicio": 15.6,
+      "fin": 15.84
+    },
+    {
+      "texto": "diminutos.",
+      "inicio": 15.92,
+      "fin": 16.88
+    },
+    {
+      "texto": "Con",
+      "inicio": 17.12,
+      "fin": 17.2
+    },
+    {
+      "texto": "buen",
+      "inicio": 17.28,
+      "fin": 17.44
+    },
+    {
+      "texto": "sol",
+      "inicio": 17.52,
+      "fin": 17.76
+    },
+    {
+      "texto": "sobra",
+      "inicio": 17.92,
+      "fin": 18.16
+    },
+    {
+      "texto": "luz",
+      "inicio": 18.24,
+      "fin": 18.56
+    },
+    {
+      "texto": "y",
+      "inicio": 18.72,
+      "fin": 18.8
+    },
+    {
+      "texto": "cada",
+      "inicio": 18.88,
+      "fin": 19.12
+    },
+    {
+      "texto": "puntito",
+      "inicio": 19.2,
+      "fin": 19.6
+    },
+    {
+      "texto": "logra",
+      "inicio": 19.68,
+      "fin": 19.92
+    },
+    {
+      "texto": "una",
+      "inicio": 20,
+      "fin": 20.08
+    },
+    {
+      "texto": "foto",
+      "inicio": 20.16,
+      "fin": 20.4
+    },
+    {
+      "texto": "llena",
+      "inicio": 20.48,
+      "fin": 20.72
+    },
+    {
+      "texto": "de",
+      "inicio": 20.8,
+      "fin": 20.88
+    },
+    {
+      "texto": "detalle.",
+      "inicio": 21.12,
+      "fin": 21.44
+    },
+    {
+      "texto": "Pero",
+      "inicio": 21.84,
+      "fin": 22
+    },
+    {
+      "texto": "de",
+      "inicio": 22.04,
+      "fin": 22.08
+    },
+    {
+      "texto": "noche",
+      "inicio": 22.16,
+      "fin": 22.48
+    },
+    {
+      "texto": "falta",
+      "inicio": 22.72,
+      "fin": 22.96
+    },
+    {
+      "texto": "luz:",
+      "inicio": 23.04,
+      "fin": 23.76
+    },
+    {
+      "texto": "un",
+      "inicio": 23.8,
+      "fin": 23.84
+    },
+    {
+      "texto": "píxel",
+      "inicio": 24,
+      "fin": 24.24
+    },
+    {
+      "texto": "minúsculo",
+      "inicio": 24.32,
+      "fin": 24.88
+    },
+    {
+      "texto": "casi",
+      "inicio": 24.96,
+      "fin": 25.2
+    },
+    {
+      "texto": "no",
+      "inicio": 25.24,
+      "fin": 25.28
+    },
+    {
+      "texto": "atrapa",
+      "inicio": 25.36,
+      "fin": 25.64
+    },
+    {
+      "texto": "nada",
+      "inicio": 25.68,
+      "fin": 26
+    },
+    {
+      "texto": "y",
+      "inicio": 26.16,
+      "fin": 26.24
+    },
+    {
+      "texto": "saca",
+      "inicio": 26.28,
+      "fin": 26.48
+    },
+    {
+      "texto": "ruido.",
+      "inicio": 26.56,
+      "fin": 26.96
+    },
+    {
+      "texto": "Es",
+      "inicio": 27.36,
+      "fin": 27.52
+    },
+    {
+      "texto": "como",
+      "inicio": 27.6,
+      "fin": 27.68
+    },
+    {
+      "texto": "salir",
+      "inicio": 27.76,
+      "fin": 28
+    },
+    {
+      "texto": "bajo",
+      "inicio": 28.04,
+      "fin": 28.24
+    },
+    {
+      "texto": "una",
+      "inicio": 28.32,
+      "fin": 28.4
+    },
+    {
+      "texto": "llovizna",
+      "inicio": 28.44,
+      "fin": 28.88
+    },
+    {
+      "texto": "con",
+      "inicio": 28.96,
+      "fin": 29.12
+    },
+    {
+      "texto": "doscientos",
+      "inicio": 29.24,
+      "fin": 29.76
+    },
+    {
+      "texto": "dedales",
+      "inicio": 29.84,
+      "fin": 30.16
+    },
+    {
+      "texto": "finitos",
+      "inicio": 30.24,
+      "fin": 30.72
+    },
+    {
+      "texto": "en",
+      "inicio": 30.8,
+      "fin": 30.88
+    },
+    {
+      "texto": "vez",
+      "inicio": 30.96,
+      "fin": 31.04
+    },
+    {
+      "texto": "de",
+      "inicio": 31.12,
+      "fin": 31.2
+    },
+    {
+      "texto": "doce",
+      "inicio": 31.28,
+      "fin": 31.52
+    },
+    {
+      "texto": "baldes",
+      "inicio": 31.6,
+      "fin": 31.92
+    },
+    {
+      "texto": "anchos.",
+      "inicio": 32,
+      "fin": 32.48
+    },
+    {
+      "texto": "Por",
+      "inicio": 32.88,
+      "fin": 32.96
+    },
+    {
+      "texto": "eso",
+      "inicio": 33.08,
+      "fin": 33.2
+    },
+    {
+      "texto": "de",
+      "inicio": 33.24,
+      "fin": 33.28
+    },
+    {
+      "texto": "noche",
+      "inicio": 33.36,
+      "fin": 33.76
+    },
+    {
+      "texto": "ese",
+      "inicio": 33.84,
+      "fin": 34.08
+    },
+    {
+      "texto": "mismo",
+      "inicio": 34.16,
+      "fin": 34.4
+    },
+    {
+      "texto": "celular",
+      "inicio": 34.48,
+      "fin": 34.88
+    },
+    {
+      "texto": "une",
+      "inicio": 34.96,
+      "fin": 35.12
+    },
+    {
+      "texto": "dieciséis",
+      "inicio": 35.2,
+      "fin": 35.76
+    },
+    {
+      "texto": "píxeles",
+      "inicio": 35.92,
+      "fin": 36.32
+    },
+    {
+      "texto": "en",
+      "inicio": 36.4,
+      "fin": 36.48
+    },
+    {
+      "texto": "uno",
+      "inicio": 36.6,
+      "fin": 36.72
+    },
+    {
+      "texto": "y",
+      "inicio": 36.8,
+      "fin": 36.88
+    },
+    {
+      "texto": "dispara",
+      "inicio": 37,
+      "fin": 37.36
+    },
+    {
+      "texto": "a",
+      "inicio": 37.4,
+      "fin": 37.44
+    },
+    {
+      "texto": "solo",
+      "inicio": 37.52,
+      "fin": 37.68
+    },
+    {
+      "texto": "doce",
+      "inicio": 37.84,
+      "fin": 38.08
+    },
+    {
+      "texto": "megapíxeles.",
+      "inicio": 38.16,
+      "fin": 38.96
+    },
+    {
+      "texto": "Lo",
+      "inicio": 39.36,
+      "fin": 39.44
+    },
+    {
+      "texto": "que",
+      "inicio": 39.48,
+      "fin": 39.52
+    },
+    {
+      "texto": "mejora",
+      "inicio": 39.6,
+      "fin": 39.84
+    },
+    {
+      "texto": "tus",
+      "inicio": 39.92,
+      "fin": 40
+    },
+    {
+      "texto": "fotos",
+      "inicio": 40.08,
+      "fin": 40.32
+    },
+    {
+      "texto": "nocturnas",
+      "inicio": 40.4,
+      "fin": 40.96
+    },
+    {
+      "texto": "no",
+      "inicio": 41.04,
+      "fin": 41.12
+    },
+    {
+      "texto": "son",
+      "inicio": 41.28,
+      "fin": 41.44
+    },
+    {
+      "texto": "más",
+      "inicio": 41.52,
+      "fin": 41.68
+    },
+    {
+      "texto": "megapíxeles:",
+      "inicio": 41.76,
+      "fin": 42.72
+    },
+    {
+      "texto": "es",
+      "inicio": 42.8,
+      "fin": 42.88
+    },
+    {
+      "texto": "un",
+      "inicio": 42.96,
+      "fin": 43.04
+    },
+    {
+      "texto": "sensor",
+      "inicio": 43.24,
+      "fin": 43.44
+    },
+    {
+      "texto": "físico",
+      "inicio": 43.6,
+      "fin": 44
+    },
+    {
+      "texto": "más",
+      "inicio": 44.08,
+      "fin": 44.24
+    },
+    {
+      "texto": "grande.",
+      "inicio": 44.32,
+      "fin": 44.96
+    },
+    {
+      "texto": "Al",
+      "inicio": 45.2,
+      "fin": 45.28
+    },
+    {
+      "texto": "elegir",
+      "inicio": 45.36,
+      "fin": 45.6
+    },
+    {
+      "texto": "celular,",
+      "inicio": 45.68,
+      "fin": 46.32
+    },
+    {
+      "texto": "busca",
+      "inicio": 46.4,
+      "fin": 46.56
+    },
+    {
+      "texto": "el",
+      "inicio": 46.64,
+      "fin": 46.68
+    },
+    {
+      "texto": "tamaño",
+      "inicio": 46.72,
+      "fin": 47.04
+    },
+    {
+      "texto": "físico",
+      "inicio": 47.2,
+      "fin": 47.52
+    },
+    {
+      "texto": "del",
+      "inicio": 47.6,
+      "fin": 47.68
+    },
+    {
+      "texto": "sensor",
+      "inicio": 47.76,
+      "fin": 48.16
+    },
+    {
+      "texto": "antes",
+      "inicio": 48.32,
+      "fin": 48.64
+    },
+    {
+      "texto": "de",
+      "inicio": 48.68,
+      "fin": 48.72
+    },
+    {
+      "texto": "pagar",
+      "inicio": 48.8,
+      "fin": 49.04
+    },
+    {
+      "texto": "por",
+      "inicio": 49.12,
+      "fin": 49.2
+    },
+    {
+      "texto": "más",
+      "inicio": 49.28,
+      "fin": 49.44
+    },
+    {
+      "texto": "megapíxeles.",
+      "inicio": 49.52,
+      "fin": 50.32
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 50.72,
+      "fin": 51.2
+    },
+    {
+      "texto": "a",
+      "inicio": 51.227,
+      "fin": 51.253
+    },
+    {
+      "texto": "ese",
+      "inicio": 51.28,
+      "fin": 51.36
+    },
+    {
+      "texto": "amigo",
+      "inicio": 51.44,
+      "fin": 51.68
+    },
+    {
+      "texto": "que",
+      "inicio": 51.76,
+      "fin": 51.84
+    },
+    {
+      "texto": "compra",
+      "inicio": 51.92,
+      "fin": 52.08
+    },
+    {
+      "texto": "celular",
+      "inicio": 52.16,
+      "fin": 52.48
+    },
+    {
+      "texto": "mirando",
+      "inicio": 52.56,
+      "fin": 52.96
+    },
+    {
+      "texto": "solo",
+      "inicio": 53.04,
+      "fin": 53.28
+    },
+    {
+      "texto": "cuántos",
+      "inicio": 53.44,
+      "fin": 53.76
+    },
+    {
+      "texto": "megapíxeles",
+      "inicio": 53.84,
+      "fin": 54.48
+    },
+    {
+      "texto": "dice",
+      "inicio": 54.6,
+      "fin": 54.72
+    },
+    {
+      "texto": "la",
+      "inicio": 54.76,
+      "fin": 54.8
+    },
+    {
+      "texto": "caja.",
+      "inicio": 54.88,
+      "fin": 55.44
+    },
+    {
+      "texto": "Y",
+      "inicio": 55.68,
+      "fin": 55.76
+    },
+    {
+      "texto": "entra",
+      "inicio": 55.84,
+      "fin": 55.96
+    },
+    {
+      "texto": "a",
+      "inicio": 56,
+      "fin": 56.053
+    },
+    {
+      "texto": "mi",
+      "inicio": 56.107,
+      "fin": 56.16
+    },
+    {
+      "texto": "perfil",
+      "inicio": 56.36,
+      "fin": 56.56
+    },
+    {
+      "texto": "para",
+      "inicio": 56.64,
+      "fin": 56.72
+    },
+    {
+      "texto": "ver",
+      "inicio": 56.8,
+      "fin": 56.88
+    },
+    {
+      "texto": "los",
+      "inicio": 56.96,
+      "fin": 57.12
+    },
+    {
+      "texto": "cuatro",
+      "inicio": 57.2,
+      "fin": 57.44
+    },
+    {
+      "texto": "episodios",
+      "inicio": 57.52,
+      "fin": 58
+    },
+    {
+      "texto": "completos",
+      "inicio": 58.12,
+      "fin": 58.56
+    },
+    {
+      "texto": "de",
+      "inicio": 58.64,
+      "fin": 58.8
+    },
+    {
+      "texto": "Mitos",
+      "inicio": 58.88,
+      "fin": 59.2
+    },
+    {
+      "texto": "de",
+      "inicio": 59.24,
+      "fin": 59.28
+    },
+    {
+      "texto": "tu",
+      "inicio": 59.36,
+      "fin": 59.44
+    },
+    {
+      "texto": "Celular.",
+      "inicio": 59.52,
+      "fin": 60.24
+    }
+  ]
+}

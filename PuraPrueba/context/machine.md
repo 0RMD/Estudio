@@ -1,0 +1,3 @@
+- `~/.npm` has root-owned cache files on this Mac; pass `--cache /tmp/keyframes-npm-cache` when running `npm install`.
+- Homebrew is not installed; `uv`, `auto-editor` (via `uv tool install auto-editor`), `cmake` (via `uv tool install cmake` for `whisper.cpp`), `ffmpeg` (from `node_modules/ffmpeg-static/ffmpeg`), and `ffprobe` (wrapper around `node_modules/@remotion/compositor-darwin-arm64/ffprobe` with `DYLD_LIBRARY_PATH`) are linked in `~/.local/bin` and exposed via `~/.zshenv`.
+- On this Windows machine (`C:\Estudio\PuraPrueba`), `node` (`v24.15.0`), `ffmpeg`, `ffprobe`, and `python` (`3.14.4`, invoked as `python` or `py` rather than `python3`) are installed natively in `PATH`.

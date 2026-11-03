@@ -1,0 +1,274 @@
+{
+  "firma": "8da3d8fc363e",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "gWaDC0oXAheKoZfljzuI",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.4,
+    "similitud": 0.8,
+    "estilo": 0,
+    "velocidad": 1.12
+  },
+  "palabras": [
+    {
+      "texto": "¿Por",
+      "inicio": 0,
+      "fin": 0.16
+    },
+    {
+      "texto": "qué",
+      "inicio": 0.2,
+      "fin": 0.24
+    },
+    {
+      "texto": "tomar",
+      "inicio": 0.32,
+      "fin": 0.56
+    },
+    {
+      "texto": "café",
+      "inicio": 0.64,
+      "fin": 0.96
+    },
+    {
+      "texto": "apenas",
+      "inicio": 1.04,
+      "fin": 1.36
+    },
+    {
+      "texto": "despiertas",
+      "inicio": 1.48,
+      "fin": 2
+    },
+    {
+      "texto": "te",
+      "inicio": 2.08,
+      "fin": 2.16
+    },
+    {
+      "texto": "da",
+      "inicio": 2.24,
+      "fin": 2.32
+    },
+    {
+      "texto": "más",
+      "inicio": 2.48,
+      "fin": 2.64
+    },
+    {
+      "texto": "sueño",
+      "inicio": 2.72,
+      "fin": 3.04
+    },
+    {
+      "texto": "a",
+      "inicio": 3.08,
+      "fin": 3.12
+    },
+    {
+      "texto": "mediodía?",
+      "inicio": 3.2,
+      "fin": 3.92
+    },
+    {
+      "texto": "Al",
+      "inicio": 4.16,
+      "fin": 4.24
+    },
+    {
+      "texto": "levantarte,",
+      "inicio": 4.32,
+      "fin": 5.12
+    },
+    {
+      "texto": "tu",
+      "inicio": 5.2,
+      "fin": 5.28
+    },
+    {
+      "texto": "cuerpo",
+      "inicio": 5.333,
+      "fin": 5.6
+    },
+    {
+      "texto": "ya",
+      "inicio": 5.68,
+      "fin": 5.84
+    },
+    {
+      "texto": "enciende",
+      "inicio": 5.96,
+      "fin": 6.32
+    },
+    {
+      "texto": "solo",
+      "inicio": 6.4,
+      "fin": 6.64
+    },
+    {
+      "texto": "su",
+      "inicio": 6.72,
+      "fin": 6.8
+    },
+    {
+      "texto": "pico",
+      "inicio": 6.88,
+      "fin": 7.12
+    },
+    {
+      "texto": "natural",
+      "inicio": 7.36,
+      "fin": 7.6
+    },
+    {
+      "texto": "de",
+      "inicio": 7.64,
+      "fin": 7.68
+    },
+    {
+      "texto": "energía.",
+      "inicio": 7.76,
+      "fin": 8.48
+    },
+    {
+      "texto": "El",
+      "inicio": 8.72,
+      "fin": 8.88
+    },
+    {
+      "texto": "café",
+      "inicio": 8.96,
+      "fin": 9.2
+    },
+    {
+      "texto": "solo",
+      "inicio": 9.24,
+      "fin": 9.44
+    },
+    {
+      "texto": "tapa",
+      "inicio": 9.6,
+      "fin": 9.84
+    },
+    {
+      "texto": "el",
+      "inicio": 9.88,
+      "fin": 9.92
+    },
+    {
+      "texto": "cansancio",
+      "inicio": 10,
+      "fin": 10.56
+    },
+    {
+      "texto": "como",
+      "inicio": 10.64,
+      "fin": 10.72
+    },
+    {
+      "texto": "un",
+      "inicio": 10.8,
+      "fin": 10.88
+    },
+    {
+      "texto": "corcho,",
+      "inicio": 10.96,
+      "fin": 11.6
+    },
+    {
+      "texto": "y",
+      "inicio": 11.68,
+      "fin": 11.72
+    },
+    {
+      "texto": "a",
+      "inicio": 11.76,
+      "fin": 11.8
+    },
+    {
+      "texto": "mediodía",
+      "inicio": 11.84,
+      "fin": 12.4
+    },
+    {
+      "texto": "salta",
+      "inicio": 12.48,
+      "fin": 12.8
+    },
+    {
+      "texto": "de",
+      "inicio": 12.84,
+      "fin": 12.88
+    },
+    {
+      "texto": "golpe.",
+      "inicio": 12.96,
+      "fin": 13.6
+    },
+    {
+      "texto": "Espera",
+      "inicio": 13.84,
+      "fin": 14.16
+    },
+    {
+      "texto": "noventa",
+      "inicio": 14.24,
+      "fin": 14.64
+    },
+    {
+      "texto": "minutos",
+      "inicio": 14.72,
+      "fin": 15.12
+    },
+    {
+      "texto": "al",
+      "inicio": 15.16,
+      "fin": 15.2
+    },
+    {
+      "texto": "despertar.",
+      "inicio": 15.28,
+      "fin": 16.24
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 16.36,
+      "fin": 16.8
+    },
+    {
+      "texto": "a",
+      "inicio": 16.84,
+      "fin": 16.88
+    },
+    {
+      "texto": "ese",
+      "inicio": 16.96,
+      "fin": 17.04
+    },
+    {
+      "texto": "amigo",
+      "inicio": 17.12,
+      "fin": 17.36
+    },
+    {
+      "texto": "que",
+      "inicio": 17.44,
+      "fin": 17.52
+    },
+    {
+      "texto": "vive",
+      "inicio": 17.6,
+      "fin": 17.84
+    },
+    {
+      "texto": "con",
+      "inicio": 17.88,
+      "fin": 17.92
+    },
+    {
+      "texto": "sueño.",
+      "inicio": 18,
+      "fin": 18.64
+    }
+  ]
+}

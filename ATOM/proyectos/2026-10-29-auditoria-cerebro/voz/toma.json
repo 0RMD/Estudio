@@ -1,0 +1,214 @@
+{
+  "firma": "1ad529255bb2",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "htFfPSZGJwjBv1CL0aMD",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.35,
+    "similitud": 0.7,
+    "estilo": 0,
+    "velocidad": 1
+  },
+  "palabras": [
+    {
+      "texto": "Tu",
+      "inicio": 0,
+      "fin": 0.16
+    },
+    {
+      "texto": "cerebro",
+      "inicio": 0.2,
+      "fin": 0.56
+    },
+    {
+      "texto": "consume",
+      "inicio": 0.76,
+      "fin": 0.96
+    },
+    {
+      "texto": "la",
+      "inicio": 1.04,
+      "fin": 1.12
+    },
+    {
+      "texto": "quinta",
+      "inicio": 1.28,
+      "fin": 1.6
+    },
+    {
+      "texto": "parte",
+      "inicio": 1.76,
+      "fin": 2.08
+    },
+    {
+      "texto": "de",
+      "inicio": 2.2,
+      "fin": 2.32
+    },
+    {
+      "texto": "toda",
+      "inicio": 2.4,
+      "fin": 2.64
+    },
+    {
+      "texto": "tu",
+      "inicio": 2.72,
+      "fin": 2.8
+    },
+    {
+      "texto": "energia.",
+      "inicio": 2.92,
+      "fin": 3.76
+    },
+    {
+      "texto": "Pesa",
+      "inicio": 3.84,
+      "fin": 4
+    },
+    {
+      "texto": "poco,",
+      "inicio": 4.08,
+      "fin": 4.64
+    },
+    {
+      "texto": "pero",
+      "inicio": 4.72,
+      "fin": 4.84
+    },
+    {
+      "texto": "gasta",
+      "inicio": 4.88,
+      "fin": 5.2
+    },
+    {
+      "texto": "como",
+      "inicio": 5.32,
+      "fin": 5.44
+    },
+    {
+      "texto": "una",
+      "inicio": 5.52,
+      "fin": 5.68
+    },
+    {
+      "texto": "bombilla",
+      "inicio": 5.8,
+      "fin": 6.08
+    },
+    {
+      "texto": "encendida",
+      "inicio": 6.16,
+      "fin": 6.72
+    },
+    {
+      "texto": "todo",
+      "inicio": 6.8,
+      "fin": 7.04
+    },
+    {
+      "texto": "el",
+      "inicio": 7.12,
+      "fin": 7.2
+    },
+    {
+      "texto": "dia.",
+      "inicio": 7.32,
+      "fin": 7.92
+    },
+    {
+      "texto": "Cuando",
+      "inicio": 7.96,
+      "fin": 8.16
+    },
+    {
+      "texto": "piensas",
+      "inicio": 8.2,
+      "fin": 8.56
+    },
+    {
+      "texto": "mucho,",
+      "inicio": 8.6,
+      "fin": 9.12
+    },
+    {
+      "texto": "no",
+      "inicio": 9.2,
+      "fin": 9.28
+    },
+    {
+      "texto": "gasta",
+      "inicio": 9.32,
+      "fin": 9.6
+    },
+    {
+      "texto": "mucho",
+      "inicio": 9.64,
+      "fin": 9.84
+    },
+    {
+      "texto": "mas.",
+      "inicio": 9.92,
+      "fin": 10.64
+    },
+    {
+      "texto": "El",
+      "inicio": 10.72,
+      "fin": 10.8
+    },
+    {
+      "texto": "gasto",
+      "inicio": 10.907,
+      "fin": 11.12
+    },
+    {
+      "texto": "grande",
+      "inicio": 11.2,
+      "fin": 11.68
+    },
+    {
+      "texto": "es",
+      "inicio": 11.76,
+      "fin": 11.84
+    },
+    {
+      "texto": "mantenerlo",
+      "inicio": 11.92,
+      "fin": 12.4
+    },
+    {
+      "texto": "vivo.",
+      "inicio": 12.48,
+      "fin": 13.2
+    },
+    {
+      "texto": "Por",
+      "inicio": 13.24,
+      "fin": 13.28
+    },
+    {
+      "texto": "eso",
+      "inicio": 13.36,
+      "fin": 13.68
+    },
+    {
+      "texto": "nunca",
+      "inicio": 13.72,
+      "fin": 14
+    },
+    {
+      "texto": "descansa",
+      "inicio": 14.08,
+      "fin": 14.56
+    },
+    {
+      "texto": "de",
+      "inicio": 14.6,
+      "fin": 14.64
+    },
+    {
+      "texto": "verdad.",
+      "inicio": 14.72,
+      "fin": 15.28
+    }
+  ]
+}

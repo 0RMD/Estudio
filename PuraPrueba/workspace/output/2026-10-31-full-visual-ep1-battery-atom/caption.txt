@@ -1,0 +1,16 @@
+Dejar cargando tu celular toda la noche no daña la batería: estos 2 hábitos diarios sí.
+
+Ese miedo nació en los años 90 con las viejas baterías de níquel, que sí sufrían sobrecarga. Hoy tu teléfono incluye un chip gestor de energía (PMIC) que frena la carga al 80% mientras duermes y corta el paso de corriente al llegar al 100%, como una válvula automática.
+
+Lo que realmente degrada tu batería de litio para siempre:
+1. El calor extremo: pasar de 35 °C cargando bajo la almohada o jugando mientras está conectado.
+2. Las descargas profundas hasta 0%: agotar la batería por completo rinde apenas ~400 ciclos, mientras que mantenerla entre 20% y 80% supera los 1,000 ciclos de vida útil (Battery University BU-808).
+
+Las 3 reglas de oro para que dure más de 3 años:
+1. Quita la funda gruesa si sientes que calienta al cargar.
+2. Conéctalo antes de bajar del 20%.
+3. Cárgalo de noche sobre una superficie plana y ventilada.
+
+Revisa hoy la salud de tu batería en Ajustes y escribe tu porcentaje en los comentarios 👇
+
+#puraprueba #tecnologia #celular #bateria #iphone #android #trucoscelular #mitostecnologicos

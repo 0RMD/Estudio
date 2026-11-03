@@ -1,0 +1,58 @@
+# Desmitificación Tecnológica Episodio 4: Meter el celular mojado en arroz (Español). Script: script.txt.
+== hook | ground: dark
+Meter tu 📱 *celular*
+mojado en 🍚 *arroz*
+❌ *no* salva sus circuitos,
+este ⚠️ *error* oculto
+acelera el *daño*
+en ⏱️ *24* horas.
+== origin | ground: light
+🍎 *Apple* publicó
+una alerta *oficial*
+prohibiendo el 🚫 *arroz,*
+y pruebas de 🧪 *laboratorio*
+*demostraron* que absorbe
+*menos* humedad
+que dejarlo
+al 💨 *aire* libre.
+== starch | ground: light
+El grano suelta *polvo* fino
+de 🌾 *almidón*
+que entra por el
+🔌 *puerto* de carga
+y al *mezclarse*
+con el 💧 *agua*
+forma una *pasta* espesa
+dentro del *conector.*
+== corrosion | ground: dark
+Mientras *esperas* dos días
+con el teléfono *enterrado,*
+los *minerales* del líquido
+oxidan el 🦠 *cobre*
+de la placa *madre*
+en 💀 *silencio.*
+== short | ground: dark
+Pero el golpe *mortal*
+ocurre al *conectar*
+el ⚡ *cargador*
+antes de *tiempo:*
+la corriente hace *electrólisis*
+con la *humedad*
+y 🔥 *quema* el chip
+de carga al *instante.*
+== rule | ground: light
+Haz esto si se 📌 *moja:*
+apágalo de 📴 *inmediato,*
+dale *golpecitos*
+con el *puerto*
+hacia ⬇️ *abajo*
+y déjalo frente
+a un 🌀 *ventilador*
+por ✅ *24* horas.
+== cta | ground: dark
+Cuéntame en 💬 *comentarios*
+si alguna vez *enterraste*
+un teléfono en *arroz,*
+guarda este 🔖 *video*
+para una *emergencia*
+y recuerda *esto:*

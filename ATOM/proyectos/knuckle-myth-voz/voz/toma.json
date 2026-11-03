@@ -1,0 +1,309 @@
+{
+  "firma": "c9ff6ebb16f7",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "gWaDC0oXAheKoZfljzuI",
+    "modelo": "eleven_v3",
+    "estabilidad": 0.5,
+    "similitud": 0.8,
+    "estilo": 0,
+    "velocidad": 1.08
+  },
+  "palabras": [
+    {
+      "texto": "[excited]",
+      "inicio": 0,
+      "fin": 0.064
+    },
+    {
+      "texto": "¡Tronarte",
+      "inicio": 0.072,
+      "fin": 0.48
+    },
+    {
+      "texto": "los",
+      "inicio": 0.52,
+      "fin": 0.64
+    },
+    {
+      "texto": "dedos",
+      "inicio": 0.7,
+      "fin": 1.04
+    },
+    {
+      "texto": "NO",
+      "inicio": 1.147,
+      "fin": 1.36
+    },
+    {
+      "texto": "te",
+      "inicio": 1.413,
+      "fin": 1.52
+    },
+    {
+      "texto": "da",
+      "inicio": 1.573,
+      "fin": 1.68
+    },
+    {
+      "texto": "artritis!",
+      "inicio": 1.733,
+      "fin": 2.32
+    },
+    {
+      "texto": "[quickly]",
+      "inicio": 2.56,
+      "fin": 2.86
+    },
+    {
+      "texto": "Un",
+      "inicio": 2.867,
+      "fin": 2.88
+    },
+    {
+      "texto": "médico",
+      "inicio": 2.94,
+      "fin": 3.2
+    },
+    {
+      "texto": "lo",
+      "inicio": 3.253,
+      "fin": 3.36
+    },
+    {
+      "texto": "probó",
+      "inicio": 3.392,
+      "fin": 3.6
+    },
+    {
+      "texto": "sesenta",
+      "inicio": 3.68,
+      "fin": 4.24
+    },
+    {
+      "texto": "años",
+      "inicio": 4.32,
+      "fin": 4.64
+    },
+    {
+      "texto": "con",
+      "inicio": 4.68,
+      "fin": 4.8
+    },
+    {
+      "texto": "una",
+      "inicio": 4.86,
+      "fin": 5.04
+    },
+    {
+      "texto": "sola",
+      "inicio": 5.088,
+      "fin": 5.28
+    },
+    {
+      "texto": "mano.",
+      "inicio": 5.344,
+      "fin": 5.68
+    },
+    {
+      "texto": "[rushed]",
+      "inicio": 5.8,
+      "fin": 5.964
+    },
+    {
+      "texto": "Se",
+      "inicio": 5.977,
+      "fin": 6.004
+    },
+    {
+      "texto": "tronó",
+      "inicio": 6.057,
+      "fin": 6.324
+    },
+    {
+      "texto": "solo",
+      "inicio": 6.372,
+      "fin": 6.564
+    },
+    {
+      "texto": "la",
+      "inicio": 6.591,
+      "fin": 6.644
+    },
+    {
+      "texto": "IZQUIERDA,",
+      "inicio": 6.684,
+      "fin": 7.284
+    },
+    {
+      "texto": "nunca",
+      "inicio": 7.337,
+      "fin": 7.604
+    },
+    {
+      "texto": "la",
+      "inicio": 7.631,
+      "fin": 7.684
+    },
+    {
+      "texto": "derecha.",
+      "inicio": 7.732,
+      "fin": 8.244
+    },
+    {
+      "texto": "[emphasized]",
+      "inicio": 8.524,
+      "fin": 8.857
+    },
+    {
+      "texto": "¿El",
+      "inicio": 8.864,
+      "fin": 8.884
+    },
+    {
+      "texto": "resultado?",
+      "inicio": 8.948,
+      "fin": 9.844
+    },
+    {
+      "texto": "¡CERO",
+      "inicio": 10.004,
+      "fin": 10.324
+    },
+    {
+      "texto": "artritis",
+      "inicio": 10.404,
+      "fin": 10.964
+    },
+    {
+      "texto": "en",
+      "inicio": 10.991,
+      "fin": 11.044
+    },
+    {
+      "texto": "las",
+      "inicio": 11.064,
+      "fin": 11.124
+    },
+    {
+      "texto": "dos!",
+      "inicio": 11.224,
+      "fin": 11.604
+    },
+    {
+      "texto": "[quickly]",
+      "inicio": 11.924,
+      "fin": 12.3
+    },
+    {
+      "texto": "Ese",
+      "inicio": 12.314,
+      "fin": 12.407
+    },
+    {
+      "texto": "crujido",
+      "inicio": 12.46,
+      "fin": 12.967
+    },
+    {
+      "texto": "es",
+      "inicio": 13.02,
+      "fin": 13.127
+    },
+    {
+      "texto": "solo",
+      "inicio": 13.159,
+      "fin": 13.287
+    },
+    {
+      "texto": "una",
+      "inicio": 13.327,
+      "fin": 13.447
+    },
+    {
+      "texto": "burbuja",
+      "inicio": 13.507,
+      "fin": 13.927
+    },
+    {
+      "texto": "de",
+      "inicio": 13.98,
+      "fin": 14.087
+    },
+    {
+      "texto": "gas.",
+      "inicio": 14.167,
+      "fin": 14.607
+    },
+    {
+      "texto": "[excited]",
+      "inicio": 14.707,
+      "fin": 14.855
+    },
+    {
+      "texto": "Sígueme",
+      "inicio": 14.863,
+      "fin": 15.127
+    },
+    {
+      "texto": "para",
+      "inicio": 15.159,
+      "fin": 15.287
+    },
+    {
+      "texto": "más",
+      "inicio": 15.327,
+      "fin": 15.447
+    },
+    {
+      "texto": "pruebas:",
+      "inicio": 15.5,
+      "fin": 16.167
+    },
+    {
+      "texto": "¡este",
+      "inicio": 16.207,
+      "fin": 16.407
+    },
+    {
+      "texto": "médico",
+      "inicio": 16.467,
+      "fin": 16.807
+    },
+    {
+      "texto": "ganó",
+      "inicio": 16.867,
+      "fin": 17.127
+    },
+    {
+      "texto": "un",
+      "inicio": 17.154,
+      "fin": 17.207
+    },
+    {
+      "texto": "Ig",
+      "inicio": 17.314,
+      "fin": 17.527
+    },
+    {
+      "texto": "Nobel",
+      "inicio": 17.607,
+      "fin": 18.007
+    },
+    {
+      "texto": "por",
+      "inicio": 18.047,
+      "fin": 18.167
+    },
+    {
+      "texto": "probar",
+      "inicio": 18.207,
+      "fin": 18.487
+    },
+    {
+      "texto": "que...",
+      "inicio": 18.567,
+      "fin": 19.047
+    }
+  ]
+}

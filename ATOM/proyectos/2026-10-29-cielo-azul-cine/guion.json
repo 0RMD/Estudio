@@ -1,0 +1,57 @@
+{
+  "titulo": "Por qué el cielo es azul",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    {
+      "texto": "¿Por qué el cielo es azul, si el aire es transparente?",
+      "clave": "azul",
+      "hook": true
+    },
+    {
+      "texto": "La respuesta empieza en un rayo de Sol.",
+      "clave": "Sol",
+      "hook": true
+    },
+    {
+      "texto": "Su luz parece blanca, pero lleva mezclados todos los colores del arcoíris.",
+      "clave": "colores"
+    },
+    {
+      "texto": "Al entrar en la atmósfera, encuentra moléculas de aire.",
+      "clave": "moléculas"
+    },
+    {
+      "texto": "Estas dispersan la luz: la desvían en distintas direcciones.",
+      "clave": "dispersan"
+    },
+    {
+      "texto": "Pero no reparten todos los colores por igual.",
+      "clave": "igual"
+    },
+    {
+      "texto": "El azul tiene ondas más cortas y se dispersa mucho más que el rojo.",
+      "clave": "cortas"
+    },
+    {
+      "texto": "Por eso te llega luz azul desde todas partes del cielo.",
+      "clave": "partes"
+    },
+    {
+      "texto": "Al atardecer, la luz atraviesa mucho más aire antes de llegar a tus ojos.",
+      "clave": "atardecer"
+    },
+    {
+      "texto": "Gran parte del azul se desvía por el camino, y predominan los rojos y naranjas.",
+      "clave": "naranjas"
+    },
+    {
+      "texto": "El aire sigue siendo transparente. Lo que ves es la luz que reparte.",
+      "clave": "luz"
+    },
+    {
+      "texto": "Envíaselo a alguien que siempre pregunta por qué.",
+      "clave": "pregunta"
+    }
+  ]
+}

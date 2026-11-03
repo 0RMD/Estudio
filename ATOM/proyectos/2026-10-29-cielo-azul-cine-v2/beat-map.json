@@ -1,0 +1,583 @@
+{
+  "bpm": 100,
+  "secondsPerBeat": 0.6,
+  "cues": {
+    "reveal": 2,
+    "sun": 9,
+    "prism": 11,
+    "spectrum": 16,
+    "air": 19,
+    "scatter": 26,
+    "compare": 32,
+    "blue": 40,
+    "sky": 44,
+    "sunset": 50,
+    "orange": 64,
+    "return": 67,
+    "final": 74
+  },
+  "events": [
+    {
+      "beat": 0,
+      "second": 0,
+      "frame60": 0,
+      "audioSample": 0,
+      "major": false
+    },
+    {
+      "beat": 1,
+      "second": 0.6,
+      "frame60": 36,
+      "audioSample": 28800,
+      "major": false
+    },
+    {
+      "beat": 2,
+      "second": 1.2,
+      "frame60": 72,
+      "audioSample": 57600,
+      "major": true
+    },
+    {
+      "beat": 3,
+      "second": 1.7999999999999998,
+      "frame60": 108,
+      "audioSample": 86400,
+      "major": false
+    },
+    {
+      "beat": 4,
+      "second": 2.4,
+      "frame60": 144,
+      "audioSample": 115200,
+      "major": false
+    },
+    {
+      "beat": 5,
+      "second": 3,
+      "frame60": 180,
+      "audioSample": 144000,
+      "major": false
+    },
+    {
+      "beat": 6,
+      "second": 3.5999999999999996,
+      "frame60": 216,
+      "audioSample": 172800,
+      "major": false
+    },
+    {
+      "beat": 7,
+      "second": 4.2,
+      "frame60": 252,
+      "audioSample": 201600,
+      "major": false
+    },
+    {
+      "beat": 8,
+      "second": 4.8,
+      "frame60": 288,
+      "audioSample": 230400,
+      "major": false
+    },
+    {
+      "beat": 9,
+      "second": 5.3999999999999995,
+      "frame60": 324,
+      "audioSample": 259200,
+      "major": true
+    },
+    {
+      "beat": 10,
+      "second": 6,
+      "frame60": 360,
+      "audioSample": 288000,
+      "major": false
+    },
+    {
+      "beat": 11,
+      "second": 6.6,
+      "frame60": 396,
+      "audioSample": 316800,
+      "major": true
+    },
+    {
+      "beat": 12,
+      "second": 7.199999999999999,
+      "frame60": 432,
+      "audioSample": 345600,
+      "major": false
+    },
+    {
+      "beat": 13,
+      "second": 7.8,
+      "frame60": 468,
+      "audioSample": 374400,
+      "major": false
+    },
+    {
+      "beat": 14,
+      "second": 8.4,
+      "frame60": 504,
+      "audioSample": 403200,
+      "major": false
+    },
+    {
+      "beat": 15,
+      "second": 9,
+      "frame60": 540,
+      "audioSample": 432000,
+      "major": false
+    },
+    {
+      "beat": 16,
+      "second": 9.6,
+      "frame60": 576,
+      "audioSample": 460800,
+      "major": true
+    },
+    {
+      "beat": 17,
+      "second": 10.2,
+      "frame60": 612,
+      "audioSample": 489600,
+      "major": false
+    },
+    {
+      "beat": 18,
+      "second": 10.799999999999999,
+      "frame60": 648,
+      "audioSample": 518400,
+      "major": false
+    },
+    {
+      "beat": 19,
+      "second": 11.4,
+      "frame60": 684,
+      "audioSample": 547200,
+      "major": true
+    },
+    {
+      "beat": 20,
+      "second": 12,
+      "frame60": 720,
+      "audioSample": 576000,
+      "major": false
+    },
+    {
+      "beat": 21,
+      "second": 12.6,
+      "frame60": 756,
+      "audioSample": 604800,
+      "major": false
+    },
+    {
+      "beat": 22,
+      "second": 13.2,
+      "frame60": 792,
+      "audioSample": 633600,
+      "major": false
+    },
+    {
+      "beat": 23,
+      "second": 13.799999999999999,
+      "frame60": 828,
+      "audioSample": 662400,
+      "major": false
+    },
+    {
+      "beat": 24,
+      "second": 14.399999999999999,
+      "frame60": 864,
+      "audioSample": 691200,
+      "major": false
+    },
+    {
+      "beat": 25,
+      "second": 15,
+      "frame60": 900,
+      "audioSample": 720000,
+      "major": false
+    },
+    {
+      "beat": 26,
+      "second": 15.6,
+      "frame60": 936,
+      "audioSample": 748800,
+      "major": true
+    },
+    {
+      "beat": 27,
+      "second": 16.2,
+      "frame60": 972,
+      "audioSample": 777600,
+      "major": false
+    },
+    {
+      "beat": 28,
+      "second": 16.8,
+      "frame60": 1008,
+      "audioSample": 806400,
+      "major": false
+    },
+    {
+      "beat": 29,
+      "second": 17.4,
+      "frame60": 1044,
+      "audioSample": 835200,
+      "major": false
+    },
+    {
+      "beat": 30,
+      "second": 18,
+      "frame60": 1080,
+      "audioSample": 864000,
+      "major": false
+    },
+    {
+      "beat": 31,
+      "second": 18.599999999999998,
+      "frame60": 1116,
+      "audioSample": 892800,
+      "major": false
+    },
+    {
+      "beat": 32,
+      "second": 19.2,
+      "frame60": 1152,
+      "audioSample": 921600,
+      "major": true
+    },
+    {
+      "beat": 33,
+      "second": 19.8,
+      "frame60": 1188,
+      "audioSample": 950400,
+      "major": false
+    },
+    {
+      "beat": 34,
+      "second": 20.4,
+      "frame60": 1224,
+      "audioSample": 979200,
+      "major": false
+    },
+    {
+      "beat": 35,
+      "second": 21,
+      "frame60": 1260,
+      "audioSample": 1008000,
+      "major": false
+    },
+    {
+      "beat": 36,
+      "second": 21.599999999999998,
+      "frame60": 1296,
+      "audioSample": 1036800,
+      "major": false
+    },
+    {
+      "beat": 37,
+      "second": 22.2,
+      "frame60": 1332,
+      "audioSample": 1065600,
+      "major": false
+    },
+    {
+      "beat": 38,
+      "second": 22.8,
+      "frame60": 1368,
+      "audioSample": 1094400,
+      "major": false
+    },
+    {
+      "beat": 39,
+      "second": 23.4,
+      "frame60": 1404,
+      "audioSample": 1123200,
+      "major": false
+    },
+    {
+      "beat": 40,
+      "second": 24,
+      "frame60": 1440,
+      "audioSample": 1152000,
+      "major": true
+    },
+    {
+      "beat": 41,
+      "second": 24.599999999999998,
+      "frame60": 1476,
+      "audioSample": 1180800,
+      "major": false
+    },
+    {
+      "beat": 42,
+      "second": 25.2,
+      "frame60": 1512,
+      "audioSample": 1209600,
+      "major": false
+    },
+    {
+      "beat": 43,
+      "second": 25.8,
+      "frame60": 1548,
+      "audioSample": 1238400,
+      "major": false
+    },
+    {
+      "beat": 44,
+      "second": 26.4,
+      "frame60": 1584,
+      "audioSample": 1267200,
+      "major": true
+    },
+    {
+      "beat": 45,
+      "second": 27,
+      "frame60": 1620,
+      "audioSample": 1296000,
+      "major": false
+    },
+    {
+      "beat": 46,
+      "second": 27.599999999999998,
+      "frame60": 1656,
+      "audioSample": 1324800,
+      "major": false
+    },
+    {
+      "beat": 47,
+      "second": 28.2,
+      "frame60": 1692,
+      "audioSample": 1353600,
+      "major": false
+    },
+    {
+      "beat": 48,
+      "second": 28.799999999999997,
+      "frame60": 1728,
+      "audioSample": 1382400,
+      "major": false
+    },
+    {
+      "beat": 49,
+      "second": 29.4,
+      "frame60": 1764,
+      "audioSample": 1411200,
+      "major": false
+    },
+    {
+      "beat": 50,
+      "second": 30,
+      "frame60": 1800,
+      "audioSample": 1440000,
+      "major": true
+    },
+    {
+      "beat": 51,
+      "second": 30.599999999999998,
+      "frame60": 1836,
+      "audioSample": 1468800,
+      "major": false
+    },
+    {
+      "beat": 52,
+      "second": 31.2,
+      "frame60": 1872,
+      "audioSample": 1497600,
+      "major": false
+    },
+    {
+      "beat": 53,
+      "second": 31.799999999999997,
+      "frame60": 1908,
+      "audioSample": 1526400,
+      "major": false
+    },
+    {
+      "beat": 54,
+      "second": 32.4,
+      "frame60": 1944,
+      "audioSample": 1555200,
+      "major": false
+    },
+    {
+      "beat": 55,
+      "second": 33,
+      "frame60": 1980,
+      "audioSample": 1584000,
+      "major": false
+    },
+    {
+      "beat": 56,
+      "second": 33.6,
+      "frame60": 2016,
+      "audioSample": 1612800,
+      "major": false
+    },
+    {
+      "beat": 57,
+      "second": 34.199999999999996,
+      "frame60": 2052,
+      "audioSample": 1641600,
+      "major": false
+    },
+    {
+      "beat": 58,
+      "second": 34.8,
+      "frame60": 2088,
+      "audioSample": 1670400,
+      "major": false
+    },
+    {
+      "beat": 59,
+      "second": 35.4,
+      "frame60": 2124,
+      "audioSample": 1699200,
+      "major": false
+    },
+    {
+      "beat": 60,
+      "second": 36,
+      "frame60": 2160,
+      "audioSample": 1728000,
+      "major": false
+    },
+    {
+      "beat": 61,
+      "second": 36.6,
+      "frame60": 2196,
+      "audioSample": 1756800,
+      "major": false
+    },
+    {
+      "beat": 62,
+      "second": 37.199999999999996,
+      "frame60": 2232,
+      "audioSample": 1785600,
+      "major": false
+    },
+    {
+      "beat": 63,
+      "second": 37.8,
+      "frame60": 2268,
+      "audioSample": 1814400,
+      "major": false
+    },
+    {
+      "beat": 64,
+      "second": 38.4,
+      "frame60": 2304,
+      "audioSample": 1843200,
+      "major": true
+    },
+    {
+      "beat": 65,
+      "second": 39,
+      "frame60": 2340,
+      "audioSample": 1872000,
+      "major": false
+    },
+    {
+      "beat": 66,
+      "second": 39.6,
+      "frame60": 2376,
+      "audioSample": 1900800,
+      "major": false
+    },
+    {
+      "beat": 67,
+      "second": 40.199999999999996,
+      "frame60": 2412,
+      "audioSample": 1929600,
+      "major": true
+    },
+    {
+      "beat": 68,
+      "second": 40.8,
+      "frame60": 2448,
+      "audioSample": 1958400,
+      "major": false
+    },
+    {
+      "beat": 69,
+      "second": 41.4,
+      "frame60": 2484,
+      "audioSample": 1987200,
+      "major": false
+    },
+    {
+      "beat": 70,
+      "second": 42,
+      "frame60": 2520,
+      "audioSample": 2016000,
+      "major": false
+    },
+    {
+      "beat": 71,
+      "second": 42.6,
+      "frame60": 2556,
+      "audioSample": 2044800,
+      "major": false
+    },
+    {
+      "beat": 72,
+      "second": 43.199999999999996,
+      "frame60": 2592,
+      "audioSample": 2073600,
+      "major": false
+    },
+    {
+      "beat": 73,
+      "second": 43.8,
+      "frame60": 2628,
+      "audioSample": 2102400,
+      "major": false
+    },
+    {
+      "beat": 74,
+      "second": 44.4,
+      "frame60": 2664,
+      "audioSample": 2131200,
+      "major": true
+    },
+    {
+      "beat": 75,
+      "second": 45,
+      "frame60": 2700,
+      "audioSample": 2160000,
+      "major": false
+    },
+    {
+      "beat": 76,
+      "second": 45.6,
+      "frame60": 2736,
+      "audioSample": 2188800,
+      "major": false
+    },
+    {
+      "beat": 77,
+      "second": 46.199999999999996,
+      "frame60": 2772,
+      "audioSample": 2217600,
+      "major": false
+    },
+    {
+      "beat": 78,
+      "second": 46.8,
+      "frame60": 2808,
+      "audioSample": 2246400,
+      "major": false
+    },
+    {
+      "beat": 79,
+      "second": 47.4,
+      "frame60": 2844,
+      "audioSample": 2275200,
+      "major": false
+    }
+  ],
+  "peakDb": -17.176155838056264,
+  "rmsDb": -40.44911667587293
+}

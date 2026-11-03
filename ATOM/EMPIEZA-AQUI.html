@@ -1,0 +1,255 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Empieza aquí · ATOM Élite</title>
+<style>
+  /* Funciona sin internet: fuentes del sistema, nada se carga de fuera. */
+  :root {
+    --bg: #120A2A; --bg-2: #170D35; --card: #1D1240; --raise: #261852;
+    --line: #35276A; --line-2: rgba(174,163,211,.18);
+    --text: #F7F4FF; --text-2: #D2C9EE; --text-3: #AEA3D3; --text-4: #7E73A8;
+    --yellow: #FFD23F; --magenta: #E04FA6; --violet: #8B6CFF; --green: #7FD9A8;
+    --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Roboto, Arial, sans-serif;
+    --display: "Avenir Next", "Segoe UI Variable Display", "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
+    --mono: ui-monospace, "SF Mono", "Cascadia Mono", Consolas, Menlo, monospace;
+    color-scheme: dark;
+  }
+  *, *::before, *::after { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text); font-family: var(--sans); font-size: 16px; line-height: 26px; -webkit-font-smoothing: antialiased; }
+  a { color: var(--yellow); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  h1, h2, h3, p, ol, ul { margin: 0; }
+  ol, ul { padding: 0; list-style: none; }
+  .wrap { width: 100%; max-width: 780px; margin: 0 auto; padding: 0 20px; }
+
+  header { position: sticky; top: 0; z-index: 5; background: rgba(18,10,42,.86); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-bottom: 1px solid var(--line-2); }
+  header .wrap { height: 64px; display: flex; align-items: center; justify-content: space-between; }
+  .brand { display: inline-flex; align-items: center; gap: 10px; color: var(--text); font-family: var(--display); font-size: 20px; font-weight: 800; letter-spacing: .02em; }
+  .brand:hover { text-decoration: none; }
+  .logo { width: 30px; height: 30px; }
+  .ver { padding: 4px 12px; border-radius: 999px; background: var(--yellow); color: #120A2A; font: 800 12px/18px var(--display); letter-spacing: .08em; }
+
+  .hero { position: relative; padding: 64px 0 24px; overflow: hidden; }
+  .orbits { position: absolute; right: -140px; top: -40px; width: 460px; height: 460px; opacity: .55; pointer-events: none; }
+  .label { display: inline-flex; align-items: center; gap: 8px; padding: 6px 12px; border-radius: 999px; border: 1px solid var(--line); background: var(--card); color: var(--text-2); font: 700 12px/16px var(--mono); text-transform: uppercase; letter-spacing: .08em; }
+  .label i { width: 8px; height: 8px; border-radius: 50%; background: var(--magenta); box-shadow: 0 0 12px var(--magenta); }
+  h1 { position: relative; margin-top: 20px; font-family: var(--display); font-size: 52px; line-height: 56px; font-weight: 800; letter-spacing: -0.03em; }
+  h1 mark { background: var(--yellow); color: #120A2A; padding: 0 10px; border-radius: 10px; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
+  .sub { position: relative; margin-top: 18px; max-width: 560px; font-size: 18px; line-height: 29px; color: var(--text-2); }
+  .progress { position: relative; margin-top: 28px; display: flex; gap: 6px; }
+  .progress span { flex: 1; height: 6px; border-radius: 999px; background: var(--raise); }
+  .progress span.on { background: var(--green); }
+
+  .steps { margin-top: 36px; display: grid; gap: 14px; }
+  .step { display: grid; grid-template-columns: 44px 1fr; gap: 18px; padding: 26px 24px; border-radius: 20px; border: 1px solid var(--line); background: var(--card); }
+  .num { width: 44px; height: 44px; border-radius: 50%; display: grid; place-items: center; background: var(--yellow); color: #120A2A; font: 800 19px/1 var(--display); box-shadow: 0 0 0 6px rgba(255,210,63,.12); }
+  .done { background: var(--bg-2); border-color: var(--line-2); }
+  .done .num { background: transparent; border: 2px solid var(--green); color: var(--green); box-shadow: none; }
+  .done .num svg { width: 20px; height: 20px; }
+  .done h2 { color: var(--text-3); }
+  .badge { display: inline-flex; align-items: center; margin-left: 8px; padding: 0 10px; border-radius: 999px; background: rgba(127,217,168,.14); color: var(--green); font-size: 12px; line-height: 22px; font-weight: 700; vertical-align: 4px; }
+  h2 { font-family: var(--display); font-size: 23px; line-height: 32px; font-weight: 800; letter-spacing: -0.015em; }
+  .step p { margin-top: 10px; color: var(--text-2); }
+  .step p strong { color: var(--text); }
+  .k { display: inline-block; padding: 0 8px; border-radius: 7px; border: 1px solid var(--line); background: var(--raise); color: var(--text); font-size: 14px; line-height: 24px; font-weight: 700; white-space: nowrap; }
+  .f { font-family: var(--mono); font-size: 14px; color: var(--yellow); }
+  .ai { margin-top: 14px; display: grid; gap: 10px; }
+  .ai li { display: grid; grid-template-columns: 96px 1fr; gap: 14px; align-items: start; padding: 14px 16px; border-radius: 14px; border: 1px solid var(--line-2); background: var(--bg-2); color: var(--text-2); font-size: 15px; line-height: 25px; }
+  .ai li > span { display: inline-flex; justify-content: center; padding: 1px 0; border-radius: 999px; font: 800 12px/22px var(--display); letter-spacing: .06em; text-transform: uppercase; }
+  .ai li:nth-child(1) > span { background: rgba(224,79,166,.16); color: #F59AD0; }
+  .ai li:nth-child(2) > span { background: rgba(139,108,255,.18); color: #BFAEFF; }
+  .say { margin-top: 14px; display: flex; align-items: center; gap: 10px; padding: 8px 8px 8px 18px; border-radius: 14px; border: 1px solid rgba(255,210,63,.45); background: rgba(255,210,63,.06); }
+  .say code { flex: 1; min-width: 0; font-family: var(--mono); font-size: 15px; line-height: 24px; color: var(--text); overflow-wrap: anywhere; }
+  .copy { flex: none; height: 36px; padding: 0 14px; border-radius: 10px; border: 0; background: var(--yellow); color: #120A2A; font: 800 13px/1 var(--sans); cursor: pointer; }
+  .copy:hover { filter: brightness(1.06); }
+  .copy.ok { background: var(--green); }
+  .box { margin-top: 18px; padding: 20px 22px; border-radius: 16px; border: 1px solid var(--line-2); background: var(--bg-2); }
+  .box h3 { font-family: var(--display); font-size: 16px; line-height: 24px; font-weight: 800; }
+  .how { margin-top: 12px; display: grid; gap: 10px; counter-reset: how; }
+  .how li { display: grid; grid-template-columns: 26px 1fr; gap: 12px; font-size: 15px; line-height: 25px; color: var(--text-2); }
+  .how li::before { counter-increment: how; content: counter(how); width: 26px; height: 26px; border-radius: 50%; background: var(--raise); border: 1px solid var(--line); display: grid; place-items: center; font: 800 12px/1 var(--display); color: var(--yellow); }
+  .warn { margin-top: 16px; padding: 14px 16px; border-radius: 12px; border: 1px solid rgba(224,79,166,.45); background: rgba(224,79,166,.08); font-size: 14px; line-height: 23px; color: var(--text-2); }
+  .warn strong { color: var(--text); }
+  .tip { margin-top: 16px; padding: 14px 16px; border-radius: 12px; border: 1px solid rgba(139,108,255,.45); background: rgba(139,108,255,.08); font-size: 15px; line-height: 24px; color: var(--text-2); }
+  .tip strong { color: var(--text); }
+
+  .packs { margin-top: 56px; }
+  .packs h2 { margin-top: 14px; font-size: 30px; line-height: 36px; }
+  .psub { margin-top: 8px; color: var(--text-2); }
+  .packs ul { margin-top: 18px; display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+  .pk { display: flex; flex-direction: column; justify-content: space-between; gap: 6px; padding: 22px 20px; border-radius: 20px; border: 1px solid var(--line); background: linear-gradient(160deg, rgba(139,108,255,.16), rgba(29,18,64,1) 55%); }
+  .pk h3 { font-family: var(--display); font-size: 19px; line-height: 26px; font-weight: 800; color: var(--yellow); }
+  .pk p { margin-top: 6px; font-size: 15px; line-height: 24px; color: var(--text-2); }
+  @media (max-width: 640px) { .packs ul { grid-template-columns: 1fr; } }
+  .expect { margin-top: 18px; padding: 28px 24px; border-radius: 20px; border: 1px solid var(--line); background: var(--card); }
+  .first { margin-top: 56px; }
+  .expect h2 { font-size: 26px; line-height: 34px; }
+  .expect ul { margin-top: 16px; display: grid; gap: 12px; }
+  .expect li { padding-left: 24px; position: relative; color: var(--text-2); }
+  .expect li::before { content: ""; position: absolute; left: 2px; top: 9px; width: 9px; height: 9px; border-radius: 50%; background: var(--yellow); box-shadow: 0 0 10px rgba(255,210,63,.5); }
+  .expect li strong { color: var(--text); }
+
+  .help { margin: 18px 0 40px; padding: 32px 24px; border-radius: 20px; text-align: center; background: linear-gradient(135deg, rgba(224,79,166,.22), rgba(139,108,255,.22)); border: 1px solid var(--line); }
+  .help h2 { font-size: 28px; line-height: 34px; }
+  .help p { margin-top: 10px; color: var(--text-2); }
+  .help a { font-weight: 800; }
+  .help small { display: block; margin-top: 12px; font-size: 13px; line-height: 21px; color: var(--text-3); }
+  footer { padding: 0 0 48px; text-align: center; color: var(--text-4); font-size: 13px; }
+
+  @media (max-width: 560px) {
+    h1 { font-size: 38px; line-height: 43px; }
+    .step { grid-template-columns: 1fr; gap: 14px; padding: 22px 18px; }
+    .ai li { grid-template-columns: 1fr; gap: 8px; }
+    .ai li > span { justify-self: start; padding: 1px 12px; }
+    .orbits { right: -220px; opacity: .35; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <a class="brand" href="https://proyectoatom.lat" target="_blank" rel="noopener"><svg class="logo" viewBox="0 0 28 28" aria-hidden="true"><ellipse cx="14" cy="14" rx="12" ry="5" fill="none" stroke="#E04FA6" stroke-width="1.6"/><ellipse cx="14" cy="14" rx="12" ry="5" fill="none" stroke="#8B6CFF" stroke-width="1.6" transform="rotate(60 14 14)"/><ellipse cx="14" cy="14" rx="12" ry="5" fill="none" stroke="#E04FA6" stroke-width="1.6" transform="rotate(120 14 14)"/><circle cx="14" cy="14" r="3.2" fill="#FFD23F"/></svg>ATOM</a>
+    <span class="ver">ÉLITE</span>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <section class="hero">
+    <svg class="orbits" viewBox="0 0 400 400" aria-hidden="true"><g fill="none" stroke-width="2"><ellipse cx="200" cy="200" rx="180" ry="70" stroke="#E04FA6" opacity=".7"/><ellipse cx="200" cy="200" rx="180" ry="70" stroke="#8B6CFF" opacity=".7" transform="rotate(60 200 200)"/><ellipse cx="200" cy="200" rx="180" ry="70" stroke="#E04FA6" opacity=".45" transform="rotate(120 200 200)"/></g><circle cx="200" cy="200" r="26" fill="#FFD23F" opacity=".9"/><circle cx="380" cy="200" r="7" fill="#E04FA6"/></svg>
+    <span class="label"><i></i>Empieza aquí</span>
+    <h1>Tu primer video viral,<br><mark>en cinco pasos.</mark></h1>
+    <p class="sub">Si estás leyendo esto, ya llevas dos hechos. Sigue en orden con los demás: tú pones la idea y tu IA hace el resto.</p>
+    <div class="progress" aria-label="2 de 5 pasos hechos"><span class="on"></span><span class="on"></span><span></span><span></span><span></span></div>
+  </section>
+
+  <ol class="steps">
+    <li class="step done">
+      <span class="num"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12.5l4.2 4.2L19 7" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+      <div>
+        <h2>Descarga el archivo <span class="badge">Hecho</span></h2>
+        <p>Desde tu área de miembros de Hotmart: abre la clase <span class="k">Descarga tu ATOM</span> y haz clic en el ZIP.</p>
+      </div>
+    </li>
+    <li class="step done">
+      <span class="num"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12.5l4.2 4.2L19 7" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+      <div>
+        <h2>Descomprímelo <span class="badge">Hecho</span></h2>
+        <p>Windows: clic derecho y <span class="k">Extraer todo…</span>. Mac: doble clic. La carpeta buena es esta, la que tiene este archivo dentro. No muevas nada de aquí dentro. <strong>Pon también aquí dentro los 2 ZIP de ejemplos (son obligatorios) y descomprímelos</strong>: tu IA ordena las carpetas sola.</p>
+      </div>
+    </li>
+    <li class="step">
+      <span class="num">3</span>
+      <div>
+        <h2>Abre esta carpeta en tu IA</h2>
+        <p>Tiene que ser la <strong>app de tu computadora</strong>, no la web. La carpeta se llama <span class="f">ATOM ELITE</span>.</p>
+        <ul class="ai">
+          <li><span>Claude</span><div>Abre la app de Claude y pulsa <span class="k">Code</span>, arriba. Pulsa <span class="k">Select folder</span>, encima del recuadro de escribir, y elige esta carpeta.</div></li>
+          <li><span>ChatGPT</span><div>Abre la app de ChatGPT y entra en <span class="k">Codex</span>. Pulsa el <span class="k">+</span> junto a <span class="k">Projects</span>, deja <span class="k">Local</span> y elige esta carpeta.</div></li>
+        </ul>
+        <p>Si te pregunta si confías en la carpeta, di que sí.</p>
+        <p class="tip"><strong>Los ejemplos son obligatorios.</strong> Descarga también de Hotmart <span class="f">ATOM ELITE - Ejemplo estrella verde.zip</span> y <span class="f">ATOM ELITE - Ejemplo alcohol.zip</span>. Son dos videos hechos con ATOM, enteros: tu IA los usa en cada video para alcanzar ese nivel. Sin ellos tus videos no saldrán bien. Ponlos en esta carpeta y descomprímelos (en Mac, si aparece una carpeta «ejemplo 2», déjala así): ella se encarga del resto.</p>
+      </div>
+    </li>
+    <li class="step">
+      <span class="num">4</span>
+      <div>
+        <h2>Escribe «configúrame»</h2>
+        <div class="say"><code>configúrame</code><button class="copy" type="button" data-copy="configúrame">Copiar</button></div>
+        <p>Tu IA instala lo que le falta y te hace unas preguntas, como el idioma o la voz. Luego te pide tu <strong>clave de ElevenLabs</strong> (la voz de tus videos): abre el archivo <span class="f">PEGA-AQUI-TU-CLAVE-ELEVENLABS.txt</span> de esta carpeta, pega la clave después de <span class="f">CLAVE=</span> y guarda el archivo. Nunca la pegues en el chat.</p>
+        <div class="box">
+          <h3>Cómo sacar tu clave de ElevenLabs</h3>
+          <ol class="how">
+            <li><span>Entra en <a href="https://elevenlabs.io" target="_blank" rel="noopener">elevenlabs.io</a> y crea tu cuenta, o entra en la tuya.</span></li>
+            <li><span>Abajo a la izquierda, pulsa <span class="k">Developers</span> y luego <span class="k">API Keys</span>.</span></li>
+            <li><span>Pulsa <span class="k">Create Key</span> y ponle el nombre que quieras.</span></li>
+            <li><span>Apaga el interruptor <span class="k">Restrict Key</span>. Si lo dejas encendido, la clave no puede hacer voces.</span></li>
+            <li><span>Crea la clave y cópiala. Empieza por <span class="f">sk_</span> y es larga.</span></li>
+          </ol>
+          <p class="warn"><strong>El ID de la clave no sirve.</strong> En la lista de claves verás un código corto: ese no es. La buena empieza por <span class="f">sk_</span>. ElevenLabs solo te la muestra una vez: si no la copiaste, crea otra.</p>
+        </div>
+      </div>
+    </li>
+    <li class="step">
+      <span class="num">5</span>
+      <div>
+        <h2>Pide tu video</h2>
+        <p>Pídeselo con tus palabras, como si hablaras con una persona. Por ejemplo:</p>
+        <div class="say"><code>Hazme un video sobre por qué el cielo es azul</code><button class="copy" type="button" data-copy="Hazme un video sobre por qué el cielo es azul">Copiar</button></div>
+        <p>¿No tienes tema? Pídele ideas: «Dame ideas para un video».</p>
+      </div>
+    </li>
+  </ol>
+
+  <section class="packs">
+    <span class="label"><i></i>Tus packs Élite</span>
+    <h2>Pídeselos con una frase</h2>
+    <p class="psub">Ya vienen dentro de tu carpeta. En tu conversación con ATOM, escribe:</p>
+    <ul>
+      <li class="pk"><div><h3>Agente de Calendario</h3><p>Te arma 30 días de temas virales de tu nicho, uno por día. Luego pides: «hazme el video del día 5».</p></div>
+        <div class="say"><code>Ármame el calendario del mes</code><button class="copy" type="button" data-copy="Ármame el calendario del mes">Copiar</button></div></li>
+      <li class="pk"><div><h3>Pack de Nichos</h3><p>11 nichos listos (ciencia, historia, dinero, salud y más) o el tuyo. ATOM adapta el tono, los temas y el cierre al tuyo.</p></div>
+        <div class="say"><code>Elige mi nicho</code><button class="copy" type="button" data-copy="Elige mi nicho">Copiar</button></div></li>
+      <li class="pk"><div><h3>100 temas probados</h3><p>Cien preguntas que enganchan, por nicho. Pide uno al azar o uno concreto: «hazme el tema 37».</p></div>
+        <div class="say"><code>Dame 5 temas de mi nicho</code><button class="copy" type="button" data-copy="Dame 5 temas de mi nicho">Copiar</button></div></li>
+      <li class="pk"><div><h3>Modo series</h3><p>Convierte un tema grande en 3 a 5 videos conectados («Parte 1, Parte 2...») para que te sigan.</p></div>
+        <div class="say"><code>Hazme una serie</code><button class="copy" type="button" data-copy="Hazme una serie">Copiar</button></div></li>
+      <li class="pk"><div><h3>3 estilos visuales</h3><p>ATOM, Cine Nocturno (3D de noche, look documental) o Datos Neón (infografía en neón). Antes de cada video te pregunta cuál.</p></div>
+        <div class="say"><code>Hazme un video en estilo Datos Neón</code><button class="copy" type="button" data-copy="Hazme un video en estilo Datos Neón">Copiar</button></div></li>
+      <li class="pk"><div><h3>Generador de portadas</h3><p>Flyers clickbait honestos sobre tu propio video, con el color de tu marca y dentro de las zonas seguras de cada red.</p></div>
+        <div class="say"><code>Hazme la portada</code><button class="copy" type="button" data-copy="Hazme la portada">Copiar</button></div></li>
+      <li class="pk"><div><h3>Captions con CTA</h3><p>Descripciones con SEO para Instagram, TikTok, YouTube Shorts y Facebook, con tus CTA.</p></div>
+        <div class="say"><code>Hazme las descripciones</code><button class="copy" type="button" data-copy="Hazme las descripciones">Copiar</button></div></li>
+      <li class="pk"><div><h3>Pack Repurposing</h3><p>De un video: carrusel, hilo, post de LinkedIn, guion corto e ideas nuevas.</p></div>
+        <div class="say"><code>Saca más contenido de este video</code><button class="copy" type="button" data-copy="Saca más contenido de este video">Copiar</button></div></li>
+      <li class="pk"><div><h3>Kit «Vende videos a negocios»</h3><p>A quién ofrecer, mensajes, precios de referencia, propuesta y cómo hacer los videos del cliente.</p></div>
+        <div class="say"><code>Quiero vender videos a negocios</code><button class="copy" type="button" data-copy="Quiero vender videos a negocios">Copiar</button></div></li>
+    </ul>
+  </section>
+
+  <section class="expect first">
+    <h2>Qué esperar</h2>
+    <ul>
+      <li><strong>La primera vez instala cosas.</strong> Tarda unos minutos. Solo pasa una vez.</li>
+      <li><strong>Te pedirá permiso</strong> para instalar programas o abrir páginas. Es normal: acepta.</li>
+      <li><strong>El video tarda un rato</strong>, porque se investiga, se dibuja y se revisa solo. Puede tardar hasta una hora. Deja la computadora encendida y la app abierta.</li>
+      <li><strong>Te muestra cosas antes de seguir.</strong> Dile qué cambiar o escribe «adelante».</li>
+      <li><strong>Tu video queda en esta carpeta</strong>, dentro de <span class="f">salida</span>, con la portada y el texto del post. ¿Quieres leer el guion? Pídeselo: «muéstrame el guion».</li>
+      <li><strong>Antes de cada video te pregunta el estilo:</strong> ATOM, Cine Nocturno o Datos Neón. Cada video te llega listo para publicar: con su portada clickbait y su descripción para Instagram, TikTok, YouTube Shorts y Facebook.</li>
+    </ul>
+  </section>
+
+  <section class="expect">
+    <h2>Para gastar menos uso de tu IA</h2>
+    <ul>
+      <li><strong>Para ahorrar tokens,</strong> abre una conversación nueva en esta carpeta para el siguiente video cuando la conversación ya sea larga. Cada mensaje de una conversación larga gasta más tokens de tu plan.</li>
+      <li><strong>Apaga los conectores que no uses</strong> mientras haces videos (correo, calendario, Notion, Figma…). Cada uno pesa en cada mensaje.</li>
+    </ul>
+  </section>
+
+  <section class="help">
+    <h2>¿Te trabaste?</h2>
+    <p>Escríbenos por DM en Instagram a <a href="https://instagram.com/proyecto_atom" target="_blank" rel="noopener">@proyecto_atom</a> con una captura.</p>
+    <small>Una captura es una foto de tu pantalla. En Windows: tecla Windows + Mayús + S. En Mac: Cmd + Mayús + 4. Te responde una persona.</small>
+  </section>
+
+</main>
+
+<footer>ATOM Élite · Proyecto ATOM · proyectoatom.lat</footer>
+
+<script>
+  document.querySelectorAll('.copy').forEach((b) => b.addEventListener('click', async () => {
+    const text = b.dataset.copy;
+    try { await navigator.clipboard.writeText(text); } catch {
+      const t = Object.assign(document.createElement('textarea'), { value: text });
+      document.body.append(t); t.select(); try { document.execCommand('copy'); } catch {} t.remove();
+    }
+    b.classList.add('ok'); b.textContent = '¡Copiado!';
+    setTimeout(() => { b.classList.remove('ok'); b.textContent = 'Copiar'; }, 1600);
+  }));
+</script>
+</body>
+</html>

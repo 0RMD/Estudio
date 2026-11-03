@@ -1,0 +1,4 @@
+Earth surface texture: NASA Blue Marble (land surface, ocean color, sea ice), NASA Goddard Space Flight Center / Reto Stöckli. Public NASA imagery.
+https://eoimages.gsfc.nasa.gov/images/imagerecords/57000/57730/land_ocean_ice_2048.jpg
+https://science.nasa.gov/earth/earth-observatory/the-blue-marble-true-color-global-imagery-at-1km-resolution/
+Original procedural geometry, light, animation and synthesized score. No third-party music used.

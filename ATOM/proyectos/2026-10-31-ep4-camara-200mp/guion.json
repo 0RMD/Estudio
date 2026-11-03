@@ -1,0 +1,65 @@
+{
+  "titulo": "El engaño de los 200 megapíxeles de noche",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "voz": {
+    "id": "gWaDC0oXAheKoZfljzuI",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.4,
+    "similitud": 0.8,
+    "estilo": 0,
+    "velocidad": 1.12
+  },
+  "frases": [
+    {
+      "texto": "¿Sabías que un celular de 200 megapíxeles puede tomar peores fotos de noche que uno de 48?",
+      "dicho": "¿Sabías que un celular de doscientos megapíxeles puede tomar peores fotos de noche que uno de cuarenta y ocho?",
+      "clave": "noche",
+      "hook": true
+    },
+    {
+      "texto": "Las marcas presumen el número gigante en la caja, pero esconden el tamaño del sensor.",
+      "clave": "sensor",
+      "hook": true
+    },
+    {
+      "texto": "Como el sensor del celular es pequeño, meter 200 millones de píxeles los vuelve diminutos.",
+      "dicho": "Como el sensor del celular es pequeño, meter doscientos millones de píxeles los vuelve diminutos.",
+      "clave": "diminutos"
+    },
+    {
+      "texto": "Con buen sol sobra luz y cada puntito logra una foto llena de detalle.",
+      "clave": "sol"
+    },
+    {
+      "texto": "Pero de noche falta luz: un píxel minúsculo casi no atrapa nada y saca ruido.",
+      "clave": "ruido"
+    },
+    {
+      "texto": "Es como salir bajo una llovizna con 200 dedales finitos en vez de 12 baldes anchos.",
+      "dicho": "Es como salir bajo una llovizna con doscientos dedales finitos en vez de doce baldes anchos.",
+      "clave": "baldes"
+    },
+    {
+      "texto": "Por eso de noche ese mismo celular une 16 píxeles en uno y dispara a solo 12 megapíxeles.",
+      "dicho": "Por eso de noche ese mismo celular une dieciséis píxeles en uno y dispara a solo doce megapíxeles.",
+      "clave": "une"
+    },
+    {
+      "texto": "Lo que mejora tus fotos nocturnas no son más megapíxeles: es un sensor físico más grande.",
+      "clave": "grande"
+    },
+    {
+      "texto": "Al elegir celular, busca el tamaño físico del sensor antes de pagar por más megapíxeles.",
+      "clave": "elegir"
+    },
+    {
+      "texto": "Envíaselo a ese amigo que compra celular mirando solo cuántos megapíxeles dice la caja.",
+      "clave": "amigo"
+    },
+    {
+      "texto": "Y entra a mi perfil para ver los cuatro episodios completos de Mitos de tu Celular.",
+      "clave": "perfil"
+    }
+  ]
+}

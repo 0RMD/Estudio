@@ -1,0 +1,111 @@
+{
+  "at": "2026-10-31T02:21:27.864Z",
+  "checks": [
+    {
+      "name": "node",
+      "status": "ok",
+      "detail": "Node 24.15.0",
+      "fix": null,
+      "who": "agent",
+      "cmd": null
+    },
+    {
+      "name": "packages",
+      "status": "ok",
+      "detail": "packages installed",
+      "fix": null,
+      "who": "agent",
+      "cmd": null
+    },
+    {
+      "name": "ffmpeg",
+      "status": "ok",
+      "detail": "ffmpeg and ffprobe run (from the PATH)",
+      "fix": null,
+      "who": "agent",
+      "cmd": null
+    },
+    {
+      "name": "browser",
+      "status": "warn",
+      "detail": "render browser not downloaded yet",
+      "fix": "it comes down on the first render, or now",
+      "who": "agent",
+      "cmd": "npx remotion browser ensure"
+    },
+    {
+      "name": "transcription",
+      "status": "warn",
+      "detail": "speech model and engine are not here yet",
+      "fix": "only formats with speech need it, and it installs itself the first time one runs",
+      "who": "agent",
+      "cmd": null
+    },
+    {
+      "name": "disk",
+      "status": "ok",
+      "detail": "82 GB free",
+      "fix": null,
+      "who": "agent",
+      "cmd": null
+    },
+    {
+      "name": "packs",
+      "status": "warn",
+      "detail": "no format installed",
+      "fix": "a downloaded pack is merged in from its path",
+      "who": "agent",
+      "cmd": "node scripts/add.mjs <path>"
+    },
+    {
+      "name": "you",
+      "status": "ok",
+      "detail": "nothing yet, which is right on day one",
+      "fix": null,
+      "who": "agent",
+      "cmd": null
+    },
+    {
+      "name": "commands",
+      "status": "fix",
+      "detail": "runtime.json: missing or invalid JSON; .agents/skills/start/SKILL.md: missing skill; .agents/skills/add/SKILL.md: missing skill; .agents/skills/setup/SKILL.md: missing skill; .agents/skills/stages/SKILL.md: missing skill; .agents/skills/research/SKILL.md: missing skill; .agents/skills/captions/SKILL.md: missing skill; .agents/skills/footage/SKILL.md: missing skill; .agents/skills/measuring/SKILL.md: missing skill; AGENTS.md: missing session startup fallback; hooks/session-start.mjs: missing startup script; hooks/session-start-json.mjs: missing startup script; .claude/settings.json: missing or invalid JSON; .claude/settings.json: missing session startup command; .grok/hooks/session-start.json: missing or invalid JSON; .grok/hooks/session-start.json: missing session startup command; .gemini/settings.json: missing or invalid JSON; .gemini/settings.json: missing session startup command; .gemini/settings.json: context.fileName must include AGENTS.md; .cursor/hooks.json: missing or invalid JSON; .cursor/hooks.json: missing session startup command",
+      "fix": "restore missing skills from the pack and repair its agent entry points",
+      "who": "agent",
+      "cmd": "node scripts/agent-skills.mjs --json"
+    },
+    {
+      "name": "keys",
+      "status": "fix",
+      "detail": "missing: COMPOSIO_API_KEY",
+      "fix": "paste it on the keys page; nothing else can supply it. New to Composio: .agents/skills/start/references/access.md",
+      "who": "you",
+      "cmd": "node scripts/keys/server.mjs"
+    },
+    {
+      "name": "connection",
+      "status": "warn",
+      "detail": "no account access yet",
+      "fix": "One key on the keys page, then a link to approve in your browser",
+      "who": "you",
+      "cmd": null
+    },
+    {
+      "name": "start",
+      "status": "warn",
+      "detail": "start has not finished",
+      "fix": "Say: set me up",
+      "who": "agent",
+      "cmd": null
+    },
+    {
+      "name": "posts",
+      "status": "warn",
+      "detail": "no posts pulled yet",
+      "fix": "Runs during start",
+      "who": "agent",
+      "cmd": null
+    }
+  ],
+  "blocking": true,
+  "version": null
+}

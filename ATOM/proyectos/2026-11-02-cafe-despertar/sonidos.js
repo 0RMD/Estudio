@@ -1,0 +1,15 @@
+export default (v) => [
+  { t: 0.08, sonido: "desliza", db: -6 },
+  { t: v.frase(1).t("despiertas"), sonido: "sube", db: -5 },
+  { t: v.frase(1).t("mediodia"), sonido: "aviso", db: -4 },
+  { t: v.frase(2).t("levantarte"), sonido: "desliza", db: -6 },
+  { t: v.frase(2).t("enciende"), sonido: "sube", db: -5 },
+  { t: v.frase(2).t("energia"), sonido: "timbre", db: -6 },
+  { t: v.frase(3).t("tapa"), sonido: "madera", db: -5 },
+  { t: v.frase(3).t("corcho"), sonido: "aprieta", db: -4 },
+  { t: v.frase(3).t("salta"), sonido: "estallido", db: -4 },
+  { t: v.frase(4).t("90"), sonido: "tic", db: -5 },
+  { t: v.frase(4).t("despertar"), sonido: "timbre", db: -5 },
+  { t: v.frase(4).t("enviaselo"), sonido: "toque", db: -6 },
+  { t: v.frase(4).t("sueno"), sonido: "clic", db: -6 },
+];

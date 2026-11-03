@@ -1,0 +1,35 @@
+{
+  "titulo": "Por qué posponer la alarma 5 minutos te deja más cansado",
+  "idioma": "es",
+  "tema": "claro",
+  "subtitulos": "arriba",
+  "voz": {
+    "id": "gWaDC0oXAheKoZfljzuI",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.4,
+    "similitud": 0.8,
+    "estilo": 0,
+    "velocidad": 1.12
+  },
+  "frases": [
+    {
+      "texto": "¿Por qué posponer la alarma 5 minutos te deja cansado todo el día?",
+      "dicho": "¿Por qué posponer la alarma cinco minutos te deja cansado todo el día?",
+      "clave": "cansado",
+      "hook": true
+    },
+    {
+      "texto": "Al volver a dormirte, tu cerebro inicia un ciclo nuevo y baja más profundo.",
+      "clave": "profundo"
+    },
+    {
+      "texto": "Cortarlo de golpe a los 5 minutos te deja aturdido durante horas.",
+      "dicho": "Cortarlo de golpe a los cinco minutos te deja aturdido durante horas.",
+      "clave": "aturdido"
+    },
+    {
+      "texto": "Usa una sola alarma. Envíaselo a ese amigo que pone diez seguidas.",
+      "clave": "diez"
+    }
+  ]
+}

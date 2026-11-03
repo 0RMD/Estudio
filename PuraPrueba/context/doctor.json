@@ -1,0 +1,207 @@
+{
+  "at": "2026-11-01T19:07:44.114Z",
+  "checks": [
+    {
+      "name": "node",
+      "status": "ok",
+      "detail": "Node 24.15.0",
+      "fix": null,
+      "who": "agent",
+      "cmd": null
+    },
+    {
+      "name": "packages",
+      "status": "ok",
+      "detail": "packages installed",
+      "fix": null,
+      "who": "agent",
+      "cmd": null
+    },
+    {
+      "name": "editor",
+      "status": "ok",
+      "detail": "video editor ready (2 formats)",
+      "fix": null,
+      "who": "agent",
+      "cmd": null
+    },
+    {
+      "name": "ffmpeg",
+      "status": "ok",
+      "detail": "ffmpeg and ffprobe run (the full build installed with the packages)",
+      "fix": null,
+      "who": "agent",
+      "cmd": null
+    },
+    {
+      "name": "browser",
+      "status": "ok",
+      "detail": "render browser present",
+      "fix": null,
+      "who": "agent",
+      "cmd": null
+    },
+    {
+      "name": "transcription",
+      "status": "warn",
+      "detail": "speech model and engine are not here yet",
+      "fix": "only formats with speech need it, and it installs itself the first time one runs",
+      "who": "agent",
+      "cmd": null
+    },
+    {
+      "name": "python",
+      "status": "ok",
+      "detail": "Python runner present",
+      "fix": null,
+      "who": "agent",
+      "cmd": null
+    },
+    {
+      "name": "disk",
+      "status": "ok",
+      "detail": "74 GB free",
+      "fix": null,
+      "who": "agent",
+      "cmd": null
+    },
+    {
+      "name": "packs",
+      "status": "ok",
+      "detail": "full-visual 0.1.1, talking-head 0.6.0, split-explainer 0.2.0",
+      "fix": null,
+      "who": "agent",
+      "cmd": null
+    },
+    {
+      "name": "full-visual, ffmpeg",
+      "status": "ok",
+      "detail": "ffmpeg ready",
+      "fix": null,
+      "who": "agent",
+      "cmd": null
+    },
+    {
+      "name": "full-visual, ffprobe",
+      "status": "ok",
+      "detail": "ffprobe ready",
+      "fix": null,
+      "who": "agent",
+      "cmd": null
+    },
+    {
+      "name": "talking-head, ffmpeg",
+      "status": "ok",
+      "detail": "ffmpeg ready",
+      "fix": null,
+      "who": "agent",
+      "cmd": null
+    },
+    {
+      "name": "talking-head, ffprobe",
+      "status": "ok",
+      "detail": "ffprobe ready",
+      "fix": null,
+      "who": "agent",
+      "cmd": null
+    },
+    {
+      "name": "talking-head, auto-editor",
+      "status": "fix",
+      "detail": "auto-editor missing on this machine",
+      "fix": "talking-head uses it for the levels and the cut, and on a Mac the transcript. On Windows a program is only found by a terminal opened after it was installed: once installed, open a new one and check again",
+      "who": "agent",
+      "cmd": "curl -L --create-dirs -o \"%LOCALAPPDATA%\\Microsoft\\WindowsApps\\auto-editor.exe\" https://github.com/WyattBlue/auto-editor/releases/latest/download/auto-editor-windows-x86_64.exe"
+    },
+    {
+      "name": "talking-head, python3",
+      "status": "fix",
+      "detail": "python3 missing on this machine",
+      "fix": "talking-head uses it for its scripts are called as python3. On Windows a program is only found by a terminal opened after it was installed: once installed, open a new one and check again",
+      "who": "agent",
+      "cmd": "winget install -e --id Python.Python.3.12 --accept-package-agreements --accept-source-agreements & py -3 -c \"import shutil,sys,os; shutil.copy(sys.executable, os.path.join(os.path.dirname(sys.executable), 'python3.exe'))\""
+    },
+    {
+      "name": "talking-head, python packages",
+      "status": "fix",
+      "detail": "python packages missing on this machine",
+      "fix": "talking-head uses it for measuring, charts and its checks. On Windows a program is only found by a terminal opened after it was installed: once installed, open a new one and check again",
+      "who": "agent",
+      "cmd": "python3 -m pip install --user pillow numpy matplotlib scipy opencv-python-headless || python3 -m pip install --user --break-system-packages pillow numpy matplotlib scipy opencv-python-headless"
+    },
+    {
+      "name": "you",
+      "status": "ok",
+      "detail": "nothing yet, which is right on day one",
+      "fix": null,
+      "who": "agent",
+      "cmd": null
+    },
+    {
+      "name": "you, full-visual",
+      "status": "ok",
+      "detail": "nothing yet, which is right on day one",
+      "fix": null,
+      "who": "agent",
+      "cmd": null
+    },
+    {
+      "name": "you, talking-head",
+      "status": "ok",
+      "detail": "nothing yet, which is right on day one",
+      "fix": null,
+      "who": "agent",
+      "cmd": null
+    },
+    {
+      "name": "you, split-explainer",
+      "status": "ok",
+      "detail": "nothing yet, which is right on day one",
+      "fix": null,
+      "who": "agent",
+      "cmd": null
+    },
+    {
+      "name": "commands",
+      "status": "fix",
+      "detail": ".installed/full-visual.json: missing or invalid JSON; .installed/talking-head.json: missing or invalid JSON; .installed/split-explainer.json: missing or invalid JSON",
+      "fix": "restore missing skills from the pack and repair its agent entry points",
+      "who": "agent",
+      "cmd": "node scripts/agent-skills.mjs --json"
+    },
+    {
+      "name": "keys",
+      "status": "fix",
+      "detail": "missing: COMPOSIO_API_KEY",
+      "fix": "paste it on the keys page; nothing else can supply it. New to Composio: .agents/skills/start/references/access.md",
+      "who": "you",
+      "cmd": "node scripts/keys/server.mjs"
+    },
+    {
+      "name": "connection",
+      "status": "warn",
+      "detail": "no account access yet",
+      "fix": "One key on the keys page, then a link to approve in your browser",
+      "who": "you",
+      "cmd": null
+    },
+    {
+      "name": "start",
+      "status": "warn",
+      "detail": "start has not finished",
+      "fix": "Say: set me up",
+      "who": "agent",
+      "cmd": null
+    },
+    {
+      "name": "posts",
+      "status": "warn",
+      "detail": "no posts pulled yet",
+      "fix": "Runs during start",
+      "who": "agent",
+      "cmd": null
+    }
+  ],
+  "blocking": true,
+  "version": "0.2.11"
+}

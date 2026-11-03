@@ -1,0 +1,12 @@
+Apagar el WiFi en la barra rápida NO apaga la antena de tu celular
+
+Ese botón rápido solo te desconecta del router actual por unas horas, pero deja la antena encendida en segundo plano para AirDrop, el reloj, el escaneo de Ubicación en Android y la reconexión automática a las 5:00 a. m. en iPhone.
+
+Cómo apagar el WiFi de raíz para cuidar tu batería y tu privacidad:
+1. Entra directo a Ajustes > WiFi y apágalo ahí hasta ver el ícono tachado.
+2. En Android, entra a Ubicación > Servicios de ubicación y desactiva «Búsqueda de WiFi».
+
+Envíaselo a ese amigo que siempre lo apaga desde arriba para ahorrar batería 🔋
+¿Tú lo apagabas desde la barra rápida o entrando a Ajustes? Te leo en comentarios 👇
+
+#puraprueba #wifi #trucoscelular #bateriacelular #iphone #android #tecnologia

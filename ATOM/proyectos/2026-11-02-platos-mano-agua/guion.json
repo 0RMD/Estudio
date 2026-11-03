@@ -1,0 +1,36 @@
+{
+  "titulo": "Por qué lavar los platos a mano gasta 4 veces más agua",
+  "idioma": "es",
+  "tema": "claro",
+  "subtitulos": "arriba",
+  "voz": {
+    "id": "gWaDC0oXAheKoZfljzuI",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.4,
+    "similitud": 0.8,
+    "estilo": 0,
+    "velocidad": 1.12
+  },
+  "frases": [
+    {
+      "texto": "¿Sabías que lavar los platos a mano gasta 4 veces más agua?",
+      "dicho": "¿Sabías que lavar los platos a mano gasta cuatro veces más agua?",
+      "clave": "agua",
+      "hook": true
+    },
+    {
+      "texto": "Con la llave abierta se van 50 litros limpios directo al desagüe.",
+      "dicho": "Con la llave abierta se van cincuenta litros limpios directo al desagüe.",
+      "clave": "desagüe"
+    },
+    {
+      "texto": "El lavavajillas llena solo 12 litros y los recicla calientes una y otra vez.",
+      "dicho": "El lavavajillas llena solo doce litros y los recicla calientes una y otra vez.",
+      "clave": "recicla"
+    },
+    {
+      "texto": "Envíaselo a ese amigo que lava a mano para ahorrar agua.",
+      "clave": "amigo"
+    }
+  ]
+}

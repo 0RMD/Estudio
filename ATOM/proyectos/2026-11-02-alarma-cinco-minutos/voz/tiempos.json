@@ -1,0 +1,393 @@
+{
+  "firma": "a105c8e8ab99",
+  "duracion": 18.88,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "¿Por qué posponer la alarma 5 minutos te deja cansado todo el día?",
+      "clave": "cansado",
+      "inicio": 0,
+      "fin": 3.92
+    },
+    {
+      "n": 2,
+      "texto": "Al volver a dormirte, tu cerebro inicia un ciclo nuevo y baja más profundo.",
+      "clave": "profundo",
+      "inicio": 4.4,
+      "fin": 8.8
+    },
+    {
+      "n": 3,
+      "texto": "Cortarlo de golpe a los 5 minutos te deja aturdido durante horas.",
+      "clave": "aturdido",
+      "inicio": 9.28,
+      "fin": 13.24
+    },
+    {
+      "n": 4,
+      "texto": "Usa una sola alarma. Envíaselo a ese amigo que pone diez seguidas.",
+      "clave": "diez",
+      "inicio": 13.52,
+      "fin": 18.08
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "¿Por",
+      "inicio": 0,
+      "fin": 0.16,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "qué",
+      "inicio": 0.2,
+      "fin": 0.24,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "posponer",
+      "inicio": 0.32,
+      "fin": 0.72,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 0.8,
+      "fin": 0.88,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "alarma",
+      "inicio": 1,
+      "fin": 1.28,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "5",
+      "inicio": 1.36,
+      "fin": 1.68,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "minutos",
+      "inicio": 1.76,
+      "fin": 2.16,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "te",
+      "inicio": 2.2,
+      "fin": 2.24,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "deja",
+      "inicio": 2.32,
+      "fin": 2.56,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "cansado",
+      "inicio": 2.6,
+      "fin": 3.12,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "todo",
+      "inicio": 3.2,
+      "fin": 3.44,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "el",
+      "inicio": 3.48,
+      "fin": 3.52,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "día?",
+      "inicio": 3.6,
+      "fin": 3.92,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "Al",
+      "inicio": 4.4,
+      "fin": 4.48,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "volver",
+      "inicio": 4.52,
+      "fin": 4.8,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 4.827,
+      "fin": 4.853,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "dormirte,",
+      "inicio": 4.88,
+      "fin": 5.6,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "tu",
+      "inicio": 5.64,
+      "fin": 5.68,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "cerebro",
+      "inicio": 5.76,
+      "fin": 6.08,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "inicia",
+      "inicio": 6.12,
+      "fin": 6.4,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 6.48,
+      "fin": 6.56,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "ciclo",
+      "inicio": 6.6,
+      "fin": 6.88,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "nuevo",
+      "inicio": 6.96,
+      "fin": 7.28,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 7.44,
+      "fin": 7.52,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "baja",
+      "inicio": 7.56,
+      "fin": 7.84,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 8,
+      "fin": 8.16,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "profundo.",
+      "inicio": 8.24,
+      "fin": 8.8,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "Cortarlo",
+      "inicio": 9.28,
+      "fin": 9.68,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 9.72,
+      "fin": 9.76,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "golpe",
+      "inicio": 9.84,
+      "fin": 10.08,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 10.12,
+      "fin": 10.16,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 10.24,
+      "fin": 10.32,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "5",
+      "inicio": 10.4,
+      "fin": 10.56,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "minutos",
+      "inicio": 10.64,
+      "fin": 11.12,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "te",
+      "inicio": 11.16,
+      "fin": 11.2,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "deja",
+      "inicio": 11.28,
+      "fin": 11.44,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "aturdido",
+      "inicio": 11.6,
+      "fin": 12,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "durante",
+      "inicio": 12.08,
+      "fin": 12.48,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "horas.",
+      "inicio": 12.56,
+      "fin": 13.24,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "Usa",
+      "inicio": 13.52,
+      "fin": 13.76,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 13.92,
+      "fin": 14.16,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "sola",
+      "inicio": 14.24,
+      "fin": 14.48,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "alarma.",
+      "inicio": 14.6,
+      "fin": 15.16,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 15.36,
+      "fin": 15.92,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 15.96,
+      "fin": 16,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 16.08,
+      "fin": 16.16,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "amigo",
+      "inicio": 16.24,
+      "fin": 16.48,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 16.56,
+      "fin": 16.64,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "pone",
+      "inicio": 16.76,
+      "fin": 16.88,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "diez",
+      "inicio": 16.96,
+      "fin": 17.24,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "seguidas.",
+      "inicio": 17.28,
+      "fin": 18.08,
+      "frase": 4,
+      "clave": false
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "titulo": "Apagar el WiFi en la barra rápida no lo apaga",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "voz": {
+    "id": "gWaDC0oXAheKoZfljzuI",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.4,
+    "similitud": 0.8,
+    "estilo": 0,
+    "velocidad": 1.12
+  },
+  "frases": [
+    {
+      "texto": "¿Sabías que apagar el WiFi en la barra rápida de tu celular no lo apaga?",
+      "clave": "apaga",
+      "hook": true
+    },
+    {
+      "texto": "Y esta noche, cuando apagues la luz, va a seguir buscando redes.",
+      "clave": "noche",
+      "hook": true
+    },
+    {
+      "texto": "Apple confirma que ese botón solo te desconecta del router, pero deja la antena encendida.",
+      "clave": "antena"
+    },
+    {
+      "texto": "Lo hace para que AirDrop, tu reloj y la ubicación sigan funcionando.",
+      "clave": "reloj"
+    },
+    {
+      "texto": "Peor aún: en iPhone, a las cinco de la mañana se reconecta solo mientras duermes.",
+      "clave": "cinco"
+    },
+    {
+      "texto": "Y en Android, aunque lo apagues, Ubicación sigue escaneando las redes de tus vecinos.",
+      "clave": "vecinos"
+    },
+    {
+      "texto": "Es como cerrar con llave tu puerta, pero dejar todas las ventanas abiertas.",
+      "clave": "ventanas"
+    },
+    {
+      "texto": "En la calle, ese rastreo gasta batería y registra por qué tiendas pasaste.",
+      "clave": "batería"
+    },
+    {
+      "texto": "Para apagarlo de raíz, entra a Ajustes y desactiva WiFi hasta verlo tachado.",
+      "clave": "Ajustes"
+    },
+    {
+      "texto": "Y en Android, apaga también la búsqueda de WiFi dentro de Ubicación.",
+      "clave": "Ubicación"
+    },
+    {
+      "texto": "Porque si solo tocas arriba, esta noche tu antena vuelve a despertar.",
+      "clave": "despertar"
+    },
+    {
+      "texto": "Envíaselo a ese amigo que lo apaga desde arriba para ahorrar batería.",
+      "clave": "amigo"
+    },
+    {
+      "texto": "Y mañana, episodio dos: cómo un cable barato quema tu celular por dentro.",
+      "clave": "cable"
+    }
+  ]
+}

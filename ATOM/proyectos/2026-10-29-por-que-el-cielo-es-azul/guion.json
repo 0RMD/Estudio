@@ -1,0 +1,59 @@
+{
+  "titulo": "Por qué el cielo es azul",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    {
+      "texto": "¿Por qué el cielo se ve azul, si el aire que respiras no tiene color?",
+      "clave": "azul",
+      "hook": true
+    },
+    {
+      "texto": "Si sales al espacio, con el mismo Sol brillando, todo alrededor se ve negro.",
+      "clave": "negro",
+      "hook": true
+    },
+    {
+      "texto": "Entonces, ¿de dónde sale ese azul?",
+      "clave": "dónde",
+      "hook": true
+    },
+    {
+      "texto": "En 1871, el físico Lord Rayleigh resolvió el misterio.",
+      "dicho": "En mil ochocientos setenta y uno, el físico Lord Réili resolvió el misterio.",
+      "clave": "misterio"
+    },
+    {
+      "texto": "La luz del Sol parece blanca, pero al cruzar un cristal se abre en todos los colores.",
+      "clave": "colores"
+    },
+    {
+      "texto": "Cada color viaja haciendo olas: el rojo en olas largas y suaves, y el azul en olas cortas y rápidas.",
+      "clave": "olas"
+    },
+    {
+      "texto": "Al entrar en el aire, las olas rojas son tan largas que esquivan los gases y pasan de largo.",
+      "clave": "esquivan"
+    },
+    {
+      "texto": "Pero las azules, al ser tan pequeñas, chocan y rebotan nueve veces más por todo el cielo.",
+      "clave": "nueve"
+    },
+    {
+      "texto": "Compruébalo con una linterna y un vaso de agua con dos gotas de leche: el agua atrapa el azul y lo reparte.",
+      "clave": "linterna"
+    },
+    {
+      "texto": "Por eso al atardecer, como la luz cruza mucho más aire, el azul se pierde y solo llega el rojo.",
+      "clave": "atardecer"
+    },
+    {
+      "texto": "Así que el aire no tiene color: lo que ves arriba es luz del Sol rebotando sin parar.",
+      "clave": "rebotando"
+    },
+    {
+      "texto": "Envíaselo a ese amigo que mira el cielo todos los días y no sabe por qué es azul.",
+      "clave": "amigo"
+    }
+  ]
+}

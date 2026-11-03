@@ -1,0 +1,17 @@
+Abrir el modo incógnito en tu celular no oculta lo que visitas: estos 3 rastreadores te ven igual.
+
+En 2024 Google aceptó destruir más de 5,000 millones de registros tras una demanda colectiva por rastrear usuarios incluso durante sesiones privadas. Esa ventana oscura solo borra el historial, las cookies y los formularios dentro de tu propio teléfono al cerrarla, como limpiar tus huellas dentro de casa.
+
+Quiénes siguen viendo tu actividad en tiempo real:
+1. Tu proveedor de internet (ISP) y operador celular.
+2. El administrador del router Wi-Fi de tu trabajo, escuela o cafetería.
+3. Los sitios web mediante huella digital del navegador (cruzando tu IP, modelo de pantalla y nivel de batería con hasta 99% de precisión).
+
+Los 3 escudos para privacidad real hoy:
+1. Activa DNS Privado / Cifrado en los ajustes de tu celular.
+2. Activa el bloqueo estricto de rastreadores de terceros en tu navegador.
+3. Usa una VPN confiable cuando te conectes a redes Wi-Fi públicas.
+
+Dime en los comentarios: ¿para qué usabas el modo incógnito creyendo que eras invisible? 👇
+
+#puraprueba #privacidad #ciberseguridad #incognito #celular #tecnologia #internet #trucos

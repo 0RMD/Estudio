@@ -1,0 +1,42 @@
+# ============================================================================
+# Claves privadas y sesiones (NUNCA subir a GitHub)
+# ============================================================================
+.env
+.env.local
+.env.*.local
+**/.env
+**/.env.local
+**/.env.*.local
+ATOM/PEGA-AQUI-TU-CLAVE-ELEVENLABS.txt
+**/PEGA-AQUI-TU-CLAVE-ELEVENLABS.txt
+**/browser-profile/
+
+# ============================================================================
+# Dependencias auto-instalables y cachés pesadas (>100 MB)
+# ============================================================================
+**/node_modules/
+.remotion/
+**/.remotion/
+**/__pycache__/
+PuraPrueba/models/
+PuraPrueba/whisper.cpp/
+PuraPrueba/dist/
+PuraPrueba/.installed/
+PuraPrueba/.keyframes/
+
+# ============================================================================
+# Copias intermedias de render (los videos finales viven en workspace/output/ y ATOM/salida/)
+# ============================================================================
+PuraPrueba/engine/full-visual/public/
+PuraPrueba/engine/full-visual/output/
+PuraPrueba/engine/full-visual/reels/*/*.mp4
+PuraPrueba/engine/full-visual/reels/*/voice.raw.mp3
+PuraPrueba/engine/full-visual/reels/*/voice.pre_tempo.mp3
+PuraPrueba/engine/full-visual/reels/*/assets/atom-upper.mp4
+PuraPrueba/engine/full-visual/reels/*/assets/atom-lower.mp4
+
+# ============================================================================
+# Archivos de sistema
+# ============================================================================
+.DS_Store
+Thumbs.db

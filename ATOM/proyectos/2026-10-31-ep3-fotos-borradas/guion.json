@@ -1,0 +1,62 @@
+{
+  "titulo": "Dónde quedan las fotos que borras de tu celular",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "voz": {
+    "id": "gWaDC0oXAheKoZfljzuI",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.4,
+    "similitud": 0.8,
+    "estilo": 0,
+    "velocidad": 1.12
+  },
+  "frases": [
+    {
+      "texto": "¿Sabías que cuando borras una foto de tu celular y vacías la papelera, sigue entera dentro del chip?",
+      "clave": "chip",
+      "hook": true
+    },
+    {
+      "texto": "Desaparece de tu galería al instante, pero sus píxeles siguen guardados abajo.",
+      "clave": "píxeles",
+      "hook": true
+    },
+    {
+      "texto": "La memoria de tu celular se desgasta si borra cada celda con electricidad al momento.",
+      "clave": "desgasta"
+    },
+    {
+      "texto": "Por eso el sistema solo tacha su dirección y marca ese hueco como espacio libre.",
+      "clave": "libre"
+    },
+    {
+      "texto": "Es como arrancar un renglón del índice de un libro, dejando la página con la foto intacta.",
+      "clave": "libro"
+    },
+    {
+      "texto": "La imagen queda ahí hasta que tomas fotos o videos nuevos que escriben encima.",
+      "clave": "encima"
+    },
+    {
+      "texto": "En memorias sin cifrar o celulares mal borrados, un programa recupera esas páginas ocultas.",
+      "clave": "recupera"
+    },
+    {
+      "texto": "Por eso, antes de vender o regalar tu celular, no borres fotos una por una.",
+      "clave": "vender"
+    },
+    {
+      "texto": "Entra a Ajustes y usa Restablecer de fábrica: eso destruye la llave secreta y bloquea todo el chip.",
+      "clave": "fábrica"
+    },
+    {
+      "texto": "Envíaselo a ese amigo que está por vender o cambiar su celular viejo.",
+      "clave": "amigo"
+    },
+    {
+      "texto": "Y mañana, episodio cuatro: el engaño de las cámaras de 200 megapíxeles de noche.",
+      "dicho": "Y mañana, episodio cuatro: el engaño de las cámaras de doscientos megapíxeles de noche.",
+      "clave": "megapíxeles"
+    }
+  ]
+}

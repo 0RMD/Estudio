@@ -1,0 +1,1630 @@
+{
+ "duration": 49.997,
+ "silences": [
+  [
+   4.51,
+   4.63
+  ],
+  [
+   20.67,
+   20.79
+  ],
+  [
+   30.01,
+   30.13
+  ],
+  [
+   34.79,
+   35.41
+  ],
+  [
+   42.49,
+   42.62
+  ],
+  [
+   49.41,
+   49.99
+  ]
+ ],
+ "scenes": [
+  {
+   "id": "hook",
+   "ground": "dark",
+   "firstWord": 0
+  },
+  {
+   "id": "lawsuit",
+   "ground": "light",
+   "firstWord": 18
+  },
+  {
+   "id": "local",
+   "ground": "light",
+   "firstWord": 37
+  },
+  {
+   "id": "isp",
+   "ground": "dark",
+   "firstWord": 63
+  },
+  {
+   "id": "fingerprint",
+   "ground": "dark",
+   "firstWord": 90
+  },
+  {
+   "id": "rule",
+   "ground": "light",
+   "firstWord": 115
+  },
+  {
+   "id": "cta",
+   "ground": "dark",
+   "firstWord": 137
+  }
+ ],
+ "blocks": [
+  {
+   "words": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "slot": "top",
+   "scene": 0
+  },
+  {
+   "words": [
+    4,
+    5,
+    6
+   ],
+   "slot": "top",
+   "scene": 0
+  },
+  {
+   "words": [
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "slot": "top",
+   "scene": 0
+  },
+  {
+   "words": [
+    12,
+    13,
+    14
+   ],
+   "slot": "top",
+   "scene": 0
+  },
+  {
+   "words": [
+    15,
+    16,
+    17
+   ],
+   "slot": "top",
+   "scene": 0
+  },
+  {
+   "words": [
+    18,
+    19,
+    20,
+    21
+   ],
+   "slot": "top",
+   "scene": 1
+  },
+  {
+   "words": [
+    22,
+    23,
+    24,
+    25
+   ],
+   "slot": "top",
+   "scene": 1
+  },
+  {
+   "words": [
+    26,
+    27
+   ],
+   "slot": "top",
+   "scene": 1
+  },
+  {
+   "words": [
+    28,
+    29,
+    30
+   ],
+   "slot": "top",
+   "scene": 1
+  },
+  {
+   "words": [
+    31,
+    32,
+    33
+   ],
+   "slot": "top",
+   "scene": 1
+  },
+  {
+   "words": [
+    34,
+    35,
+    36
+   ],
+   "slot": "top",
+   "scene": 1
+  },
+  {
+   "words": [
+    37,
+    38,
+    39
+   ],
+   "slot": "top",
+   "scene": 2
+  },
+  {
+   "words": [
+    40,
+    41,
+    42,
+    43
+   ],
+   "slot": "top",
+   "scene": 2
+  },
+  {
+   "words": [
+    44,
+    45
+   ],
+   "slot": "top",
+   "scene": 2
+  },
+  {
+   "words": [
+    46,
+    47,
+    48
+   ],
+   "slot": "top",
+   "scene": 2
+  },
+  {
+   "words": [
+    49,
+    50,
+    51,
+    52
+   ],
+   "slot": "top",
+   "scene": 2
+  },
+  {
+   "words": [
+    53
+   ],
+   "slot": "top",
+   "scene": 2
+  },
+  {
+   "words": [
+    54,
+    55
+   ],
+   "slot": "top",
+   "scene": 2
+  },
+  {
+   "words": [
+    56,
+    57,
+    58
+   ],
+   "slot": "top",
+   "scene": 2
+  },
+  {
+   "words": [
+    59
+   ],
+   "slot": "top",
+   "scene": 2
+  },
+  {
+   "words": [
+    60,
+    61,
+    62
+   ],
+   "slot": "top",
+   "scene": 2
+  },
+  {
+   "words": [
+    63,
+    64,
+    65,
+    66
+   ],
+   "slot": "top",
+   "scene": 3
+  },
+  {
+   "words": [
+    67,
+    68
+   ],
+   "slot": "top",
+   "scene": 3
+  },
+  {
+   "words": [
+    69,
+    70,
+    71,
+    72
+   ],
+   "slot": "top",
+   "scene": 3
+  },
+  {
+   "words": [
+    73,
+    74,
+    75,
+    76
+   ],
+   "slot": "top",
+   "scene": 3
+  },
+  {
+   "words": [
+    77,
+    78,
+    79,
+    80,
+    81
+   ],
+   "slot": "top",
+   "scene": 3
+  },
+  {
+   "words": [
+    82,
+    83,
+    84
+   ],
+   "slot": "top",
+   "scene": 3
+  },
+  {
+   "words": [
+    85,
+    86,
+    87,
+    88,
+    89
+   ],
+   "slot": "top",
+   "scene": 3
+  },
+  {
+   "words": [
+    90,
+    91
+   ],
+   "slot": "top",
+   "scene": 4
+  },
+  {
+   "words": [
+    92,
+    93,
+    94
+   ],
+   "slot": "top",
+   "scene": 4
+  },
+  {
+   "words": [
+    95,
+    96,
+    97
+   ],
+   "slot": "top",
+   "scene": 4
+  },
+  {
+   "words": [
+    98,
+    99,
+    100,
+    101
+   ],
+   "slot": "top",
+   "scene": 4
+  },
+  {
+   "words": [
+    102,
+    103,
+    104
+   ],
+   "slot": "top",
+   "scene": 4
+  },
+  {
+   "words": [
+    105,
+    106,
+    107
+   ],
+   "slot": "top",
+   "scene": 4
+  },
+  {
+   "words": [
+    108,
+    109
+   ],
+   "slot": "top",
+   "scene": 4
+  },
+  {
+   "words": [
+    110,
+    111,
+    112
+   ],
+   "slot": "top",
+   "scene": 4
+  },
+  {
+   "words": [
+    113,
+    114
+   ],
+   "slot": "top",
+   "scene": 4
+  },
+  {
+   "words": [
+    115,
+    116
+   ],
+   "slot": "top",
+   "scene": 5
+  },
+  {
+   "words": [
+    117,
+    118
+   ],
+   "slot": "top",
+   "scene": 5
+  },
+  {
+   "words": [
+    119,
+    120,
+    121
+   ],
+   "slot": "top",
+   "scene": 5
+  },
+  {
+   "words": [
+    122,
+    123,
+    124
+   ],
+   "slot": "top",
+   "scene": 5
+  },
+  {
+   "words": [
+    125,
+    126
+   ],
+   "slot": "top",
+   "scene": 5
+  },
+  {
+   "words": [
+    127,
+    128
+   ],
+   "slot": "top",
+   "scene": 5
+  },
+  {
+   "words": [
+    129,
+    130,
+    131,
+    132
+   ],
+   "slot": "top",
+   "scene": 5
+  },
+  {
+   "words": [
+    133,
+    134,
+    135,
+    136
+   ],
+   "slot": "top",
+   "scene": 5
+  },
+  {
+   "words": [
+    137,
+    138,
+    139
+   ],
+   "slot": "top",
+   "scene": 6
+  },
+  {
+   "words": [
+    140,
+    141,
+    142
+   ],
+   "slot": "top",
+   "scene": 6
+  },
+  {
+   "words": [
+    143,
+    144,
+    145
+   ],
+   "slot": "top",
+   "scene": 6
+  },
+  {
+   "words": [
+    146,
+    147,
+    148
+   ],
+   "slot": "top",
+   "scene": 6
+  },
+  {
+   "words": [
+    149
+   ],
+   "slot": "top",
+   "scene": 6
+  },
+  {
+   "words": [
+    150,
+    151,
+    152
+   ],
+   "slot": "top",
+   "scene": 6
+  },
+  {
+   "words": [
+    153,
+    154,
+    155
+   ],
+   "slot": "top",
+   "scene": 6
+  }
+ ],
+ "words": [
+  {
+   "w": "Abrir",
+   "key": false,
+   "emoji": null,
+   "t": 0.161,
+   "e": 0.411
+  },
+  {
+   "w": "el",
+   "key": false,
+   "emoji": null,
+   "t": 0.464,
+   "e": 0.518
+  },
+  {
+   "w": "modo",
+   "key": false,
+   "emoji": null,
+   "t": 0.589,
+   "e": 0.732
+  },
+  {
+   "w": "incógnito",
+   "key": true,
+   "emoji": "🕵️",
+   "t": 0.768,
+   "e": 1.161
+  },
+  {
+   "w": "en",
+   "key": false,
+   "emoji": null,
+   "t": 1.179,
+   "e": 1.214
+  },
+  {
+   "w": "tu",
+   "key": false,
+   "emoji": null,
+   "t": 1.25,
+   "e": 1.304
+  },
+  {
+   "w": "celular",
+   "key": true,
+   "emoji": "📱",
+   "t": 1.339,
+   "e": 1.714
+  },
+  {
+   "w": "no",
+   "key": true,
+   "emoji": "❌",
+   "t": 1.857,
+   "e": 1.964
+  },
+  {
+   "w": "oculta",
+   "key": false,
+   "emoji": null,
+   "t": 2.107,
+   "e": 2.375
+  },
+  {
+   "w": "lo",
+   "key": false,
+   "emoji": null,
+   "t": 2.411,
+   "e": 2.464
+  },
+  {
+   "w": "que",
+   "key": false,
+   "emoji": null,
+   "t": 2.518,
+   "e": 2.589
+  },
+  {
+   "w": "visitas,",
+   "key": false,
+   "emoji": null,
+   "t": 2.607,
+   "e": 3.107
+  },
+  {
+   "w": "estos",
+   "key": false,
+   "emoji": null,
+   "t": 3.25,
+   "e": 3.589
+  },
+  {
+   "w": "3",
+   "key": true,
+   "emoji": "⚠️",
+   "t": 3.786,
+   "e": 3.839
+  },
+  {
+   "w": "rastreadores",
+   "key": false,
+   "emoji": null,
+   "t": 3.893,
+   "e": 4.482
+  },
+  {
+   "w": "te",
+   "key": false,
+   "emoji": null,
+   "t": 4.625,
+   "e": 4.714
+  },
+  {
+   "w": "ven",
+   "key": false,
+   "emoji": null,
+   "t": 4.75,
+   "e": 4.875
+  },
+  {
+   "w": "igual.",
+   "key": true,
+   "emoji": "👁️",
+   "t": 4.911,
+   "e": 5.232
+  },
+  {
+   "w": "En",
+   "key": false,
+   "emoji": null,
+   "t": 5.375,
+   "e": 5.429
+  },
+  {
+   "w": "2024",
+   "key": true,
+   "emoji": "📅",
+   "t": 5.554,
+   "e": 6.268
+  },
+  {
+   "w": "Google",
+   "key": false,
+   "emoji": null,
+   "t": 6.482,
+   "e": 6.679
+  },
+  {
+   "w": "aceptó",
+   "key": false,
+   "emoji": null,
+   "t": 6.714,
+   "e": 6.982
+  },
+  {
+   "w": "destruir",
+   "key": false,
+   "emoji": null,
+   "t": 7.018,
+   "e": 7.393
+  },
+  {
+   "w": "miles",
+   "key": false,
+   "emoji": null,
+   "t": 7.536,
+   "e": 7.804
+  },
+  {
+   "w": "de",
+   "key": false,
+   "emoji": null,
+   "t": 7.839,
+   "e": 7.875
+  },
+  {
+   "w": "millones",
+   "key": true,
+   "emoji": null,
+   "t": 7.929,
+   "e": 8.232
+  },
+  {
+   "w": "de",
+   "key": false,
+   "emoji": null,
+   "t": 8.25,
+   "e": 8.304
+  },
+  {
+   "w": "registros",
+   "key": true,
+   "emoji": "📂",
+   "t": 8.357,
+   "e": 8.875
+  },
+  {
+   "w": "tras",
+   "key": false,
+   "emoji": null,
+   "t": 9.018,
+   "e": 9.161
+  },
+  {
+   "w": "una",
+   "key": false,
+   "emoji": null,
+   "t": 9.214,
+   "e": 9.357
+  },
+  {
+   "w": "demanda",
+   "key": true,
+   "emoji": "⚖️",
+   "t": 9.375,
+   "e": 9.75
+  },
+  {
+   "w": "por",
+   "key": false,
+   "emoji": null,
+   "t": 9.786,
+   "e": 9.857
+  },
+  {
+   "w": "rastrear",
+   "key": true,
+   "emoji": null,
+   "t": 9.893,
+   "e": 10.179
+  },
+  {
+   "w": "usuarios",
+   "key": false,
+   "emoji": null,
+   "t": 10.232,
+   "e": 10.714
+  },
+  {
+   "w": "en",
+   "key": false,
+   "emoji": null,
+   "t": 10.75,
+   "e": 10.839
+  },
+  {
+   "w": "sesiones",
+   "key": false,
+   "emoji": null,
+   "t": 10.875,
+   "e": 11.232
+  },
+  {
+   "w": "privadas.",
+   "key": true,
+   "emoji": null,
+   "t": 11.304,
+   "e": 11.821
+  },
+  {
+   "w": "Esa",
+   "key": false,
+   "emoji": null,
+   "t": 11.964,
+   "e": 12.143
+  },
+  {
+   "w": "ventana",
+   "key": false,
+   "emoji": null,
+   "t": 12.214,
+   "e": 12.482
+  },
+  {
+   "w": "oscura",
+   "key": true,
+   "emoji": null,
+   "t": 12.518,
+   "e": 12.874
+  },
+  {
+   "w": "solo",
+   "key": false,
+   "emoji": null,
+   "t": 13.017,
+   "e": 13.195
+  },
+  {
+   "w": "borra",
+   "key": true,
+   "emoji": "🧹",
+   "t": 13.213,
+   "e": 13.374
+  },
+  {
+   "w": "el",
+   "key": false,
+   "emoji": null,
+   "t": 13.41,
+   "e": 13.445
+  },
+  {
+   "w": "historial,",
+   "key": false,
+   "emoji": null,
+   "t": 13.481,
+   "e": 13.91
+  },
+  {
+   "w": "las",
+   "key": false,
+   "emoji": null,
+   "t": 14.053,
+   "e": 14.16
+  },
+  {
+   "w": "cookies",
+   "key": true,
+   "emoji": null,
+   "t": 14.231,
+   "e": 14.606
+  },
+  {
+   "w": "y",
+   "key": false,
+   "emoji": null,
+   "t": 14.624,
+   "e": 14.642
+  },
+  {
+   "w": "los",
+   "key": false,
+   "emoji": null,
+   "t": 14.678,
+   "e": 14.803
+  },
+  {
+   "w": "formularios",
+   "key": true,
+   "emoji": null,
+   "t": 14.82,
+   "e": 15.356
+  },
+  {
+   "w": "dentro",
+   "key": false,
+   "emoji": null,
+   "t": 15.499,
+   "e": 15.731
+  },
+  {
+   "w": "de",
+   "key": false,
+   "emoji": null,
+   "t": 15.749,
+   "e": 15.785
+  },
+  {
+   "w": "tu",
+   "key": false,
+   "emoji": null,
+   "t": 15.838,
+   "e": 15.945
+  },
+  {
+   "w": "propio",
+   "key": false,
+   "emoji": null,
+   "t": 15.963,
+   "e": 16.16
+  },
+  {
+   "w": "teléfono",
+   "key": true,
+   "emoji": "📱",
+   "t": 16.213,
+   "e": 16.66
+  },
+  {
+   "w": "al",
+   "key": false,
+   "emoji": null,
+   "t": 16.803,
+   "e": 16.856
+  },
+  {
+   "w": "cerrarla,",
+   "key": true,
+   "emoji": null,
+   "t": 16.928,
+   "e": 17.374
+  },
+  {
+   "w": "como",
+   "key": false,
+   "emoji": null,
+   "t": 17.517,
+   "e": 17.678
+  },
+  {
+   "w": "limpiar",
+   "key": false,
+   "emoji": null,
+   "t": 17.695,
+   "e": 17.981
+  },
+  {
+   "w": "tus",
+   "key": false,
+   "emoji": null,
+   "t": 18.053,
+   "e": 18.195
+  },
+  {
+   "w": "huellas",
+   "key": true,
+   "emoji": "👣",
+   "t": 18.213,
+   "e": 18.606
+  },
+  {
+   "w": "dentro",
+   "key": false,
+   "emoji": null,
+   "t": 18.642,
+   "e": 18.928
+  },
+  {
+   "w": "de",
+   "key": false,
+   "emoji": null,
+   "t": 18.945,
+   "e": 18.999
+  },
+  {
+   "w": "casa.",
+   "key": true,
+   "emoji": "🏠",
+   "t": 19.088,
+   "e": 19.41
+  },
+  {
+   "w": "Pero",
+   "key": false,
+   "emoji": null,
+   "t": 19.553,
+   "e": 19.642
+  },
+  {
+   "w": "en",
+   "key": false,
+   "emoji": null,
+   "t": 19.66,
+   "e": 19.713
+  },
+  {
+   "w": "cuanto",
+   "key": false,
+   "emoji": null,
+   "t": 19.767,
+   "e": 19.945
+  },
+  {
+   "w": "sales",
+   "key": true,
+   "emoji": null,
+   "t": 19.999,
+   "e": 20.213
+  },
+  {
+   "w": "a",
+   "key": false,
+   "emoji": null,
+   "t": 20.213,
+   "e": 20.231
+  },
+  {
+   "w": "internet,",
+   "key": true,
+   "emoji": "🌐",
+   "t": 20.267,
+   "e": 20.642
+  },
+  {
+   "w": "tu",
+   "key": false,
+   "emoji": null,
+   "t": 20.785,
+   "e": 20.856
+  },
+  {
+   "w": "proveedor",
+   "key": false,
+   "emoji": null,
+   "t": 20.928,
+   "e": 21.32
+  },
+  {
+   "w": "de",
+   "key": false,
+   "emoji": null,
+   "t": 21.374,
+   "e": 21.428
+  },
+  {
+   "w": "red",
+   "key": true,
+   "emoji": null,
+   "t": 21.499,
+   "e": 21.678
+  },
+  {
+   "w": "y",
+   "key": false,
+   "emoji": null,
+   "t": 21.82,
+   "e": 21.856
+  },
+  {
+   "w": "el",
+   "key": false,
+   "emoji": null,
+   "t": 21.91,
+   "e": 21.981
+  },
+  {
+   "w": "router",
+   "key": false,
+   "emoji": null,
+   "t": 22.035,
+   "e": 22.32
+  },
+  {
+   "w": "Wi-Fi",
+   "key": true,
+   "emoji": "📡",
+   "t": 22.392,
+   "e": 22.731
+  },
+  {
+   "w": "de",
+   "key": false,
+   "emoji": null,
+   "t": 22.767,
+   "e": 22.82
+  },
+  {
+   "w": "tu",
+   "key": false,
+   "emoji": null,
+   "t": 22.856,
+   "e": 22.91
+  },
+  {
+   "w": "trabajo",
+   "key": true,
+   "emoji": null,
+   "t": 22.963,
+   "e": 23.338
+  },
+  {
+   "w": "o",
+   "key": false,
+   "emoji": null,
+   "t": 23.356,
+   "e": 23.41
+  },
+  {
+   "w": "escuela",
+   "key": false,
+   "emoji": null,
+   "t": 23.445,
+   "e": 23.82
+  },
+  {
+   "w": "ven",
+   "key": false,
+   "emoji": null,
+   "t": 23.963,
+   "e": 24.124
+  },
+  {
+   "w": "cada",
+   "key": false,
+   "emoji": null,
+   "t": 24.213,
+   "e": 24.392
+  },
+  {
+   "w": "dominio",
+   "key": true,
+   "emoji": "🔍",
+   "t": 24.428,
+   "e": 24.749
+  },
+  {
+   "w": "que",
+   "key": false,
+   "emoji": null,
+   "t": 24.838,
+   "e": 24.928
+  },
+  {
+   "w": "abres",
+   "key": false,
+   "emoji": null,
+   "t": 25.017,
+   "e": 25.41
+  },
+  {
+   "w": "en",
+   "key": false,
+   "emoji": null,
+   "t": 25.463,
+   "e": 25.57
+  },
+  {
+   "w": "tiempo",
+   "key": false,
+   "emoji": null,
+   "t": 25.66,
+   "e": 25.945
+  },
+  {
+   "w": "real.",
+   "key": true,
+   "emoji": null,
+   "t": 26.017,
+   "e": 26.303
+  },
+  {
+   "w": "Peor",
+   "key": false,
+   "emoji": null,
+   "t": 26.445,
+   "e": 26.713
+  },
+  {
+   "w": "aún:",
+   "key": true,
+   "emoji": null,
+   "t": 26.767,
+   "e": 27.053
+  },
+  {
+   "w": "las",
+   "key": false,
+   "emoji": null,
+   "t": 27.195,
+   "e": 27.303
+  },
+  {
+   "w": "páginas",
+   "key": false,
+   "emoji": null,
+   "t": 27.392,
+   "e": 27.785
+  },
+  {
+   "w": "cruzan",
+   "key": true,
+   "emoji": null,
+   "t": 27.856,
+   "e": 28.106
+  },
+  {
+   "w": "tu",
+   "key": false,
+   "emoji": null,
+   "t": 28.124,
+   "e": 28.178
+  },
+  {
+   "w": "dirección",
+   "key": false,
+   "emoji": null,
+   "t": 28.195,
+   "e": 28.553
+  },
+  {
+   "w": "IP,",
+   "key": true,
+   "emoji": "📍",
+   "t": 28.588,
+   "e": 28.803
+  },
+  {
+   "w": "tu",
+   "key": false,
+   "emoji": null,
+   "t": 28.945,
+   "e": 28.999
+  },
+  {
+   "w": "modelo",
+   "key": false,
+   "emoji": null,
+   "t": 29.07,
+   "e": 29.356
+  },
+  {
+   "w": "de",
+   "key": false,
+   "emoji": null,
+   "t": 29.374,
+   "e": 29.428
+  },
+  {
+   "w": "pantalla",
+   "key": true,
+   "emoji": null,
+   "t": 29.517,
+   "e": 29.981
+  },
+  {
+   "w": "y",
+   "key": false,
+   "emoji": null,
+   "t": 30.142,
+   "e": 30.178
+  },
+  {
+   "w": "tu",
+   "key": false,
+   "emoji": null,
+   "t": 30.249,
+   "e": 30.32
+  },
+  {
+   "w": "batería",
+   "key": true,
+   "emoji": "🔋",
+   "t": 30.338,
+   "e": 30.767
+  },
+  {
+   "w": "para",
+   "key": false,
+   "emoji": null,
+   "t": 30.91,
+   "e": 31.07
+  },
+  {
+   "w": "crear",
+   "key": false,
+   "emoji": null,
+   "t": 31.106,
+   "e": 31.338
+  },
+  {
+   "w": "una",
+   "key": false,
+   "emoji": null,
+   "t": 31.392,
+   "e": 31.553
+  },
+  {
+   "w": "huella",
+   "key": true,
+   "emoji": "🧬",
+   "t": 31.57,
+   "e": 31.838
+  },
+  {
+   "w": "digital",
+   "key": false,
+   "emoji": null,
+   "t": 31.856,
+   "e": 32.231
+  },
+  {
+   "w": "que",
+   "key": false,
+   "emoji": null,
+   "t": 32.321,
+   "e": 32.374
+  },
+  {
+   "w": "te",
+   "key": false,
+   "emoji": null,
+   "t": 32.428,
+   "e": 32.463
+  },
+  {
+   "w": "identifica",
+   "key": false,
+   "emoji": null,
+   "t": 32.499,
+   "e": 33.071
+  },
+  {
+   "w": "al",
+   "key": false,
+   "emoji": null,
+   "t": 33.213,
+   "e": 33.338
+  },
+  {
+   "w": "99%.",
+   "key": true,
+   "emoji": "🎯",
+   "t": 33.571,
+   "e": 34.196
+  },
+  {
+   "w": "Si",
+   "key": false,
+   "emoji": null,
+   "t": 35.463,
+   "e": 35.571
+  },
+  {
+   "w": "buscas",
+   "key": false,
+   "emoji": null,
+   "t": 35.606,
+   "e": 35.963
+  },
+  {
+   "w": "privacidad",
+   "key": true,
+   "emoji": "🛡️",
+   "t": 35.981,
+   "e": 36.446
+  },
+  {
+   "w": "real,",
+   "key": false,
+   "emoji": null,
+   "t": 36.553,
+   "e": 36.803
+  },
+  {
+   "w": "activa",
+   "key": false,
+   "emoji": null,
+   "t": 36.946,
+   "e": 37.321
+  },
+  {
+   "w": "DNS",
+   "key": true,
+   "emoji": null,
+   "t": 37.463,
+   "e": 37.91
+  },
+  {
+   "w": "cifrado",
+   "key": false,
+   "emoji": null,
+   "t": 37.981,
+   "e": 38.481
+  },
+  {
+   "w": "en",
+   "key": false,
+   "emoji": null,
+   "t": 38.517,
+   "e": 38.588
+  },
+  {
+   "w": "tus",
+   "key": false,
+   "emoji": null,
+   "t": 38.624,
+   "e": 38.749
+  },
+  {
+   "w": "ajustes,",
+   "key": true,
+   "emoji": "⚙️",
+   "t": 38.785,
+   "e": 39.249
+  },
+  {
+   "w": "bloquea",
+   "key": false,
+   "emoji": null,
+   "t": 39.392,
+   "e": 39.731
+  },
+  {
+   "w": "rastreadores",
+   "key": true,
+   "emoji": "🚫",
+   "t": 39.785,
+   "e": 40.285
+  },
+  {
+   "w": "de",
+   "key": false,
+   "emoji": null,
+   "t": 40.303,
+   "e": 40.356
+  },
+  {
+   "w": "terceros",
+   "key": true,
+   "emoji": null,
+   "t": 40.41,
+   "e": 40.838
+  },
+  {
+   "w": "y",
+   "key": false,
+   "emoji": null,
+   "t": 40.981,
+   "e": 41.035
+  },
+  {
+   "w": "usa",
+   "key": false,
+   "emoji": null,
+   "t": 41.124,
+   "e": 41.267
+  },
+  {
+   "w": "una",
+   "key": false,
+   "emoji": null,
+   "t": 41.303,
+   "e": 41.446
+  },
+  {
+   "w": "VPN",
+   "key": true,
+   "emoji": "🔒",
+   "t": 41.463,
+   "e": 41.946
+  },
+  {
+   "w": "confiable",
+   "key": false,
+   "emoji": null,
+   "t": 41.981,
+   "e": 42.624
+  },
+  {
+   "w": "en",
+   "key": false,
+   "emoji": null,
+   "t": 42.66,
+   "e": 42.749
+  },
+  {
+   "w": "redes",
+   "key": false,
+   "emoji": null,
+   "t": 42.803,
+   "e": 43.035
+  },
+  {
+   "w": "públicas.",
+   "key": true,
+   "emoji": null,
+   "t": 43.106,
+   "e": 43.642
+  },
+  {
+   "w": "Dime",
+   "key": false,
+   "emoji": null,
+   "t": 43.785,
+   "e": 43.91
+  },
+  {
+   "w": "en",
+   "key": false,
+   "emoji": null,
+   "t": 43.946,
+   "e": 43.999
+  },
+  {
+   "w": "comentarios",
+   "key": true,
+   "emoji": "💬",
+   "t": 44.035,
+   "e": 44.642
+  },
+  {
+   "w": "para",
+   "key": false,
+   "emoji": null,
+   "t": 44.66,
+   "e": 44.785
+  },
+  {
+   "w": "qué",
+   "key": false,
+   "emoji": null,
+   "t": 44.856,
+   "e": 44.946
+  },
+  {
+   "w": "usabas",
+   "key": true,
+   "emoji": null,
+   "t": 44.981,
+   "e": 45.285
+  },
+  {
+   "w": "el",
+   "key": false,
+   "emoji": null,
+   "t": 45.321,
+   "e": 45.374
+  },
+  {
+   "w": "modo",
+   "key": false,
+   "emoji": null,
+   "t": 45.428,
+   "e": 45.571
+  },
+  {
+   "w": "incógnito",
+   "key": true,
+   "emoji": null,
+   "t": 45.606,
+   "e": 46.124
+  },
+  {
+   "w": "creyendo",
+   "key": false,
+   "emoji": null,
+   "t": 46.231,
+   "e": 46.66
+  },
+  {
+   "w": "que",
+   "key": false,
+   "emoji": null,
+   "t": 46.696,
+   "e": 46.749
+  },
+  {
+   "w": "eras",
+   "key": false,
+   "emoji": null,
+   "t": 46.785,
+   "e": 46.946
+  },
+  {
+   "w": "invisible,",
+   "key": true,
+   "emoji": "👻",
+   "t": 46.981,
+   "e": 47.463
+  },
+  {
+   "w": "comparte",
+   "key": false,
+   "emoji": null,
+   "t": 47.606,
+   "e": 47.963
+  },
+  {
+   "w": "este",
+   "key": false,
+   "emoji": null,
+   "t": 47.999,
+   "e": 48.142
+  },
+  {
+   "w": "video",
+   "key": true,
+   "emoji": "🚀",
+   "t": 48.178,
+   "e": 48.463
+  },
+  {
+   "w": "y",
+   "key": false,
+   "emoji": null,
+   "t": 48.606,
+   "e": 48.624
+  },
+  {
+   "w": "recuerda",
+   "key": false,
+   "emoji": null,
+   "t": 48.713,
+   "e": 49.106
+  },
+  {
+   "w": "esto:",
+   "key": true,
+   "emoji": null,
+   "t": 49.142,
+   "e": 49.356
+  }
+ ]
+}

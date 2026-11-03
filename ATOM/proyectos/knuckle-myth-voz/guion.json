@@ -1,0 +1,9 @@
+{
+  "voz": { "id": "gWaDC0oXAheKoZfljzuI", "modelo": "eleven_v3", "estabilidad": 0.5, "similitud": 0.8, "estilo": 0, "velocidad": 1.08 },
+  "frases": [
+    { "dicho": "[excited] ¡Tronarte los dedos NO te da artritis! [quickly] Un médico lo probó sesenta años con una sola mano.", "texto": "Tronarte los dedos no te da artritis: un médico lo probó 60 años con una sola mano." },
+    { "dicho": "[rushed] Se tronó solo la IZQUIERDA, nunca la derecha.", "texto": "Se tronó solo la izquierda, nunca la derecha." },
+    { "dicho": "[emphasized] ¿El resultado? ¡CERO artritis en las dos! [quickly] Ese crujido es solo una burbuja de gas.", "texto": "¿El resultado? Cero artritis en las dos. Ese crujido es solo una burbuja de gas." },
+    { "dicho": "[excited] Sígueme para más pruebas: ¡este médico ganó un Ig Nobel por probar que...", "texto": "Sígueme para más pruebas: este médico ganó un Ig Nobel por probar que" }
+  ]
+}

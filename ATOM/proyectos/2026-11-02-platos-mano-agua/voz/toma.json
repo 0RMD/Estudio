@@ -1,0 +1,259 @@
+{
+  "firma": "acc9b06556cc",
+  "proveedor": "elevenlabs",
+  "ajustes": {
+    "id": "gWaDC0oXAheKoZfljzuI",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.4,
+    "similitud": 0.8,
+    "estilo": 0,
+    "velocidad": 1.12
+  },
+  "palabras": [
+    {
+      "texto": "¿Sabías",
+      "inicio": 0,
+      "fin": 0.48
+    },
+    {
+      "texto": "que",
+      "inicio": 0.56,
+      "fin": 0.64
+    },
+    {
+      "texto": "lavar",
+      "inicio": 0.68,
+      "fin": 0.88
+    },
+    {
+      "texto": "los",
+      "inicio": 0.96,
+      "fin": 1.04
+    },
+    {
+      "texto": "platos",
+      "inicio": 1.12,
+      "fin": 1.44
+    },
+    {
+      "texto": "a",
+      "inicio": 1.52,
+      "fin": 1.56
+    },
+    {
+      "texto": "mano",
+      "inicio": 1.6,
+      "fin": 1.84
+    },
+    {
+      "texto": "gasta",
+      "inicio": 1.92,
+      "fin": 2.24
+    },
+    {
+      "texto": "cuatro",
+      "inicio": 2.32,
+      "fin": 2.64
+    },
+    {
+      "texto": "veces",
+      "inicio": 2.72,
+      "fin": 2.96
+    },
+    {
+      "texto": "más",
+      "inicio": 3.12,
+      "fin": 3.28
+    },
+    {
+      "texto": "agua?",
+      "inicio": 3.36,
+      "fin": 3.76
+    },
+    {
+      "texto": "Con",
+      "inicio": 4.16,
+      "fin": 4.24
+    },
+    {
+      "texto": "la",
+      "inicio": 4.28,
+      "fin": 4.32
+    },
+    {
+      "texto": "llave",
+      "inicio": 4.4,
+      "fin": 4.56
+    },
+    {
+      "texto": "abierta",
+      "inicio": 4.64,
+      "fin": 5.04
+    },
+    {
+      "texto": "se",
+      "inicio": 5.12,
+      "fin": 5.2
+    },
+    {
+      "texto": "van",
+      "inicio": 5.28,
+      "fin": 5.36
+    },
+    {
+      "texto": "cincuenta",
+      "inicio": 5.44,
+      "fin": 6
+    },
+    {
+      "texto": "litros",
+      "inicio": 6.08,
+      "fin": 6.4
+    },
+    {
+      "texto": "limpios",
+      "inicio": 6.48,
+      "fin": 6.88
+    },
+    {
+      "texto": "directo",
+      "inicio": 7.08,
+      "fin": 7.32
+    },
+    {
+      "texto": "al",
+      "inicio": 7.36,
+      "fin": 7.4
+    },
+    {
+      "texto": "desagüe.",
+      "inicio": 7.44,
+      "fin": 8.32
+    },
+    {
+      "texto": "El",
+      "inicio": 8.36,
+      "fin": 8.4
+    },
+    {
+      "texto": "lavavajillas",
+      "inicio": 8.48,
+      "fin": 9.12
+    },
+    {
+      "texto": "llena",
+      "inicio": 9.16,
+      "fin": 9.36
+    },
+    {
+      "texto": "solo",
+      "inicio": 9.44,
+      "fin": 9.68
+    },
+    {
+      "texto": "doce",
+      "inicio": 9.76,
+      "fin": 10
+    },
+    {
+      "texto": "litros",
+      "inicio": 10.08,
+      "fin": 10.48
+    },
+    {
+      "texto": "y",
+      "inicio": 10.56,
+      "fin": 10.64
+    },
+    {
+      "texto": "los",
+      "inicio": 10.72,
+      "fin": 10.8
+    },
+    {
+      "texto": "recicla",
+      "inicio": 10.88,
+      "fin": 11.2
+    },
+    {
+      "texto": "calientes",
+      "inicio": 11.28,
+      "fin": 11.84
+    },
+    {
+      "texto": "una",
+      "inicio": 11.92,
+      "fin": 12.16
+    },
+    {
+      "texto": "y",
+      "inicio": 12.24,
+      "fin": 12.28
+    },
+    {
+      "texto": "otra",
+      "inicio": 12.32,
+      "fin": 12.56
+    },
+    {
+      "texto": "vez.",
+      "inicio": 12.72,
+      "fin": 13.28
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 13.4,
+      "fin": 13.84
+    },
+    {
+      "texto": "a",
+      "inicio": 13.88,
+      "fin": 13.92
+    },
+    {
+      "texto": "ese",
+      "inicio": 14,
+      "fin": 14.08
+    },
+    {
+      "texto": "amigo",
+      "inicio": 14.16,
+      "fin": 14.4
+    },
+    {
+      "texto": "que",
+      "inicio": 14.48,
+      "fin": 14.56
+    },
+    {
+      "texto": "lava",
+      "inicio": 14.6,
+      "fin": 14.8
+    },
+    {
+      "texto": "a",
+      "inicio": 14.84,
+      "fin": 14.88
+    },
+    {
+      "texto": "mano",
+      "inicio": 14.96,
+      "fin": 15.2
+    },
+    {
+      "texto": "para",
+      "inicio": 15.28,
+      "fin": 15.44
+    },
+    {
+      "texto": "ahorrar",
+      "inicio": 15.48,
+      "fin": 15.76
+    },
+    {
+      "texto": "agua.",
+      "inicio": 15.92,
+      "fin": 16.4
+    }
+  ]
+}

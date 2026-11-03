@@ -1,0 +1,28 @@
+{
+  "titulo": "El gasto del cerebro",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "frases": [
+    {
+      "texto": "Tu cerebro consume la quinta parte de toda tu energia.",
+      "clave": "quinta",
+      "hook": true
+    },
+    {
+      "texto": "Pesa poco, pero gasta como una bombilla encendida todo el dia.",
+      "clave": "bombilla"
+    },
+    {
+      "texto": "Cuando piensas mucho, no gasta mucho mas.",
+      "clave": "mas"
+    },
+    {
+      "texto": "El gasto grande es mantenerlo vivo.",
+      "clave": "vivo"
+    },
+    {
+      "texto": "Por eso nunca descansa de verdad.",
+      "clave": "descansa"
+    }
+  ]
+}

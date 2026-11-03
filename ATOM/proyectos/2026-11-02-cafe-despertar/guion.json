@@ -1,0 +1,34 @@
+{
+  "titulo": "Por qué el café recién levantado da sueño a mediodía",
+  "idioma": "es",
+  "tema": "claro",
+  "subtitulos": "arriba",
+  "voz": {
+    "id": "gWaDC0oXAheKoZfljzuI",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.4,
+    "similitud": 0.8,
+    "estilo": 0,
+    "velocidad": 1.12
+  },
+  "frases": [
+    {
+      "texto": "¿Por qué tomar café apenas despiertas te da más sueño a mediodía?",
+      "clave": "mediodía",
+      "hook": true
+    },
+    {
+      "texto": "Al levantarte, tu cuerpo ya enciende solo su pico natural de energía.",
+      "clave": "energía"
+    },
+    {
+      "texto": "El café solo tapa el cansancio como un corcho, y a mediodía salta de golpe.",
+      "clave": "corcho"
+    },
+    {
+      "texto": "Espera 90 minutos al despertar. Envíaselo a ese amigo que vive con sueño.",
+      "dicho": "Espera noventa minutos al despertar. Envíaselo a ese amigo que vive con sueño.",
+      "clave": "minutos"
+    }
+  ]
+}

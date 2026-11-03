@@ -1,0 +1,61 @@
+{
+  "titulo": "Tu esencia no se diseña, se descubre",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "voz": {
+    "id": "PCjV8FdfWhg7DoHrZOpu",
+    "modelo": "eleven_v4",
+    "estabilidad": 0.35,
+    "similitud": 0.75,
+    "estilo": 0,
+    "velocidad": 1
+  },
+  "frases": [
+    {
+      "texto": "Si estudiaste PNL y ya te pagan por lo que sabes, seguro sientes que para mostrarte tienes que ser otra mujer,",
+      "clave": "otra",
+      "hook": true
+    },
+    {
+      "texto": "más segura, más preparada, con un nombre bonito para lo que haces, y por eso mismo no te la crees ni tú.",
+      "clave": "crees",
+      "hook": true
+    },
+    {
+      "texto": "Tu esencia no se diseña, se descubre,",
+      "clave": "descubre"
+    },
+    {
+      "texto": "y se descubre en tres lugares: las heridas que te formaron, los momentos que te transformaron y las verdades que hoy defiendes.",
+      "clave": "tres"
+    },
+    {
+      "texto": "Te lo digo porque a mí me pasó: yo sentía que mi brillo era demasiado para otras personas,",
+      "clave": "brillo"
+    },
+    {
+      "texto": "que si me mostraba en redes sociales, mi familia se iba a burlar de mí,",
+      "clave": "burlar"
+    },
+    {
+      "texto": "pero resulta que esa herida es desde donde hoy conecto con mujeres como tú.",
+      "clave": "conecto"
+    },
+    {
+      "texto": "Eso es lo que hacemos en mi inmersión: dos días EN VIVO donde empezamos por tu ESENCIA,",
+      "clave": "ESENCIA"
+    },
+    {
+      "texto": "para que lo que comuniques salga de lo que viviste y no de lo que crees que deberías ser.",
+      "clave": "viviste"
+    },
+    {
+      "texto": "Si quieres descubrir desde dónde conectas de verdad en vez de seguir diseñando una versión de ti,",
+      "clave": "verdad"
+    },
+    {
+      "texto": "toca el botón de abajo y aparta tu lugar, es en vivo y los cupos son limitados.",
+      "clave": "lugar"
+    }
+  ]
+}

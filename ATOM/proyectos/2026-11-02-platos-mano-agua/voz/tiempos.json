@@ -1,0 +1,379 @@
+{
+  "firma": "acc9b06556cc",
+  "duracion": 17.2,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "¿Sabías que lavar los platos a mano gasta 4 veces más agua?",
+      "clave": "agua",
+      "inicio": 0,
+      "fin": 3.76
+    },
+    {
+      "n": 2,
+      "texto": "Con la llave abierta se van 50 litros limpios directo al desagüe.",
+      "clave": "desagüe",
+      "inicio": 4.16,
+      "fin": 8.32
+    },
+    {
+      "n": 3,
+      "texto": "El lavavajillas llena solo 12 litros y los recicla calientes una y otra vez.",
+      "clave": "recicla",
+      "inicio": 8.36,
+      "fin": 13.28
+    },
+    {
+      "n": 4,
+      "texto": "Envíaselo a ese amigo que lava a mano para ahorrar agua.",
+      "clave": "amigo",
+      "inicio": 13.4,
+      "fin": 16.4
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "¿Sabías",
+      "inicio": 0,
+      "fin": 0.48,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 0.56,
+      "fin": 0.64,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "lavar",
+      "inicio": 0.68,
+      "fin": 0.88,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 0.96,
+      "fin": 1.04,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "platos",
+      "inicio": 1.12,
+      "fin": 1.44,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 1.52,
+      "fin": 1.56,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "mano",
+      "inicio": 1.6,
+      "fin": 1.84,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "gasta",
+      "inicio": 1.92,
+      "fin": 2.24,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "4",
+      "inicio": 2.32,
+      "fin": 2.64,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "veces",
+      "inicio": 2.72,
+      "fin": 2.96,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 3.12,
+      "fin": 3.28,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "agua?",
+      "inicio": 3.36,
+      "fin": 3.76,
+      "frase": 1,
+      "clave": true
+    },
+    {
+      "texto": "Con",
+      "inicio": 4.16,
+      "fin": 4.24,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 4.28,
+      "fin": 4.32,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "llave",
+      "inicio": 4.4,
+      "fin": 4.56,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "abierta",
+      "inicio": 4.64,
+      "fin": 5.04,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "se",
+      "inicio": 5.12,
+      "fin": 5.2,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "van",
+      "inicio": 5.28,
+      "fin": 5.36,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "50",
+      "inicio": 5.44,
+      "fin": 6,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "litros",
+      "inicio": 6.08,
+      "fin": 6.4,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "limpios",
+      "inicio": 6.48,
+      "fin": 6.88,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "directo",
+      "inicio": 7.08,
+      "fin": 7.32,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "al",
+      "inicio": 7.36,
+      "fin": 7.4,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "desagüe.",
+      "inicio": 7.44,
+      "fin": 8.32,
+      "frase": 2,
+      "clave": true
+    },
+    {
+      "texto": "El",
+      "inicio": 8.36,
+      "fin": 8.4,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "lavavajillas",
+      "inicio": 8.48,
+      "fin": 9.12,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "llena",
+      "inicio": 9.16,
+      "fin": 9.36,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "solo",
+      "inicio": 9.44,
+      "fin": 9.68,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "12",
+      "inicio": 9.76,
+      "fin": 10,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "litros",
+      "inicio": 10.08,
+      "fin": 10.48,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 10.56,
+      "fin": 10.64,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 10.72,
+      "fin": 10.8,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "recicla",
+      "inicio": 10.88,
+      "fin": 11.2,
+      "frase": 3,
+      "clave": true
+    },
+    {
+      "texto": "calientes",
+      "inicio": 11.28,
+      "fin": 11.84,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 11.92,
+      "fin": 12.16,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "y",
+      "inicio": 12.24,
+      "fin": 12.28,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "otra",
+      "inicio": 12.32,
+      "fin": 12.56,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "vez.",
+      "inicio": 12.72,
+      "fin": 13.28,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "Envíaselo",
+      "inicio": 13.4,
+      "fin": 13.84,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 13.88,
+      "fin": 13.92,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "ese",
+      "inicio": 14,
+      "fin": 14.08,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "amigo",
+      "inicio": 14.16,
+      "fin": 14.4,
+      "frase": 4,
+      "clave": true
+    },
+    {
+      "texto": "que",
+      "inicio": 14.48,
+      "fin": 14.56,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "lava",
+      "inicio": 14.6,
+      "fin": 14.8,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "a",
+      "inicio": 14.84,
+      "fin": 14.88,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "mano",
+      "inicio": 14.96,
+      "fin": 15.2,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "para",
+      "inicio": 15.28,
+      "fin": 15.44,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "ahorrar",
+      "inicio": 15.48,
+      "fin": 15.76,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "agua.",
+      "inicio": 15.92,
+      "fin": 16.4,
+      "frase": 4,
+      "clave": false
+    }
+  ]
+}

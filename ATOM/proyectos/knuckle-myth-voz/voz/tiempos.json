@@ -1,0 +1,407 @@
+{
+  "firma": "c9ff6ebb16f7",
+  "duracion": 19.847,
+  "frases": [
+    {
+      "n": 1,
+      "texto": "Tronarte los dedos no te da artritis: un médico lo probó 60 años con una sola mano.",
+      "clave": null,
+      "inicio": 0,
+      "fin": 5.68
+    },
+    {
+      "n": 2,
+      "texto": "Se tronó solo la izquierda, nunca la derecha.",
+      "clave": null,
+      "inicio": 5.8,
+      "fin": 8.244
+    },
+    {
+      "n": 3,
+      "texto": "¿El resultado? Cero artritis en las dos. Ese crujido es solo una burbuja de gas.",
+      "clave": null,
+      "inicio": 8.524,
+      "fin": 14.607
+    },
+    {
+      "n": 4,
+      "texto": "Sígueme para más pruebas: este médico ganó un Ig Nobel por probar que",
+      "clave": null,
+      "inicio": 14.707,
+      "fin": 19.047
+    }
+  ],
+  "palabras": [
+    {
+      "texto": "Tronarte",
+      "inicio": 0.072,
+      "fin": 0.48,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "los",
+      "inicio": 0.52,
+      "fin": 0.64,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "dedos",
+      "inicio": 0.7,
+      "fin": 1.04,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "no",
+      "inicio": 1.147,
+      "fin": 1.36,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "te",
+      "inicio": 1.413,
+      "fin": 1.52,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "da",
+      "inicio": 1.573,
+      "fin": 1.68,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "artritis:",
+      "inicio": 1.733,
+      "fin": 2.32,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 2.867,
+      "fin": 2.88,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "médico",
+      "inicio": 2.94,
+      "fin": 3.2,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "lo",
+      "inicio": 3.253,
+      "fin": 3.36,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "probó",
+      "inicio": 3.392,
+      "fin": 3.6,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "60",
+      "inicio": 3.68,
+      "fin": 4.24,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "años",
+      "inicio": 4.32,
+      "fin": 4.64,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "con",
+      "inicio": 4.68,
+      "fin": 4.8,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 4.86,
+      "fin": 5.04,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "sola",
+      "inicio": 5.088,
+      "fin": 5.28,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "mano.",
+      "inicio": 5.344,
+      "fin": 5.68,
+      "frase": 1,
+      "clave": false
+    },
+    {
+      "texto": "Se",
+      "inicio": 5.977,
+      "fin": 6.004,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "tronó",
+      "inicio": 6.057,
+      "fin": 6.324,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "solo",
+      "inicio": 6.372,
+      "fin": 6.564,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 6.591,
+      "fin": 6.644,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "izquierda,",
+      "inicio": 6.684,
+      "fin": 7.284,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "nunca",
+      "inicio": 7.337,
+      "fin": 7.604,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "la",
+      "inicio": 7.631,
+      "fin": 7.684,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "derecha.",
+      "inicio": 7.732,
+      "fin": 8.244,
+      "frase": 2,
+      "clave": false
+    },
+    {
+      "texto": "¿El",
+      "inicio": 8.864,
+      "fin": 8.884,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "resultado?",
+      "inicio": 8.948,
+      "fin": 9.844,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "Cero",
+      "inicio": 10.004,
+      "fin": 10.324,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "artritis",
+      "inicio": 10.404,
+      "fin": 10.964,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "en",
+      "inicio": 10.991,
+      "fin": 11.044,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "las",
+      "inicio": 11.064,
+      "fin": 11.124,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "dos.",
+      "inicio": 11.224,
+      "fin": 11.604,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "Ese",
+      "inicio": 12.314,
+      "fin": 12.407,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "crujido",
+      "inicio": 12.46,
+      "fin": 12.967,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "es",
+      "inicio": 13.02,
+      "fin": 13.127,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "solo",
+      "inicio": 13.159,
+      "fin": 13.287,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "una",
+      "inicio": 13.327,
+      "fin": 13.447,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "burbuja",
+      "inicio": 13.507,
+      "fin": 13.927,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "de",
+      "inicio": 13.98,
+      "fin": 14.087,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "gas.",
+      "inicio": 14.167,
+      "fin": 14.607,
+      "frase": 3,
+      "clave": false
+    },
+    {
+      "texto": "Sígueme",
+      "inicio": 14.863,
+      "fin": 15.127,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "para",
+      "inicio": 15.159,
+      "fin": 15.287,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "más",
+      "inicio": 15.327,
+      "fin": 15.447,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "pruebas:",
+      "inicio": 15.5,
+      "fin": 16.167,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "este",
+      "inicio": 16.207,
+      "fin": 16.407,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "médico",
+      "inicio": 16.467,
+      "fin": 16.807,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "ganó",
+      "inicio": 16.867,
+      "fin": 17.127,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "un",
+      "inicio": 17.154,
+      "fin": 17.207,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "Ig",
+      "inicio": 17.314,
+      "fin": 17.527,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "Nobel",
+      "inicio": 17.607,
+      "fin": 18.007,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "por",
+      "inicio": 18.047,
+      "fin": 18.167,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "probar",
+      "inicio": 18.207,
+      "fin": 18.487,
+      "frase": 4,
+      "clave": false
+    },
+    {
+      "texto": "que",
+      "inicio": 18.567,
+      "fin": 19.047,
+      "frase": 4,
+      "clave": false
+    }
+  ]
+}
